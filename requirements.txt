@@ -1,0 +1,24 @@
+# Aritzia Price Analysis Project - Requirements
+# Install with: pip install -r requirements.txt
+
+# Data manipulation and analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Statistical analysis
+scipy>=1.10.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Web scraping (for future real data collection)
+requests>=2.28.0
+beautifulsoup4>=4.12.0
+
+# Jupyter notebook support
+jupyter>=1.0.0
+notebook>=6.5.0
+
+# PDF generation for reports
+reportlab>=4.0.0

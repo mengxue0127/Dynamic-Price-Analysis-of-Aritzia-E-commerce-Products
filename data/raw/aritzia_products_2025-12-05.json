@@ -1,0 +1,3551 @@
+[
+  {
+    "sku": "AZ-PH0QSF",
+    "name": "Refined Bomber Jacket",
+    "category": "outerwear",
+    "url": "https://www.aritzia.com/en/product/refined-bomber-jacket/az-ph0qsf",
+    "original_price": 227.95,
+    "sale_price": 227.95,
+    "discount_percentage": 0,
+    "colors": [
+      "Cream",
+      "Pink"
+    ],
+    "in_stock": true,
+    "id": 1,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-QQVC4C",
+    "name": "Ultra Denim Jacket",
+    "category": "outerwear",
+    "url": "https://www.aritzia.com/en/product/ultra-denim-jacket/az-qqvc4c",
+    "original_price": 337.88,
+    "sale_price": 337.88,
+    "discount_percentage": 0,
+    "colors": [
+      "Black",
+      "Camel",
+      "Grey",
+      "Blue",
+      "Burgundy"
+    ],
+    "in_stock": true,
+    "id": 2,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-5JBDFL",
+    "name": "Signature Blazer",
+    "category": "outerwear",
+    "url": "https://www.aritzia.com/en/product/signature-blazer/az-5jbdfl",
+    "original_price": 416.3,
+    "sale_price": 374.67,
+    "discount_percentage": 10,
+    "colors": [
+      "Green"
+    ],
+    "in_stock": true,
+    "id": 3,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-4EC5H6",
+    "name": "Relaxed Bomber Jacket",
+    "category": "outerwear",
+    "url": "https://www.aritzia.com/en/product/relaxed-bomber-jacket/az-4ec5h6",
+    "original_price": 203.09,
+    "sale_price": 203.09,
+    "discount_percentage": 0,
+    "colors": [
+      "Brown",
+      "Olive",
+      "Navy",
+      "Green",
+      "Burgundy"
+    ],
+    "in_stock": true,
+    "id": 4,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-32X3QD",
+    "name": "Relaxed Trench Coat",
+    "category": "outerwear",
+    "url": "https://www.aritzia.com/en/product/relaxed-trench-coat/az-32x3qd",
+    "original_price": 176.21,
+    "sale_price": 176.21,
+    "discount_percentage": 0,
+    "colors": [
+      "Grey",
+      "Navy",
+      "Blue"
+    ],
+    "in_stock": true,
+    "id": 5,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-RCQUUB",
+    "name": "Ultra Blazer",
+    "category": "outerwear",
+    "url": "https://www.aritzia.com/en/product/ultra-blazer/az-rcquub",
+    "original_price": 242.74,
+    "sale_price": 145.64,
+    "discount_percentage": 40,
+    "colors": [
+      "White",
+      "Blue",
+      "Black",
+      "Grey",
+      "Olive"
+    ],
+    "in_stock": true,
+    "id": 6,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-UZSL4I",
+    "name": "Ultra Denim Jacket",
+    "category": "outerwear",
+    "url": "https://www.aritzia.com/en/product/ultra-denim-jacket/az-uzsl4i",
+    "original_price": 358.06,
+    "sale_price": 322.25,
+    "discount_percentage": 10,
+    "colors": [
+      "Navy",
+      "Brown",
+      "White",
+      "Olive",
+      "Black"
+    ],
+    "in_stock": true,
+    "id": 7,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-K5P5KJ",
+    "name": "Modern Leather Jacket",
+    "category": "outerwear",
+    "url": "https://www.aritzia.com/en/product/modern-leather-jacket/az-k5p5kj",
+    "original_price": 298.55,
+    "sale_price": 149.28,
+    "discount_percentage": 50,
+    "colors": [
+      "Navy",
+      "White",
+      "Olive"
+    ],
+    "in_stock": true,
+    "id": 8,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-OSVS0I",
+    "name": "Relaxed Cardigan",
+    "category": "outerwear",
+    "url": "https://www.aritzia.com/en/product/relaxed-cardigan/az-osvs0i",
+    "original_price": 168.71,
+    "sale_price": 101.23,
+    "discount_percentage": 40,
+    "colors": [
+      "Grey"
+    ],
+    "in_stock": true,
+    "id": 9,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-KE2DB0",
+    "name": "Refined Denim Jacket",
+    "category": "outerwear",
+    "url": "https://www.aritzia.com/en/product/refined-denim-jacket/az-ke2db0",
+    "original_price": 154.59,
+    "sale_price": 154.59,
+    "discount_percentage": 0,
+    "colors": [
+      "Olive",
+      "Cream",
+      "Camel",
+      "Grey",
+      "Black"
+    ],
+    "in_stock": true,
+    "id": 10,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-QJS2D9",
+    "name": "Effortless Puffer Jacket",
+    "category": "outerwear",
+    "url": "https://www.aritzia.com/en/product/effortless-puffer-jacket/az-qjs2d9",
+    "original_price": 411.04,
+    "sale_price": 411.04,
+    "discount_percentage": 0,
+    "colors": [
+      "Green"
+    ],
+    "in_stock": true,
+    "id": 11,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-QPV8MI",
+    "name": "Ultra Bomber Jacket",
+    "category": "outerwear",
+    "url": "https://www.aritzia.com/en/product/ultra-bomber-jacket/az-qpv8mi",
+    "original_price": 449.53,
+    "sale_price": 314.67,
+    "discount_percentage": 30,
+    "colors": [
+      "Camel",
+      "Pink",
+      "Brown",
+      "Grey",
+      "Olive"
+    ],
+    "in_stock": true,
+    "id": 12,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-UNFA66",
+    "name": "Relaxed Leather Jacket",
+    "category": "outerwear",
+    "url": "https://www.aritzia.com/en/product/relaxed-leather-jacket/az-unfa66",
+    "original_price": 352.68,
+    "sale_price": 352.68,
+    "discount_percentage": 0,
+    "colors": [
+      "Olive",
+      "White",
+      "Brown",
+      "Cream"
+    ],
+    "in_stock": true,
+    "id": 13,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-RKF2R3",
+    "name": "Refined Wool Coat",
+    "category": "outerwear",
+    "url": "https://www.aritzia.com/en/product/refined-wool-coat/az-rkf2r3",
+    "original_price": 243.15,
+    "sale_price": 170.2,
+    "discount_percentage": 30,
+    "colors": [
+      "Blue",
+      "Black",
+      "Pink",
+      "Navy"
+    ],
+    "in_stock": true,
+    "id": 14,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-HGILUH",
+    "name": "Refined Trench Coat",
+    "category": "outerwear",
+    "url": "https://www.aritzia.com/en/product/refined-trench-coat/az-hgiluh",
+    "original_price": 426.55,
+    "sale_price": 341.24,
+    "discount_percentage": 20,
+    "colors": [
+      "Olive",
+      "Navy",
+      "White",
+      "Green"
+    ],
+    "in_stock": true,
+    "id": 15,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-1QA67Z",
+    "name": "Classic Cardigan",
+    "category": "outerwear",
+    "url": "https://www.aritzia.com/en/product/classic-cardigan/az-1qa67z",
+    "original_price": 310.39,
+    "sale_price": 248.31,
+    "discount_percentage": 20,
+    "colors": [
+      "Blue",
+      "Black",
+      "Grey"
+    ],
+    "in_stock": true,
+    "id": 16,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-UG75PL",
+    "name": "Modern Puffer Jacket",
+    "category": "outerwear",
+    "url": "https://www.aritzia.com/en/product/modern-puffer-jacket/az-ug75pl",
+    "original_price": 286.85,
+    "sale_price": 286.85,
+    "discount_percentage": 0,
+    "colors": [
+      "Green"
+    ],
+    "in_stock": true,
+    "id": 17,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-AOAWMK",
+    "name": "Ultra Trench Coat",
+    "category": "outerwear",
+    "url": "https://www.aritzia.com/en/product/ultra-trench-coat/az-aoawmk",
+    "original_price": 261.18,
+    "sale_price": 156.71,
+    "discount_percentage": 40,
+    "colors": [
+      "White"
+    ],
+    "in_stock": true,
+    "id": 18,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-Q0M66L",
+    "name": "Modern Puffer Jacket",
+    "category": "outerwear",
+    "url": "https://www.aritzia.com/en/product/modern-puffer-jacket/az-q0m66l",
+    "original_price": 208.59,
+    "sale_price": 208.59,
+    "discount_percentage": 0,
+    "colors": [
+      "White",
+      "Pink",
+      "Green",
+      "Grey",
+      "Camel"
+    ],
+    "in_stock": true,
+    "id": 19,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-T1I4IN",
+    "name": "Signature Cardigan",
+    "category": "outerwear",
+    "url": "https://www.aritzia.com/en/product/signature-cardigan/az-t1i4in",
+    "original_price": 279.71,
+    "sale_price": 279.71,
+    "discount_percentage": 0,
+    "colors": [
+      "Black"
+    ],
+    "in_stock": false,
+    "id": 20,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-3GYNHZ",
+    "name": "Effortless Bomber Jacket",
+    "category": "outerwear",
+    "url": "https://www.aritzia.com/en/product/effortless-bomber-jacket/az-3gynhz",
+    "original_price": 278.98,
+    "sale_price": 278.98,
+    "discount_percentage": 0,
+    "colors": [
+      "Navy",
+      "Burgundy",
+      "Blue",
+      "Camel"
+    ],
+    "in_stock": true,
+    "id": 21,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-J8K1TN",
+    "name": "Modern Bomber Jacket",
+    "category": "outerwear",
+    "url": "https://www.aritzia.com/en/product/modern-bomber-jacket/az-j8k1tn",
+    "original_price": 189.59,
+    "sale_price": 189.59,
+    "discount_percentage": 0,
+    "colors": [
+      "Brown",
+      "Green",
+      "Cream",
+      "Grey",
+      "Black"
+    ],
+    "in_stock": true,
+    "id": 22,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-YPLBF0",
+    "name": "Signature Cardigan",
+    "category": "outerwear",
+    "url": "https://www.aritzia.com/en/product/signature-cardigan/az-yplbf0",
+    "original_price": 210.39,
+    "sale_price": 210.39,
+    "discount_percentage": 0,
+    "colors": [
+      "Camel",
+      "Brown"
+    ],
+    "in_stock": true,
+    "id": 23,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-JCVEEH",
+    "name": "Super Denim Jacket",
+    "category": "outerwear",
+    "url": "https://www.aritzia.com/en/product/super-denim-jacket/az-jcveeh",
+    "original_price": 362.69,
+    "sale_price": 290.15,
+    "discount_percentage": 20,
+    "colors": [
+      "Green",
+      "Olive",
+      "White",
+      "Black",
+      "Cream"
+    ],
+    "in_stock": true,
+    "id": 24,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-M0SRBB",
+    "name": "Refined Leather Jacket",
+    "category": "outerwear",
+    "url": "https://www.aritzia.com/en/product/refined-leather-jacket/az-m0srbb",
+    "original_price": 333.7,
+    "sale_price": 333.7,
+    "discount_percentage": 0,
+    "colors": [
+      "Green",
+      "Brown",
+      "Blue"
+    ],
+    "in_stock": true,
+    "id": 25,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-X56GSD",
+    "name": "Effortless Blazer",
+    "category": "outerwear",
+    "url": "https://www.aritzia.com/en/product/effortless-blazer/az-x56gsd",
+    "original_price": 267.42,
+    "sale_price": 267.42,
+    "discount_percentage": 0,
+    "colors": [
+      "Black",
+      "Burgundy"
+    ],
+    "in_stock": false,
+    "id": 26,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-3CR0CI",
+    "name": "Super Blazer",
+    "category": "outerwear",
+    "url": "https://www.aritzia.com/en/product/super-blazer/az-3cr0ci",
+    "original_price": 323.41,
+    "sale_price": 323.41,
+    "discount_percentage": 0,
+    "colors": [
+      "Black",
+      "Camel"
+    ],
+    "in_stock": true,
+    "id": 27,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-GUK6PC",
+    "name": "Relaxed Puffer Jacket",
+    "category": "outerwear",
+    "url": "https://www.aritzia.com/en/product/relaxed-puffer-jacket/az-guk6pc",
+    "original_price": 384.01,
+    "sale_price": 307.21,
+    "discount_percentage": 20,
+    "colors": [
+      "Black",
+      "Olive",
+      "Cream",
+      "Blue"
+    ],
+    "in_stock": true,
+    "id": 28,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-H6GK94",
+    "name": "Contour Leather Jacket",
+    "category": "outerwear",
+    "url": "https://www.aritzia.com/en/product/contour-leather-jacket/az-h6gk94",
+    "original_price": 170.1,
+    "sale_price": 170.1,
+    "discount_percentage": 0,
+    "colors": [
+      "Cream",
+      "Pink",
+      "Black",
+      "White"
+    ],
+    "in_stock": true,
+    "id": 29,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-ZJF4H5",
+    "name": "Essential Puffer Jacket",
+    "category": "outerwear",
+    "url": "https://www.aritzia.com/en/product/essential-puffer-jacket/az-zjf4h5",
+    "original_price": 342.55,
+    "sale_price": 239.78,
+    "discount_percentage": 30,
+    "colors": [
+      "Brown"
+    ],
+    "in_stock": true,
+    "id": 30,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-4KNE4W",
+    "name": "Modern Blazer",
+    "category": "outerwear",
+    "url": "https://www.aritzia.com/en/product/modern-blazer/az-4kne4w",
+    "original_price": 270.69,
+    "sale_price": 135.34,
+    "discount_percentage": 50,
+    "colors": [
+      "Camel",
+      "Grey"
+    ],
+    "in_stock": true,
+    "id": 31,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-FDZBC2",
+    "name": "Super Puffer Jacket",
+    "category": "outerwear",
+    "url": "https://www.aritzia.com/en/product/super-puffer-jacket/az-fdzbc2",
+    "original_price": 237.24,
+    "sale_price": 237.24,
+    "discount_percentage": 0,
+    "colors": [
+      "Camel",
+      "Green"
+    ],
+    "in_stock": true,
+    "id": 32,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-DSHHZR",
+    "name": "Classic Wool Coat",
+    "category": "outerwear",
+    "url": "https://www.aritzia.com/en/product/classic-wool-coat/az-dshhzr",
+    "original_price": 274.08,
+    "sale_price": 274.08,
+    "discount_percentage": 0,
+    "colors": [
+      "Camel",
+      "Burgundy"
+    ],
+    "in_stock": true,
+    "id": 33,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-5PJV8U",
+    "name": "Effortless Denim Jacket",
+    "category": "outerwear",
+    "url": "https://www.aritzia.com/en/product/effortless-denim-jacket/az-5pjv8u",
+    "original_price": 419.39,
+    "sale_price": 419.39,
+    "discount_percentage": 0,
+    "colors": [
+      "White",
+      "Green",
+      "Blue",
+      "Burgundy"
+    ],
+    "in_stock": true,
+    "id": 34,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-G5H5VH",
+    "name": "Super Blazer",
+    "category": "outerwear",
+    "url": "https://www.aritzia.com/en/product/super-blazer/az-g5h5vh",
+    "original_price": 272.76,
+    "sale_price": 272.76,
+    "discount_percentage": 0,
+    "colors": [
+      "Brown",
+      "Blue"
+    ],
+    "in_stock": true,
+    "id": 35,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-1A326N",
+    "name": "Classic Blazer",
+    "category": "outerwear",
+    "url": "https://www.aritzia.com/en/product/classic-blazer/az-1a326n",
+    "original_price": 392.81,
+    "sale_price": 314.25,
+    "discount_percentage": 20,
+    "colors": [
+      "Cream",
+      "Burgundy",
+      "Pink"
+    ],
+    "in_stock": true,
+    "id": 36,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-YYIVBV",
+    "name": "Effortless Bomber Jacket",
+    "category": "outerwear",
+    "url": "https://www.aritzia.com/en/product/effortless-bomber-jacket/az-yyivbv",
+    "original_price": 210.01,
+    "sale_price": 168.01,
+    "discount_percentage": 20,
+    "colors": [
+      "Grey",
+      "Pink"
+    ],
+    "in_stock": true,
+    "id": 37,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-18ERLF",
+    "name": "Signature Midi Dress",
+    "category": "dresses",
+    "url": "https://www.aritzia.com/en/product/signature-midi-dress/az-18erlf",
+    "original_price": 170.6,
+    "sale_price": 170.6,
+    "discount_percentage": 0,
+    "colors": [
+      "Cream"
+    ],
+    "in_stock": true,
+    "id": 38,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-EYHLUU",
+    "name": "Effortless Midi Dress",
+    "category": "dresses",
+    "url": "https://www.aritzia.com/en/product/effortless-midi-dress/az-eyhluu",
+    "original_price": 237.77,
+    "sale_price": 237.77,
+    "discount_percentage": 0,
+    "colors": [
+      "Grey",
+      "Olive",
+      "Green",
+      "Pink",
+      "Burgundy"
+    ],
+    "in_stock": true,
+    "id": 39,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-D76V07",
+    "name": "Super Bodycon Dress",
+    "category": "dresses",
+    "url": "https://www.aritzia.com/en/product/super-bodycon-dress/az-d76v07",
+    "original_price": 187.81,
+    "sale_price": 187.81,
+    "discount_percentage": 0,
+    "colors": [
+      "White",
+      "Blue",
+      "Olive",
+      "Camel",
+      "Brown"
+    ],
+    "in_stock": true,
+    "id": 40,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-PMRD7R",
+    "name": "Classic Bodycon Dress",
+    "category": "dresses",
+    "url": "https://www.aritzia.com/en/product/classic-bodycon-dress/az-pmrd7r",
+    "original_price": 191.1,
+    "sale_price": 191.1,
+    "discount_percentage": 0,
+    "colors": [
+      "Burgundy",
+      "Green",
+      "Black",
+      "Pink",
+      "Blue"
+    ],
+    "in_stock": true,
+    "id": 41,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-MPNAMZ",
+    "name": "Ultra Maxi Dress",
+    "category": "dresses",
+    "url": "https://www.aritzia.com/en/product/ultra-maxi-dress/az-mpnamz",
+    "original_price": 248.5,
+    "sale_price": 248.5,
+    "discount_percentage": 0,
+    "colors": [
+      "Black",
+      "White",
+      "Green",
+      "Cream"
+    ],
+    "in_stock": true,
+    "id": 42,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-AJZ0ZO",
+    "name": "Relaxed Shirt Dress",
+    "category": "dresses",
+    "url": "https://www.aritzia.com/en/product/relaxed-shirt-dress/az-ajz0zo",
+    "original_price": 212.37,
+    "sale_price": 148.66,
+    "discount_percentage": 30,
+    "colors": [
+      "Black",
+      "Camel",
+      "Olive",
+      "Cream",
+      "Pink"
+    ],
+    "in_stock": true,
+    "id": 43,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-F986IF",
+    "name": "Modern Midi Dress",
+    "category": "dresses",
+    "url": "https://www.aritzia.com/en/product/modern-midi-dress/az-f986if",
+    "original_price": 244.8,
+    "sale_price": 244.8,
+    "discount_percentage": 0,
+    "colors": [
+      "Grey",
+      "Cream",
+      "Brown"
+    ],
+    "in_stock": true,
+    "id": 44,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-SHM1VN",
+    "name": "Effortless Slip Dress",
+    "category": "dresses",
+    "url": "https://www.aritzia.com/en/product/effortless-slip-dress/az-shm1vn",
+    "original_price": 188.03,
+    "sale_price": 188.03,
+    "discount_percentage": 0,
+    "colors": [
+      "White",
+      "Pink",
+      "Blue"
+    ],
+    "in_stock": true,
+    "id": 45,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-LYAMH8",
+    "name": "Super Wrap Dress",
+    "category": "dresses",
+    "url": "https://www.aritzia.com/en/product/super-wrap-dress/az-lyamh8",
+    "original_price": 165.41,
+    "sale_price": 165.41,
+    "discount_percentage": 0,
+    "colors": [
+      "Black",
+      "Burgundy",
+      "White"
+    ],
+    "in_stock": true,
+    "id": 46,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-POAXHG",
+    "name": "Modern Bodycon Dress",
+    "category": "dresses",
+    "url": "https://www.aritzia.com/en/product/modern-bodycon-dress/az-poaxhg",
+    "original_price": 81.79,
+    "sale_price": 81.79,
+    "discount_percentage": 0,
+    "colors": [
+      "Cream",
+      "Burgundy",
+      "Camel",
+      "Blue"
+    ],
+    "in_stock": true,
+    "id": 47,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-7YEXY4",
+    "name": "Super Sweater Dress",
+    "category": "dresses",
+    "url": "https://www.aritzia.com/en/product/super-sweater-dress/az-7yexy4",
+    "original_price": 85.27,
+    "sale_price": 85.27,
+    "discount_percentage": 0,
+    "colors": [
+      "Camel"
+    ],
+    "in_stock": true,
+    "id": 48,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-LLCOZK",
+    "name": "Classic Slip Dress",
+    "category": "dresses",
+    "url": "https://www.aritzia.com/en/product/classic-slip-dress/az-llcozk",
+    "original_price": 216.21,
+    "sale_price": 172.97,
+    "discount_percentage": 20,
+    "colors": [
+      "Blue",
+      "Black",
+      "Burgundy",
+      "Brown",
+      "Green"
+    ],
+    "in_stock": false,
+    "id": 49,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-NB4G6M",
+    "name": "Essential Mini Dress",
+    "category": "dresses",
+    "url": "https://www.aritzia.com/en/product/essential-mini-dress/az-nb4g6m",
+    "original_price": 206.95,
+    "sale_price": 206.95,
+    "discount_percentage": 0,
+    "colors": [
+      "Burgundy"
+    ],
+    "in_stock": true,
+    "id": 50,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-Z33OUA",
+    "name": "Signature Maxi Dress",
+    "category": "dresses",
+    "url": "https://www.aritzia.com/en/product/signature-maxi-dress/az-z33oua",
+    "original_price": 230.52,
+    "sale_price": 230.52,
+    "discount_percentage": 0,
+    "colors": [
+      "Blue",
+      "Black",
+      "White"
+    ],
+    "in_stock": true,
+    "id": 51,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-H0LQ9Q",
+    "name": "Super Maxi Dress",
+    "category": "dresses",
+    "url": "https://www.aritzia.com/en/product/super-maxi-dress/az-h0lq9q",
+    "original_price": 225.44,
+    "sale_price": 157.81,
+    "discount_percentage": 30,
+    "colors": [
+      "White",
+      "Black",
+      "Grey",
+      "Olive",
+      "Burgundy"
+    ],
+    "in_stock": true,
+    "id": 52,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-7S6ZGN",
+    "name": "Effortless Sweater Dress",
+    "category": "dresses",
+    "url": "https://www.aritzia.com/en/product/effortless-sweater-dress/az-7s6zgn",
+    "original_price": 226.85,
+    "sale_price": 204.16,
+    "discount_percentage": 10,
+    "colors": [
+      "Pink",
+      "White",
+      "Navy"
+    ],
+    "in_stock": true,
+    "id": 53,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-D0C84T",
+    "name": "Classic Sweater Dress",
+    "category": "dresses",
+    "url": "https://www.aritzia.com/en/product/classic-sweater-dress/az-d0c84t",
+    "original_price": 197.89,
+    "sale_price": 158.31,
+    "discount_percentage": 20,
+    "colors": [
+      "Olive"
+    ],
+    "in_stock": true,
+    "id": 54,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-LK9DVW",
+    "name": "Classic Bodycon Dress",
+    "category": "dresses",
+    "url": "https://www.aritzia.com/en/product/classic-bodycon-dress/az-lk9dvw",
+    "original_price": 159.47,
+    "sale_price": 159.47,
+    "discount_percentage": 0,
+    "colors": [
+      "White",
+      "Grey",
+      "Cream"
+    ],
+    "in_stock": true,
+    "id": 55,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-RHMZPZ",
+    "name": "Relaxed Wrap Dress",
+    "category": "dresses",
+    "url": "https://www.aritzia.com/en/product/relaxed-wrap-dress/az-rhmzpz",
+    "original_price": 173.75,
+    "sale_price": 173.75,
+    "discount_percentage": 0,
+    "colors": [
+      "White",
+      "Green",
+      "Black",
+      "Brown",
+      "Olive"
+    ],
+    "in_stock": true,
+    "id": 56,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-WDD2YU",
+    "name": "Ultra Mini Dress",
+    "category": "dresses",
+    "url": "https://www.aritzia.com/en/product/ultra-mini-dress/az-wdd2yu",
+    "original_price": 131.05,
+    "sale_price": 131.05,
+    "discount_percentage": 0,
+    "colors": [
+      "Burgundy",
+      "White",
+      "Navy",
+      "Cream",
+      "Olive"
+    ],
+    "in_stock": true,
+    "id": 57,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-WAIU5G",
+    "name": "Signature Midi Dress",
+    "category": "dresses",
+    "url": "https://www.aritzia.com/en/product/signature-midi-dress/az-waiu5g",
+    "original_price": 198.46,
+    "sale_price": 198.46,
+    "discount_percentage": 0,
+    "colors": [
+      "Blue",
+      "Burgundy",
+      "White"
+    ],
+    "in_stock": true,
+    "id": 58,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-1467MT",
+    "name": "Essential Sweater Dress",
+    "category": "dresses",
+    "url": "https://www.aritzia.com/en/product/essential-sweater-dress/az-1467mt",
+    "original_price": 183.82,
+    "sale_price": 165.44,
+    "discount_percentage": 10,
+    "colors": [
+      "Grey",
+      "Olive"
+    ],
+    "in_stock": true,
+    "id": 59,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-1PZFRS",
+    "name": "Signature Bodycon Dress",
+    "category": "dresses",
+    "url": "https://www.aritzia.com/en/product/signature-bodycon-dress/az-1pzfrs",
+    "original_price": 208.24,
+    "sale_price": 166.59,
+    "discount_percentage": 20,
+    "colors": [
+      "Cream",
+      "Olive",
+      "Camel"
+    ],
+    "in_stock": true,
+    "id": 60,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-X4C5QA",
+    "name": "Essential Wrap Dress",
+    "category": "dresses",
+    "url": "https://www.aritzia.com/en/product/essential-wrap-dress/az-x4c5qa",
+    "original_price": 204.64,
+    "sale_price": 163.71,
+    "discount_percentage": 20,
+    "colors": [
+      "Camel",
+      "White"
+    ],
+    "in_stock": true,
+    "id": 61,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-68SOH5",
+    "name": "Relaxed Wrap Dress",
+    "category": "dresses",
+    "url": "https://www.aritzia.com/en/product/relaxed-wrap-dress/az-68soh5",
+    "original_price": 182.86,
+    "sale_price": 164.57,
+    "discount_percentage": 10,
+    "colors": [
+      "Grey",
+      "Pink",
+      "Brown"
+    ],
+    "in_stock": true,
+    "id": 62,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-E8UEYA",
+    "name": "Ultra Bodycon Dress",
+    "category": "dresses",
+    "url": "https://www.aritzia.com/en/product/ultra-bodycon-dress/az-e8ueya",
+    "original_price": 104.16,
+    "sale_price": 93.74,
+    "discount_percentage": 10,
+    "colors": [
+      "White",
+      "Green",
+      "Brown"
+    ],
+    "in_stock": true,
+    "id": 63,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-N3121J",
+    "name": "Relaxed Mini Dress",
+    "category": "dresses",
+    "url": "https://www.aritzia.com/en/product/relaxed-mini-dress/az-n3121j",
+    "original_price": 199.49,
+    "sale_price": 179.54,
+    "discount_percentage": 10,
+    "colors": [
+      "Grey",
+      "Navy",
+      "Camel",
+      "Black"
+    ],
+    "in_stock": true,
+    "id": 64,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-B3E189",
+    "name": "Signature Sweater Dress",
+    "category": "dresses",
+    "url": "https://www.aritzia.com/en/product/signature-sweater-dress/az-b3e189",
+    "original_price": 112.35,
+    "sale_price": 78.64,
+    "discount_percentage": 30,
+    "colors": [
+      "Olive",
+      "Black",
+      "Burgundy",
+      "Camel"
+    ],
+    "in_stock": true,
+    "id": 65,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-48CWV6",
+    "name": "Ultra Midi Dress",
+    "category": "dresses",
+    "url": "https://www.aritzia.com/en/product/ultra-midi-dress/az-48cwv6",
+    "original_price": 231.85,
+    "sale_price": 231.85,
+    "discount_percentage": 0,
+    "colors": [
+      "Burgundy",
+      "Blue",
+      "Olive",
+      "Green"
+    ],
+    "in_stock": true,
+    "id": 66,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-I0RAW6",
+    "name": "Ultra Wrap Dress",
+    "category": "dresses",
+    "url": "https://www.aritzia.com/en/product/ultra-wrap-dress/az-i0raw6",
+    "original_price": 221.91,
+    "sale_price": 155.34,
+    "discount_percentage": 30,
+    "colors": [
+      "Blue"
+    ],
+    "in_stock": true,
+    "id": 67,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-1W3ZPN",
+    "name": "Modern Wrap Dress",
+    "category": "dresses",
+    "url": "https://www.aritzia.com/en/product/modern-wrap-dress/az-1w3zpn",
+    "original_price": 238.34,
+    "sale_price": 238.34,
+    "discount_percentage": 0,
+    "colors": [
+      "Pink",
+      "Green",
+      "White"
+    ],
+    "in_stock": true,
+    "id": 68,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-SFDS4G",
+    "name": "Classic Sweater Dress",
+    "category": "dresses",
+    "url": "https://www.aritzia.com/en/product/classic-sweater-dress/az-sfds4g",
+    "original_price": 159.68,
+    "sale_price": 143.71,
+    "discount_percentage": 10,
+    "colors": [
+      "Olive",
+      "Cream",
+      "Brown",
+      "Blue"
+    ],
+    "in_stock": true,
+    "id": 69,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-OO5U97",
+    "name": "Signature Midi Dress",
+    "category": "dresses",
+    "url": "https://www.aritzia.com/en/product/signature-midi-dress/az-oo5u97",
+    "original_price": 146.5,
+    "sale_price": 146.5,
+    "discount_percentage": 0,
+    "colors": [
+      "Burgundy",
+      "Camel",
+      "Pink",
+      "Olive"
+    ],
+    "in_stock": true,
+    "id": 70,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-M628SD",
+    "name": "Effortless Shirt Dress",
+    "category": "dresses",
+    "url": "https://www.aritzia.com/en/product/effortless-shirt-dress/az-m628sd",
+    "original_price": 133.15,
+    "sale_price": 133.15,
+    "discount_percentage": 0,
+    "colors": [
+      "Grey",
+      "Brown",
+      "Blue",
+      "Olive"
+    ],
+    "in_stock": true,
+    "id": 71,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-NDMO21",
+    "name": "Modern Shirt Dress",
+    "category": "dresses",
+    "url": "https://www.aritzia.com/en/product/modern-shirt-dress/az-ndmo21",
+    "original_price": 172.6,
+    "sale_price": 172.6,
+    "discount_percentage": 0,
+    "colors": [
+      "Brown",
+      "Blue",
+      "Black",
+      "Grey"
+    ],
+    "in_stock": true,
+    "id": 72,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-1QD320",
+    "name": "Signature Maxi Dress",
+    "category": "dresses",
+    "url": "https://www.aritzia.com/en/product/signature-maxi-dress/az-1qd320",
+    "original_price": 241.71,
+    "sale_price": 169.2,
+    "discount_percentage": 30,
+    "colors": [
+      "Green",
+      "White"
+    ],
+    "in_stock": true,
+    "id": 73,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-5B6PRW",
+    "name": "Essential Slip Dress",
+    "category": "dresses",
+    "url": "https://www.aritzia.com/en/product/essential-slip-dress/az-5b6prw",
+    "original_price": 211.24,
+    "sale_price": 211.24,
+    "discount_percentage": 0,
+    "colors": [
+      "Brown",
+      "Cream",
+      "Green",
+      "Olive",
+      "Pink"
+    ],
+    "in_stock": true,
+    "id": 74,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-XLN1X8",
+    "name": "Super Maxi Dress",
+    "category": "dresses",
+    "url": "https://www.aritzia.com/en/product/super-maxi-dress/az-xln1x8",
+    "original_price": 197.39,
+    "sale_price": 157.91,
+    "discount_percentage": 20,
+    "colors": [
+      "Olive",
+      "Navy",
+      "Green"
+    ],
+    "in_stock": false,
+    "id": 75,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-SNGSRF",
+    "name": "Super Hoodie",
+    "category": "tops",
+    "url": "https://www.aritzia.com/en/product/super-hoodie/az-sngsrf",
+    "original_price": 73.22,
+    "sale_price": 58.58,
+    "discount_percentage": 20,
+    "colors": [
+      "Burgundy",
+      "Brown",
+      "Black",
+      "Camel",
+      "Olive"
+    ],
+    "in_stock": true,
+    "id": 76,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-OV99KM",
+    "name": "Signature Turtleneck",
+    "category": "tops",
+    "url": "https://www.aritzia.com/en/product/signature-turtleneck/az-ov99km",
+    "original_price": 56.86,
+    "sale_price": 56.86,
+    "discount_percentage": 0,
+    "colors": [
+      "Navy"
+    ],
+    "in_stock": true,
+    "id": 77,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-WEMHAV",
+    "name": "Classic Blouse",
+    "category": "tops",
+    "url": "https://www.aritzia.com/en/product/classic-blouse/az-wemhav",
+    "original_price": 96.12,
+    "sale_price": 86.51,
+    "discount_percentage": 10,
+    "colors": [
+      "Grey",
+      "Cream",
+      "Camel"
+    ],
+    "in_stock": true,
+    "id": 78,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-WGNJNH",
+    "name": "Ultra Henley Top",
+    "category": "tops",
+    "url": "https://www.aritzia.com/en/product/ultra-henley-top/az-wgnjnh",
+    "original_price": 58.83,
+    "sale_price": 47.06,
+    "discount_percentage": 20,
+    "colors": [
+      "Camel",
+      "Navy",
+      "Brown"
+    ],
+    "in_stock": true,
+    "id": 79,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-4P7M5Q",
+    "name": "Contour Cropped Tank",
+    "category": "tops",
+    "url": "https://www.aritzia.com/en/product/contour-cropped-tank/az-4p7m5q",
+    "original_price": 54.64,
+    "sale_price": 54.64,
+    "discount_percentage": 0,
+    "colors": [
+      "Green",
+      "Grey",
+      "Brown",
+      "Cream",
+      "Olive"
+    ],
+    "in_stock": true,
+    "id": 80,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-MSSHSZ",
+    "name": "Essential Sweater",
+    "category": "tops",
+    "url": "https://www.aritzia.com/en/product/essential-sweater/az-msshsz",
+    "original_price": 58.9,
+    "sale_price": 58.9,
+    "discount_percentage": 0,
+    "colors": [
+      "Burgundy",
+      "Navy",
+      "Black"
+    ],
+    "in_stock": true,
+    "id": 81,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-S3NW8R",
+    "name": "Classic Henley Top",
+    "category": "tops",
+    "url": "https://www.aritzia.com/en/product/classic-henley-top/az-s3nw8r",
+    "original_price": 74.29,
+    "sale_price": 59.43,
+    "discount_percentage": 20,
+    "colors": [
+      "Brown",
+      "Blue",
+      "Burgundy"
+    ],
+    "in_stock": true,
+    "id": 82,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-17MNEJ",
+    "name": "Contour Oversized Tee",
+    "category": "tops",
+    "url": "https://www.aritzia.com/en/product/contour-oversized-tee/az-17mnej",
+    "original_price": 80.56,
+    "sale_price": 72.5,
+    "discount_percentage": 10,
+    "colors": [
+      "Grey",
+      "Olive",
+      "Green",
+      "Pink",
+      "White"
+    ],
+    "in_stock": true,
+    "id": 83,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-0MYVHK",
+    "name": "Essential Blouse",
+    "category": "tops",
+    "url": "https://www.aritzia.com/en/product/essential-blouse/az-0myvhk",
+    "original_price": 96.32,
+    "sale_price": 86.69,
+    "discount_percentage": 10,
+    "colors": [
+      "Blue",
+      "Black"
+    ],
+    "in_stock": false,
+    "id": 84,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-C7JWOB",
+    "name": "Relaxed Bodysuit",
+    "category": "tops",
+    "url": "https://www.aritzia.com/en/product/relaxed-bodysuit/az-c7jwob",
+    "original_price": 68.56,
+    "sale_price": 47.99,
+    "discount_percentage": 30,
+    "colors": [
+      "Burgundy",
+      "Grey"
+    ],
+    "in_stock": true,
+    "id": 85,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-OQL21A",
+    "name": "Super Henley Top",
+    "category": "tops",
+    "url": "https://www.aritzia.com/en/product/super-henley-top/az-oql21a",
+    "original_price": 45.19,
+    "sale_price": 36.15,
+    "discount_percentage": 20,
+    "colors": [
+      "Camel",
+      "Grey",
+      "Black",
+      "Olive"
+    ],
+    "in_stock": true,
+    "id": 86,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-0TXYWL",
+    "name": "Relaxed Sweater",
+    "category": "tops",
+    "url": "https://www.aritzia.com/en/product/relaxed-sweater/az-0txywl",
+    "original_price": 44.78,
+    "sale_price": 44.78,
+    "discount_percentage": 0,
+    "colors": [
+      "Cream",
+      "Burgundy"
+    ],
+    "in_stock": true,
+    "id": 87,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-DWZOUE",
+    "name": "Essential Henley Top",
+    "category": "tops",
+    "url": "https://www.aritzia.com/en/product/essential-henley-top/az-dwzoue",
+    "original_price": 86.68,
+    "sale_price": 69.34,
+    "discount_percentage": 20,
+    "colors": [
+      "Cream",
+      "Pink",
+      "Navy",
+      "Burgundy",
+      "Black"
+    ],
+    "in_stock": true,
+    "id": 88,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-XP9XDI",
+    "name": "Relaxed Cropped Tank",
+    "category": "tops",
+    "url": "https://www.aritzia.com/en/product/relaxed-cropped-tank/az-xp9xdi",
+    "original_price": 55.37,
+    "sale_price": 49.83,
+    "discount_percentage": 10,
+    "colors": [
+      "Pink",
+      "Camel"
+    ],
+    "in_stock": false,
+    "id": 89,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-75EQYO",
+    "name": "Refined Henley Top",
+    "category": "tops",
+    "url": "https://www.aritzia.com/en/product/refined-henley-top/az-75eqyo",
+    "original_price": 87.43,
+    "sale_price": 87.43,
+    "discount_percentage": 0,
+    "colors": [
+      "Black",
+      "Navy",
+      "Burgundy"
+    ],
+    "in_stock": true,
+    "id": 90,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-WGDPHC",
+    "name": "Relaxed Bodysuit",
+    "category": "tops",
+    "url": "https://www.aritzia.com/en/product/relaxed-bodysuit/az-wgdphc",
+    "original_price": 65.65,
+    "sale_price": 65.65,
+    "discount_percentage": 0,
+    "colors": [
+      "Navy",
+      "White",
+      "Camel"
+    ],
+    "in_stock": true,
+    "id": 91,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-YC6LEI",
+    "name": "Relaxed Bodysuit",
+    "category": "tops",
+    "url": "https://www.aritzia.com/en/product/relaxed-bodysuit/az-yc6lei",
+    "original_price": 81.98,
+    "sale_price": 73.78,
+    "discount_percentage": 10,
+    "colors": [
+      "Blue",
+      "Black",
+      "Burgundy"
+    ],
+    "in_stock": true,
+    "id": 92,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-A1946R",
+    "name": "Essential Henley Top",
+    "category": "tops",
+    "url": "https://www.aritzia.com/en/product/essential-henley-top/az-a1946r",
+    "original_price": 97.04,
+    "sale_price": 97.04,
+    "discount_percentage": 0,
+    "colors": [
+      "White",
+      "Cream",
+      "Black"
+    ],
+    "in_stock": true,
+    "id": 93,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-KC2U2R",
+    "name": "Modern Turtleneck",
+    "category": "tops",
+    "url": "https://www.aritzia.com/en/product/modern-turtleneck/az-kc2u2r",
+    "original_price": 80.76,
+    "sale_price": 80.76,
+    "discount_percentage": 0,
+    "colors": [
+      "Camel",
+      "Cream",
+      "Navy"
+    ],
+    "in_stock": false,
+    "id": 94,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-AT3IC1",
+    "name": "Super Blouse",
+    "category": "tops",
+    "url": "https://www.aritzia.com/en/product/super-blouse/az-at3ic1",
+    "original_price": 96.7,
+    "sale_price": 77.36,
+    "discount_percentage": 20,
+    "colors": [
+      "Olive",
+      "Pink",
+      "Grey",
+      "Burgundy"
+    ],
+    "in_stock": true,
+    "id": 95,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-NHES7S",
+    "name": "Relaxed Hoodie",
+    "category": "tops",
+    "url": "https://www.aritzia.com/en/product/relaxed-hoodie/az-nhes7s",
+    "original_price": 77.55,
+    "sale_price": 62.04,
+    "discount_percentage": 20,
+    "colors": [
+      "Burgundy",
+      "Grey",
+      "Navy"
+    ],
+    "in_stock": true,
+    "id": 96,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-7QGPNC",
+    "name": "Effortless Sweater",
+    "category": "tops",
+    "url": "https://www.aritzia.com/en/product/effortless-sweater/az-7qgpnc",
+    "original_price": 105.83,
+    "sale_price": 63.5,
+    "discount_percentage": 40,
+    "colors": [
+      "Black"
+    ],
+    "in_stock": true,
+    "id": 97,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-GA8E9T",
+    "name": "Signature Oversized Tee",
+    "category": "tops",
+    "url": "https://www.aritzia.com/en/product/signature-oversized-tee/az-ga8e9t",
+    "original_price": 114.58,
+    "sale_price": 80.21,
+    "discount_percentage": 30,
+    "colors": [
+      "Blue",
+      "Navy",
+      "Cream",
+      "Pink"
+    ],
+    "in_stock": true,
+    "id": 98,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-9FA9F3",
+    "name": "Modern Sweater",
+    "category": "tops",
+    "url": "https://www.aritzia.com/en/product/modern-sweater/az-9fa9f3",
+    "original_price": 63.67,
+    "sale_price": 63.67,
+    "discount_percentage": 0,
+    "colors": [
+      "Burgundy",
+      "Camel",
+      "Pink",
+      "Brown",
+      "Olive"
+    ],
+    "in_stock": true,
+    "id": 99,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-HYJ0TN",
+    "name": "Contour Blouse",
+    "category": "tops",
+    "url": "https://www.aritzia.com/en/product/contour-blouse/az-hyj0tn",
+    "original_price": 68.65,
+    "sale_price": 68.65,
+    "discount_percentage": 0,
+    "colors": [
+      "Burgundy"
+    ],
+    "in_stock": true,
+    "id": 100,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-HGK4SA",
+    "name": "Modern Blouse",
+    "category": "tops",
+    "url": "https://www.aritzia.com/en/product/modern-blouse/az-hgk4sa",
+    "original_price": 67.64,
+    "sale_price": 47.35,
+    "discount_percentage": 30,
+    "colors": [
+      "Grey",
+      "Burgundy",
+      "Green",
+      "Black"
+    ],
+    "in_stock": true,
+    "id": 101,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-F98LT2",
+    "name": "Refined Sweater",
+    "category": "tops",
+    "url": "https://www.aritzia.com/en/product/refined-sweater/az-f98lt2",
+    "original_price": 113.36,
+    "sale_price": 79.35,
+    "discount_percentage": 30,
+    "colors": [
+      "Burgundy",
+      "Olive",
+      "Navy"
+    ],
+    "in_stock": true,
+    "id": 102,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-1NDUUI",
+    "name": "Super Hoodie",
+    "category": "tops",
+    "url": "https://www.aritzia.com/en/product/super-hoodie/az-1nduui",
+    "original_price": 118.59,
+    "sale_price": 71.15,
+    "discount_percentage": 40,
+    "colors": [
+      "Navy",
+      "Black",
+      "Cream"
+    ],
+    "in_stock": false,
+    "id": 103,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-R5JD8H",
+    "name": "Super Sweater",
+    "category": "tops",
+    "url": "https://www.aritzia.com/en/product/super-sweater/az-r5jd8h",
+    "original_price": 40.82,
+    "sale_price": 40.82,
+    "discount_percentage": 0,
+    "colors": [
+      "Camel",
+      "Cream"
+    ],
+    "in_stock": true,
+    "id": 104,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-M9JLMA",
+    "name": "Refined Turtleneck",
+    "category": "tops",
+    "url": "https://www.aritzia.com/en/product/refined-turtleneck/az-m9jlma",
+    "original_price": 75.78,
+    "sale_price": 68.2,
+    "discount_percentage": 10,
+    "colors": [
+      "Navy",
+      "Blue",
+      "Olive",
+      "Brown"
+    ],
+    "in_stock": true,
+    "id": 105,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-78BVPP",
+    "name": "Refined Hoodie",
+    "category": "tops",
+    "url": "https://www.aritzia.com/en/product/refined-hoodie/az-78bvpp",
+    "original_price": 98.56,
+    "sale_price": 49.28,
+    "discount_percentage": 50,
+    "colors": [
+      "Burgundy",
+      "Grey",
+      "Pink",
+      "Camel",
+      "Black"
+    ],
+    "in_stock": true,
+    "id": 106,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-B7075J",
+    "name": "Essential Cropped Tank",
+    "category": "tops",
+    "url": "https://www.aritzia.com/en/product/essential-cropped-tank/az-b7075j",
+    "original_price": 81.35,
+    "sale_price": 65.08,
+    "discount_percentage": 20,
+    "colors": [
+      "Burgundy",
+      "Black"
+    ],
+    "in_stock": true,
+    "id": 107,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-0ZRUBY",
+    "name": "Contour Cropped Tank",
+    "category": "tops",
+    "url": "https://www.aritzia.com/en/product/contour-cropped-tank/az-0zruby",
+    "original_price": 87.89,
+    "sale_price": 79.1,
+    "discount_percentage": 10,
+    "colors": [
+      "Pink"
+    ],
+    "in_stock": true,
+    "id": 108,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-Z0ASRZ",
+    "name": "Super Culottes",
+    "category": "pants",
+    "url": "https://www.aritzia.com/en/product/super-culottes/az-z0asrz",
+    "original_price": 66.08,
+    "sale_price": 52.86,
+    "discount_percentage": 20,
+    "colors": [
+      "Navy",
+      "Olive",
+      "Cream",
+      "Brown",
+      "Pink"
+    ],
+    "in_stock": true,
+    "id": 109,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-5Y29E0",
+    "name": "Modern Culottes",
+    "category": "pants",
+    "url": "https://www.aritzia.com/en/product/modern-culottes/az-5y29e0",
+    "original_price": 173.31,
+    "sale_price": 173.31,
+    "discount_percentage": 0,
+    "colors": [
+      "Cream",
+      "Olive"
+    ],
+    "in_stock": true,
+    "id": 110,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-AJH0GY",
+    "name": "Ultra Wide Leg Pants",
+    "category": "pants",
+    "url": "https://www.aritzia.com/en/product/ultra-wide-leg-pants/az-ajh0gy",
+    "original_price": 139.69,
+    "sale_price": 83.81,
+    "discount_percentage": 40,
+    "colors": [
+      "White",
+      "Black",
+      "Olive",
+      "Brown"
+    ],
+    "in_stock": true,
+    "id": 111,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-J5CY1G",
+    "name": "Ultra Leggings",
+    "category": "pants",
+    "url": "https://www.aritzia.com/en/product/ultra-leggings/az-j5cy1g",
+    "original_price": 139.73,
+    "sale_price": 139.73,
+    "discount_percentage": 0,
+    "colors": [
+      "Navy",
+      "Blue",
+      "Burgundy",
+      "Black",
+      "Green"
+    ],
+    "in_stock": true,
+    "id": 112,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-2RCA6W",
+    "name": "Relaxed Dress Pants",
+    "category": "pants",
+    "url": "https://www.aritzia.com/en/product/relaxed-dress-pants/az-2rca6w",
+    "original_price": 171.31,
+    "sale_price": 171.31,
+    "discount_percentage": 0,
+    "colors": [
+      "Cream",
+      "Camel"
+    ],
+    "in_stock": true,
+    "id": 113,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-T81FOS",
+    "name": "Super Leggings",
+    "category": "pants",
+    "url": "https://www.aritzia.com/en/product/super-leggings/az-t81fos",
+    "original_price": 106.34,
+    "sale_price": 106.34,
+    "discount_percentage": 0,
+    "colors": [
+      "Pink",
+      "Camel",
+      "Cream",
+      "Brown"
+    ],
+    "in_stock": true,
+    "id": 114,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-GOBGBX",
+    "name": "Classic Leggings",
+    "category": "pants",
+    "url": "https://www.aritzia.com/en/product/classic-leggings/az-gobgbx",
+    "original_price": 138.85,
+    "sale_price": 83.31,
+    "discount_percentage": 40,
+    "colors": [
+      "Cream",
+      "White",
+      "Camel",
+      "Green"
+    ],
+    "in_stock": true,
+    "id": 115,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-3AV2LR",
+    "name": "Modern Shorts",
+    "category": "pants",
+    "url": "https://www.aritzia.com/en/product/modern-shorts/az-3av2lr",
+    "original_price": 100.47,
+    "sale_price": 100.47,
+    "discount_percentage": 0,
+    "colors": [
+      "Grey",
+      "Burgundy"
+    ],
+    "in_stock": true,
+    "id": 116,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-MW10M4",
+    "name": "Relaxed Dress Pants",
+    "category": "pants",
+    "url": "https://www.aritzia.com/en/product/relaxed-dress-pants/az-mw10m4",
+    "original_price": 131.19,
+    "sale_price": 118.07,
+    "discount_percentage": 10,
+    "colors": [
+      "Burgundy",
+      "Green"
+    ],
+    "in_stock": false,
+    "id": 117,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-NLZJZN",
+    "name": "Modern Jeans",
+    "category": "pants",
+    "url": "https://www.aritzia.com/en/product/modern-jeans/az-nlzjzn",
+    "original_price": 124.46,
+    "sale_price": 99.57,
+    "discount_percentage": 20,
+    "colors": [
+      "White"
+    ],
+    "in_stock": true,
+    "id": 118,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-CBPMFC",
+    "name": "Ultra Shorts",
+    "category": "pants",
+    "url": "https://www.aritzia.com/en/product/ultra-shorts/az-cbpmfc",
+    "original_price": 90.98,
+    "sale_price": 90.98,
+    "discount_percentage": 0,
+    "colors": [
+      "Grey",
+      "Blue",
+      "Olive",
+      "Cream",
+      "Navy"
+    ],
+    "in_stock": true,
+    "id": 119,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-WKGB79",
+    "name": "Classic Wide Leg Pants",
+    "category": "pants",
+    "url": "https://www.aritzia.com/en/product/classic-wide-leg-pants/az-wkgb79",
+    "original_price": 115.73,
+    "sale_price": 92.58,
+    "discount_percentage": 20,
+    "colors": [
+      "Burgundy",
+      "Camel",
+      "Pink"
+    ],
+    "in_stock": false,
+    "id": 120,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-BZEIEA",
+    "name": "Contour Joggers",
+    "category": "pants",
+    "url": "https://www.aritzia.com/en/product/contour-joggers/az-bzeiea",
+    "original_price": 144.64,
+    "sale_price": 144.64,
+    "discount_percentage": 0,
+    "colors": [
+      "Camel",
+      "Green"
+    ],
+    "in_stock": true,
+    "id": 121,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-WDU4HN",
+    "name": "Refined Cargo Pants",
+    "category": "pants",
+    "url": "https://www.aritzia.com/en/product/refined-cargo-pants/az-wdu4hn",
+    "original_price": 154.39,
+    "sale_price": 154.39,
+    "discount_percentage": 0,
+    "colors": [
+      "Cream",
+      "Burgundy",
+      "Olive",
+      "Grey",
+      "Navy"
+    ],
+    "in_stock": true,
+    "id": 122,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-ZUQNC8",
+    "name": "Essential Leggings",
+    "category": "pants",
+    "url": "https://www.aritzia.com/en/product/essential-leggings/az-zuqnc8",
+    "original_price": 123.76,
+    "sale_price": 99.01,
+    "discount_percentage": 20,
+    "colors": [
+      "Navy",
+      "Brown",
+      "Pink"
+    ],
+    "in_stock": false,
+    "id": 123,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-E8GV8Q",
+    "name": "Classic Leggings",
+    "category": "pants",
+    "url": "https://www.aritzia.com/en/product/classic-leggings/az-e8gv8q",
+    "original_price": 163.72,
+    "sale_price": 163.72,
+    "discount_percentage": 0,
+    "colors": [
+      "Camel",
+      "Black",
+      "Olive"
+    ],
+    "in_stock": true,
+    "id": 124,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-8SV1D4",
+    "name": "Modern Culottes",
+    "category": "pants",
+    "url": "https://www.aritzia.com/en/product/modern-culottes/az-8sv1d4",
+    "original_price": 133.46,
+    "sale_price": 133.46,
+    "discount_percentage": 0,
+    "colors": [
+      "Green",
+      "Brown"
+    ],
+    "in_stock": true,
+    "id": 125,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-72RS88",
+    "name": "Relaxed Dress Pants",
+    "category": "pants",
+    "url": "https://www.aritzia.com/en/product/relaxed-dress-pants/az-72rs88",
+    "original_price": 62.34,
+    "sale_price": 43.64,
+    "discount_percentage": 30,
+    "colors": [
+      "Cream",
+      "White",
+      "Olive"
+    ],
+    "in_stock": true,
+    "id": 126,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-NVDXM6",
+    "name": "Relaxed Cargo Pants",
+    "category": "pants",
+    "url": "https://www.aritzia.com/en/product/relaxed-cargo-pants/az-nvdxm6",
+    "original_price": 79.07,
+    "sale_price": 79.07,
+    "discount_percentage": 0,
+    "colors": [
+      "White",
+      "Camel",
+      "Black",
+      "Blue"
+    ],
+    "in_stock": true,
+    "id": 127,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-KFUER1",
+    "name": "Modern Joggers",
+    "category": "pants",
+    "url": "https://www.aritzia.com/en/product/modern-joggers/az-kfuer1",
+    "original_price": 140.9,
+    "sale_price": 126.81,
+    "discount_percentage": 10,
+    "colors": [
+      "Grey",
+      "Navy",
+      "Camel",
+      "Green"
+    ],
+    "in_stock": true,
+    "id": 128,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-A3CB79",
+    "name": "Effortless Dress Pants",
+    "category": "pants",
+    "url": "https://www.aritzia.com/en/product/effortless-dress-pants/az-a3cb79",
+    "original_price": 127.03,
+    "sale_price": 88.92,
+    "discount_percentage": 30,
+    "colors": [
+      "Pink"
+    ],
+    "in_stock": true,
+    "id": 129,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-PBT88K",
+    "name": "Signature Wide Leg Pants",
+    "category": "pants",
+    "url": "https://www.aritzia.com/en/product/signature-wide-leg-pants/az-pbt88k",
+    "original_price": 123.49,
+    "sale_price": 74.09,
+    "discount_percentage": 40,
+    "colors": [
+      "Navy"
+    ],
+    "in_stock": true,
+    "id": 130,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-E44XUS",
+    "name": "Refined Culottes",
+    "category": "pants",
+    "url": "https://www.aritzia.com/en/product/refined-culottes/az-e44xus",
+    "original_price": 151.5,
+    "sale_price": 151.5,
+    "discount_percentage": 0,
+    "colors": [
+      "Green",
+      "Brown"
+    ],
+    "in_stock": true,
+    "id": 131,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-IOGNEF",
+    "name": "Essential Wide Leg Pants",
+    "category": "pants",
+    "url": "https://www.aritzia.com/en/product/essential-wide-leg-pants/az-iognef",
+    "original_price": 111.58,
+    "sale_price": 100.42,
+    "discount_percentage": 10,
+    "colors": [
+      "Cream",
+      "Brown"
+    ],
+    "in_stock": true,
+    "id": 132,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-202AM9",
+    "name": "Modern Jeans",
+    "category": "pants",
+    "url": "https://www.aritzia.com/en/product/modern-jeans/az-202am9",
+    "original_price": 74.45,
+    "sale_price": 67.01,
+    "discount_percentage": 10,
+    "colors": [
+      "Brown",
+      "Cream",
+      "Burgundy",
+      "Grey",
+      "Navy"
+    ],
+    "in_stock": true,
+    "id": 133,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-IL8LFA",
+    "name": "Ultra Wide Leg Pants",
+    "category": "pants",
+    "url": "https://www.aritzia.com/en/product/ultra-wide-leg-pants/az-il8lfa",
+    "original_price": 125.6,
+    "sale_price": 75.36,
+    "discount_percentage": 40,
+    "colors": [
+      "White",
+      "Burgundy",
+      "Cream",
+      "Blue"
+    ],
+    "in_stock": true,
+    "id": 134,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-8WFEXR",
+    "name": "Effortless Dress Pants",
+    "category": "pants",
+    "url": "https://www.aritzia.com/en/product/effortless-dress-pants/az-8wfexr",
+    "original_price": 94.27,
+    "sale_price": 94.27,
+    "discount_percentage": 0,
+    "colors": [
+      "Camel",
+      "Olive",
+      "Cream"
+    ],
+    "in_stock": true,
+    "id": 135,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-GD95EM",
+    "name": "Modern Wide Leg Pants",
+    "category": "pants",
+    "url": "https://www.aritzia.com/en/product/modern-wide-leg-pants/az-gd95em",
+    "original_price": 167.09,
+    "sale_price": 150.38,
+    "discount_percentage": 10,
+    "colors": [
+      "Black",
+      "Brown",
+      "Green",
+      "Camel"
+    ],
+    "in_stock": true,
+    "id": 136,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-VH54KI",
+    "name": "Super Wide Leg Pants",
+    "category": "pants",
+    "url": "https://www.aritzia.com/en/product/super-wide-leg-pants/az-vh54ki",
+    "original_price": 147.23,
+    "sale_price": 147.23,
+    "discount_percentage": 0,
+    "colors": [
+      "Green"
+    ],
+    "in_stock": true,
+    "id": 137,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-425SPA",
+    "name": "Refined Jeans",
+    "category": "pants",
+    "url": "https://www.aritzia.com/en/product/refined-jeans/az-425spa",
+    "original_price": 98.46,
+    "sale_price": 98.46,
+    "discount_percentage": 0,
+    "colors": [
+      "Blue",
+      "Navy",
+      "Pink",
+      "Brown",
+      "Green"
+    ],
+    "in_stock": true,
+    "id": 138,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-PYJN1T",
+    "name": "Signature Shorts",
+    "category": "pants",
+    "url": "https://www.aritzia.com/en/product/signature-shorts/az-pyjn1t",
+    "original_price": 126.37,
+    "sale_price": 126.37,
+    "discount_percentage": 0,
+    "colors": [
+      "Pink"
+    ],
+    "in_stock": true,
+    "id": 139,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-FE23LH",
+    "name": "Refined Jeans",
+    "category": "pants",
+    "url": "https://www.aritzia.com/en/product/refined-jeans/az-fe23lh",
+    "original_price": 145.82,
+    "sale_price": 145.82,
+    "discount_percentage": 0,
+    "colors": [
+      "White",
+      "Blue",
+      "Burgundy"
+    ],
+    "in_stock": true,
+    "id": 140,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-TJWUCW",
+    "name": "Relaxed Dress Pants",
+    "category": "pants",
+    "url": "https://www.aritzia.com/en/product/relaxed-dress-pants/az-tjwucw",
+    "original_price": 121.3,
+    "sale_price": 109.17,
+    "discount_percentage": 10,
+    "colors": [
+      "Pink",
+      "White",
+      "Cream"
+    ],
+    "in_stock": true,
+    "id": 141,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-71P5AB",
+    "name": "Effortless Culottes",
+    "category": "pants",
+    "url": "https://www.aritzia.com/en/product/effortless-culottes/az-71p5ab",
+    "original_price": 177.0,
+    "sale_price": 177.0,
+    "discount_percentage": 0,
+    "colors": [
+      "Black",
+      "Olive",
+      "Burgundy",
+      "Navy"
+    ],
+    "in_stock": true,
+    "id": 142,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-AE97L6",
+    "name": "Ultra Joggers",
+    "category": "pants",
+    "url": "https://www.aritzia.com/en/product/ultra-joggers/az-ae97l6",
+    "original_price": 176.29,
+    "sale_price": 176.29,
+    "discount_percentage": 0,
+    "colors": [
+      "Olive",
+      "Grey",
+      "Burgundy",
+      "White",
+      "Blue"
+    ],
+    "in_stock": true,
+    "id": 143,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-7K0VIE",
+    "name": "Essential Leggings",
+    "category": "pants",
+    "url": "https://www.aritzia.com/en/product/essential-leggings/az-7k0vie",
+    "original_price": 100.85,
+    "sale_price": 80.68,
+    "discount_percentage": 20,
+    "colors": [
+      "Navy"
+    ],
+    "in_stock": true,
+    "id": 144,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-XPZODM",
+    "name": "Refined Shorts",
+    "category": "pants",
+    "url": "https://www.aritzia.com/en/product/refined-shorts/az-xpzodm",
+    "original_price": 173.05,
+    "sale_price": 155.75,
+    "discount_percentage": 10,
+    "colors": [
+      "Blue"
+    ],
+    "in_stock": true,
+    "id": 145,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-I1O3WX",
+    "name": "Relaxed Cargo Pants",
+    "category": "pants",
+    "url": "https://www.aritzia.com/en/product/relaxed-cargo-pants/az-i1o3wx",
+    "original_price": 131.46,
+    "sale_price": 78.88,
+    "discount_percentage": 40,
+    "colors": [
+      "Cream",
+      "Navy",
+      "Pink"
+    ],
+    "in_stock": true,
+    "id": 146,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-KC5PQZ",
+    "name": "Super Wide Leg Pants",
+    "category": "pants",
+    "url": "https://www.aritzia.com/en/product/super-wide-leg-pants/az-kc5pqz",
+    "original_price": 144.32,
+    "sale_price": 144.32,
+    "discount_percentage": 0,
+    "colors": [
+      "Olive"
+    ],
+    "in_stock": true,
+    "id": 147,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-P70LO8",
+    "name": "Signature Joggers",
+    "category": "pants",
+    "url": "https://www.aritzia.com/en/product/signature-joggers/az-p70lo8",
+    "original_price": 112.0,
+    "sale_price": 112.0,
+    "discount_percentage": 0,
+    "colors": [
+      "Burgundy",
+      "Olive"
+    ],
+    "in_stock": true,
+    "id": 148,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-E9MGTC",
+    "name": "Modern Jeans",
+    "category": "pants",
+    "url": "https://www.aritzia.com/en/product/modern-jeans/az-e9mgtc",
+    "original_price": 87.3,
+    "sale_price": 87.3,
+    "discount_percentage": 0,
+    "colors": [
+      "Cream",
+      "Olive",
+      "Pink",
+      "White",
+      "Green"
+    ],
+    "in_stock": true,
+    "id": 149,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-C7WODD",
+    "name": "Effortless Hat",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/effortless-hat/az-c7wodd",
+    "original_price": 80.79,
+    "sale_price": 72.71,
+    "discount_percentage": 10,
+    "colors": [
+      "Navy",
+      "Black",
+      "Cream"
+    ],
+    "in_stock": false,
+    "id": 150,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-WURW5A",
+    "name": "Modern Hair Clip",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/modern-hair-clip/az-wurw5a",
+    "original_price": 98.22,
+    "sale_price": 98.22,
+    "discount_percentage": 0,
+    "colors": [
+      "Brown"
+    ],
+    "in_stock": false,
+    "id": 151,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-E9LAO6",
+    "name": "Essential Sunglasses",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/essential-sunglasses/az-e9lao6",
+    "original_price": 81.48,
+    "sale_price": 40.74,
+    "discount_percentage": 50,
+    "colors": [
+      "Pink"
+    ],
+    "in_stock": true,
+    "id": 152,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-EVJU4R",
+    "name": "Signature Headband",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/signature-headband/az-evju4r",
+    "original_price": 86.22,
+    "sale_price": 60.35,
+    "discount_percentage": 30,
+    "colors": [
+      "White",
+      "Black",
+      "Cream",
+      "Olive"
+    ],
+    "in_stock": true,
+    "id": 153,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-FUCTDF",
+    "name": "Effortless Hair Clip",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/effortless-hair-clip/az-fuctdf",
+    "original_price": 29.42,
+    "sale_price": 29.42,
+    "discount_percentage": 0,
+    "colors": [
+      "Camel"
+    ],
+    "in_stock": true,
+    "id": 154,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-KCG3CJ",
+    "name": "Essential Hair Clip",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/essential-hair-clip/az-kcg3cj",
+    "original_price": 76.13,
+    "sale_price": 53.29,
+    "discount_percentage": 30,
+    "colors": [
+      "Burgundy",
+      "Green",
+      "Black",
+      "Cream"
+    ],
+    "in_stock": true,
+    "id": 155,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-N86BXM",
+    "name": "Essential Headband",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/essential-headband/az-n86bxm",
+    "original_price": 79.32,
+    "sale_price": 71.39,
+    "discount_percentage": 10,
+    "colors": [
+      "Navy",
+      "Olive",
+      "Blue",
+      "Green",
+      "Camel"
+    ],
+    "in_stock": true,
+    "id": 156,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-JIQY8B",
+    "name": "Contour Headband",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/contour-headband/az-jiqy8b",
+    "original_price": 37.5,
+    "sale_price": 37.5,
+    "discount_percentage": 0,
+    "colors": [
+      "Green"
+    ],
+    "in_stock": true,
+    "id": 157,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-W4H1OS",
+    "name": "Modern Sunglasses",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/modern-sunglasses/az-w4h1os",
+    "original_price": 76.34,
+    "sale_price": 45.8,
+    "discount_percentage": 40,
+    "colors": [
+      "Pink",
+      "Olive",
+      "White",
+      "Brown"
+    ],
+    "in_stock": true,
+    "id": 158,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-HFTOSS",
+    "name": "Classic Jewelry Set",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/classic-jewelry-set/az-hftoss",
+    "original_price": 45.84,
+    "sale_price": 45.84,
+    "discount_percentage": 0,
+    "colors": [
+      "Blue",
+      "Cream"
+    ],
+    "in_stock": true,
+    "id": 159,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-B7HI61",
+    "name": "Modern Hat",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/modern-hat/az-b7hi61",
+    "original_price": 26.43,
+    "sale_price": 26.43,
+    "discount_percentage": 0,
+    "colors": [
+      "Olive",
+      "Camel"
+    ],
+    "in_stock": false,
+    "id": 160,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-FPSVS3",
+    "name": "Relaxed Hat",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/relaxed-hat/az-fpsvs3",
+    "original_price": 45.48,
+    "sale_price": 36.38,
+    "discount_percentage": 20,
+    "colors": [
+      "White",
+      "Burgundy",
+      "Green"
+    ],
+    "in_stock": true,
+    "id": 161,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-2F9BFY",
+    "name": "Signature Bag",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/signature-bag/az-2f9bfy",
+    "original_price": 40.78,
+    "sale_price": 40.78,
+    "discount_percentage": 0,
+    "colors": [
+      "Navy",
+      "Blue",
+      "Camel",
+      "Green",
+      "White"
+    ],
+    "in_stock": true,
+    "id": 162,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-BVWEH8",
+    "name": "Refined Belt",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/refined-belt/az-bvweh8",
+    "original_price": 51.22,
+    "sale_price": 51.22,
+    "discount_percentage": 0,
+    "colors": [
+      "Camel",
+      "Blue",
+      "Green"
+    ],
+    "in_stock": false,
+    "id": 163,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-HU1Z3D",
+    "name": "Refined Jewelry Set",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/refined-jewelry-set/az-hu1z3d",
+    "original_price": 45.53,
+    "sale_price": 45.53,
+    "discount_percentage": 0,
+    "colors": [
+      "Olive"
+    ],
+    "in_stock": true,
+    "id": 164,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-A81IVU",
+    "name": "Refined Hat",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/refined-hat/az-a81ivu",
+    "original_price": 80.93,
+    "sale_price": 64.74,
+    "discount_percentage": 20,
+    "colors": [
+      "Blue",
+      "Brown",
+      "Pink",
+      "Olive"
+    ],
+    "in_stock": true,
+    "id": 165,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-LZ5CBM",
+    "name": "Essential Hair Clip",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/essential-hair-clip/az-lz5cbm",
+    "original_price": 44.71,
+    "sale_price": 44.71,
+    "discount_percentage": 0,
+    "colors": [
+      "Olive",
+      "White",
+      "Navy"
+    ],
+    "in_stock": true,
+    "id": 166,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-A12L8Y",
+    "name": "Contour Jewelry Set",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/contour-jewelry-set/az-a12l8y",
+    "original_price": 41.81,
+    "sale_price": 29.27,
+    "discount_percentage": 30,
+    "colors": [
+      "Burgundy",
+      "White",
+      "Black"
+    ],
+    "in_stock": true,
+    "id": 167,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-6TW7MY",
+    "name": "Refined Sunglasses",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/refined-sunglasses/az-6tw7my",
+    "original_price": 82.38,
+    "sale_price": 57.67,
+    "discount_percentage": 30,
+    "colors": [
+      "Burgundy",
+      "Olive",
+      "Cream",
+      "Black"
+    ],
+    "in_stock": false,
+    "id": 168,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-PI3PY8",
+    "name": "Essential Hair Clip",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/essential-hair-clip/az-pi3py8",
+    "original_price": 60.78,
+    "sale_price": 54.7,
+    "discount_percentage": 10,
+    "colors": [
+      "White"
+    ],
+    "in_stock": true,
+    "id": 169,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-NASZMH",
+    "name": "Super Jewelry Set",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/super-jewelry-set/az-naszmh",
+    "original_price": 55.8,
+    "sale_price": 27.9,
+    "discount_percentage": 50,
+    "colors": [
+      "Blue"
+    ],
+    "in_stock": false,
+    "id": 170,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-1WGBGR",
+    "name": "Signature Scarf",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/signature-scarf/az-1wgbgr",
+    "original_price": 92.6,
+    "sale_price": 64.82,
+    "discount_percentage": 30,
+    "colors": [
+      "Cream",
+      "White"
+    ],
+    "in_stock": true,
+    "id": 171,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-EDMYVK",
+    "name": "Super Headband",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/super-headband/az-edmyvk",
+    "original_price": 70.53,
+    "sale_price": 42.32,
+    "discount_percentage": 40,
+    "colors": [
+      "White"
+    ],
+    "in_stock": false,
+    "id": 172,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-JBYLSP",
+    "name": "Classic Hair Clip",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/classic-hair-clip/az-jbylsp",
+    "original_price": 49.47,
+    "sale_price": 49.47,
+    "discount_percentage": 0,
+    "colors": [
+      "Cream"
+    ],
+    "in_stock": true,
+    "id": 173,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-CKWSHA",
+    "name": "Effortless Sunglasses",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/effortless-sunglasses/az-ckwsha",
+    "original_price": 92.5,
+    "sale_price": 92.5,
+    "discount_percentage": 0,
+    "colors": [
+      "Brown",
+      "Cream",
+      "Pink",
+      "Green",
+      "Black"
+    ],
+    "in_stock": true,
+    "id": 174,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-JA6L32",
+    "name": "Refined Belt",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/refined-belt/az-ja6l32",
+    "original_price": 55.4,
+    "sale_price": 44.32,
+    "discount_percentage": 20,
+    "colors": [
+      "Navy",
+      "Camel",
+      "Pink",
+      "Burgundy",
+      "White"
+    ],
+    "in_stock": true,
+    "id": 175,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-TQRXOQ",
+    "name": "Classic Hair Clip",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/classic-hair-clip/az-tqrxoq",
+    "original_price": 56.52,
+    "sale_price": 50.87,
+    "discount_percentage": 10,
+    "colors": [
+      "Black",
+      "Blue",
+      "Camel",
+      "Navy"
+    ],
+    "in_stock": true,
+    "id": 176,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-4FBQ56",
+    "name": "Classic Belt",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/classic-belt/az-4fbq56",
+    "original_price": 70.02,
+    "sale_price": 70.02,
+    "discount_percentage": 0,
+    "colors": [
+      "Blue",
+      "Brown",
+      "Burgundy"
+    ],
+    "in_stock": true,
+    "id": 177,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-FANQOE",
+    "name": "Ultra Headband",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/ultra-headband/az-fanqoe",
+    "original_price": 35.19,
+    "sale_price": 28.15,
+    "discount_percentage": 20,
+    "colors": [
+      "White",
+      "Black",
+      "Olive"
+    ],
+    "in_stock": true,
+    "id": 178,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-L3BSN8",
+    "name": "Relaxed Hair Clip",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/relaxed-hair-clip/az-l3bsn8",
+    "original_price": 82.33,
+    "sale_price": 57.63,
+    "discount_percentage": 30,
+    "colors": [
+      "Cream"
+    ],
+    "in_stock": true,
+    "id": 179,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-TLHNOT",
+    "name": "Essential Bag",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/essential-bag/az-tlhnot",
+    "original_price": 41.04,
+    "sale_price": 24.62,
+    "discount_percentage": 40,
+    "colors": [
+      "Brown"
+    ],
+    "in_stock": true,
+    "id": 180,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-ROMFTN",
+    "name": "Contour Sunglasses",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/contour-sunglasses/az-romftn",
+    "original_price": 57.45,
+    "sale_price": 40.21,
+    "discount_percentage": 30,
+    "colors": [
+      "Burgundy",
+      "Green",
+      "Grey",
+      "Brown",
+      "Cream"
+    ],
+    "in_stock": true,
+    "id": 181,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-PH9VU8",
+    "name": "Modern Belt",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/modern-belt/az-ph9vu8",
+    "original_price": 61.79,
+    "sale_price": 61.79,
+    "discount_percentage": 0,
+    "colors": [
+      "Camel",
+      "Black",
+      "White",
+      "Navy"
+    ],
+    "in_stock": true,
+    "id": 182,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-S0DXGK",
+    "name": "Refined Hair Clip",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/refined-hair-clip/az-s0dxgk",
+    "original_price": 70.16,
+    "sale_price": 70.16,
+    "discount_percentage": 0,
+    "colors": [
+      "Pink",
+      "White",
+      "Black",
+      "Green"
+    ],
+    "in_stock": true,
+    "id": 183,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-JLA1RE",
+    "name": "Ultra Bag",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/ultra-bag/az-jla1re",
+    "original_price": 27.36,
+    "sale_price": 21.89,
+    "discount_percentage": 20,
+    "colors": [
+      "Camel",
+      "Black",
+      "Brown"
+    ],
+    "in_stock": false,
+    "id": 184,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-N2KUSL",
+    "name": "Effortless Scarf",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/effortless-scarf/az-n2kusl",
+    "original_price": 73.8,
+    "sale_price": 73.8,
+    "discount_percentage": 0,
+    "colors": [
+      "White",
+      "Olive"
+    ],
+    "in_stock": true,
+    "id": 185,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-JZCOL0",
+    "name": "Ultra Belt",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/ultra-belt/az-jzcol0",
+    "original_price": 77.21,
+    "sale_price": 77.21,
+    "discount_percentage": 0,
+    "colors": [
+      "White"
+    ],
+    "in_stock": true,
+    "id": 186,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-T90ND8",
+    "name": "Effortless Jewelry Set",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/effortless-jewelry-set/az-t90nd8",
+    "original_price": 58.4,
+    "sale_price": 40.88,
+    "discount_percentage": 30,
+    "colors": [
+      "Black",
+      "Brown",
+      "Camel"
+    ],
+    "in_stock": true,
+    "id": 187,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-PSZV9U",
+    "name": "Super Belt",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/super-belt/az-pszv9u",
+    "original_price": 53.02,
+    "sale_price": 31.81,
+    "discount_percentage": 40,
+    "colors": [
+      "Green"
+    ],
+    "in_stock": false,
+    "id": 188,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-IO96GV",
+    "name": "Contour Belt",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/contour-belt/az-io96gv",
+    "original_price": 57.34,
+    "sale_price": 40.14,
+    "discount_percentage": 30,
+    "colors": [
+      "Navy",
+      "Camel",
+      "White",
+      "Green",
+      "Blue"
+    ],
+    "in_stock": false,
+    "id": 189,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-2YGPEE",
+    "name": "Super Hair Clip",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/super-hair-clip/az-2ygpee",
+    "original_price": 64.58,
+    "sale_price": 64.58,
+    "discount_percentage": 0,
+    "colors": [
+      "Burgundy",
+      "Navy",
+      "Pink"
+    ],
+    "in_stock": true,
+    "id": 190,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-QILOOS",
+    "name": "Signature Headband",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/signature-headband/az-qiloos",
+    "original_price": 77.59,
+    "sale_price": 77.59,
+    "discount_percentage": 0,
+    "colors": [
+      "Navy",
+      "Black"
+    ],
+    "in_stock": true,
+    "id": 191,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-UBS5JY",
+    "name": "Refined Hair Clip",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/refined-hair-clip/az-ubs5jy",
+    "original_price": 65.32,
+    "sale_price": 65.32,
+    "discount_percentage": 0,
+    "colors": [
+      "Cream",
+      "Blue"
+    ],
+    "in_stock": true,
+    "id": 192,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-4V1J0I",
+    "name": "Classic Jewelry Set",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/classic-jewelry-set/az-4v1j0i",
+    "original_price": 29.08,
+    "sale_price": 29.08,
+    "discount_percentage": 0,
+    "colors": [
+      "White",
+      "Blue",
+      "Brown"
+    ],
+    "in_stock": true,
+    "id": 193,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-KTSPA3",
+    "name": "Super Hair Clip",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/super-hair-clip/az-ktspa3",
+    "original_price": 98.24,
+    "sale_price": 68.77,
+    "discount_percentage": 30,
+    "colors": [
+      "Black",
+      "Navy",
+      "Olive",
+      "Cream"
+    ],
+    "in_stock": true,
+    "id": 194,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-OTM4FQ",
+    "name": "Ultra Bag",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/ultra-bag/az-otm4fq",
+    "original_price": 73.07,
+    "sale_price": 73.07,
+    "discount_percentage": 0,
+    "colors": [
+      "Olive",
+      "Green",
+      "Pink"
+    ],
+    "in_stock": true,
+    "id": 195,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-XL8N6Y",
+    "name": "Relaxed Bag",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/relaxed-bag/az-xl8n6y",
+    "original_price": 76.2,
+    "sale_price": 76.2,
+    "discount_percentage": 0,
+    "colors": [
+      "Green"
+    ],
+    "in_stock": false,
+    "id": 196,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  },
+  {
+    "sku": "AZ-AY7TAG",
+    "name": "Effortless Jewelry Set",
+    "category": "accessories",
+    "url": "https://www.aritzia.com/en/product/effortless-jewelry-set/az-ay7tag",
+    "original_price": 55.32,
+    "sale_price": 38.72,
+    "discount_percentage": 30,
+    "colors": [
+      "Pink"
+    ],
+    "in_stock": true,
+    "id": 197,
+    "collection_timestamp": "2025-12-05 00:00:00",
+    "collection_date": "2025-12-05"
+  }
+]

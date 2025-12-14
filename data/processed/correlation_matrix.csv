@@ -1,0 +1,5 @@
+,original_price,sale_price,discount_percentage,savings_amount
+original_price,1.0,0.959,-0.036,0.413
+sale_price,0.959,1.0,-0.274,0.138
+discount_percentage,-0.036,-0.274,1.0,0.753
+savings_amount,0.413,0.138,0.753,1.0

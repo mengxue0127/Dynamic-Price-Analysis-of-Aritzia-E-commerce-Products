@@ -1,0 +1,6 @@
+category,avg_discount,median_discount,max_discount,discount_std,unique_products,avg_savings,on_sale_pct,discount_volatility
+accessories,15.29,10.0,50.0,16.01,48,10.08,55.83,17.31
+tops,13.42,10.0,50.0,13.89,33,11.39,59.39,14.22
+outerwear,12.59,0.0,50.0,15.49,37,37.19,49.19,15.61
+pants,11.76,10.0,50.0,14.43,41,14.37,51.22,18.34
+dresses,8.5,0.0,40.0,11.0,38,16.87,44.47,10.79

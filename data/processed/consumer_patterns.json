@@ -1,0 +1,34 @@
+{
+  "best_deal_category": {
+    "category": "outerwear",
+    "avg_savings": 37.18610810810811,
+    "avg_discount": 12.594594594594595
+  },
+  "price_tier_analysis": {
+    "avg_discount": {
+      "budget": 9.117647058823529,
+      "luxury": 12.479166666666666,
+      "mid-range": 14.442857142857143,
+      "premium": 11.016129032258064
+    },
+    "count": {
+      "budget": 170,
+      "luxury": 480,
+      "mid-range": 700,
+      "premium": 620
+    },
+    "avg_savings": {
+      "budget": 3.654764705882353,
+      "luxury": 35.52727083333333,
+      "mid-range": 10.775571428571428,
+      "premium": 15.23175806451613
+    }
+  },
+  "price_discount_correlation": -0.03571290313428142,
+  "discount_distribution": {
+    "small": 0.5765853658536585,
+    "medium": 0.36878048780487804,
+    "large": 0.054634146341463415
+  },
+  "consistently_discounted": 59
+}

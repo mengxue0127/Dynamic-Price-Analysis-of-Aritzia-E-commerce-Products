@@ -1,0 +1,27 @@
+{
+  "total_products": 197,
+  "total_observations": 1970,
+  "date_range": {
+    "start": "2025-12-01",
+    "end": "2025-12-10",
+    "num_days": 10
+  },
+  "categories": [
+    "outerwear",
+    "dresses",
+    "tops",
+    "pants",
+    "accessories"
+  ],
+  "price_statistics": {
+    "mean_original_price": 145.5,
+    "median_original_price": 118.59,
+    "min_price": 26.43,
+    "max_price": 449.53
+  },
+  "discount_statistics": {
+    "products_on_sale_pct": 52.03,
+    "mean_discount": 23.88,
+    "max_discount": 50.0
+  }
+}

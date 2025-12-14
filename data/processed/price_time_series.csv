@@ -1,0 +1,1971 @@
+date,sku,name,category,original_price,sale_price,discount_percentage,price_tier,discount_tier,in_stock,savings_amount
+2025-12-01,AZ-PH0QSF,Refined Bomber Jacket,outerwear,227.95,227.95,0.0,luxury,none,True,0.0
+2025-12-01,AZ-QQVC4C,Ultra Denim Jacket,outerwear,337.88,337.88,0.0,luxury,none,True,0.0
+2025-12-01,AZ-5JBDFL,Signature Blazer,outerwear,416.3,374.67,10.0,luxury,small,True,41.63
+2025-12-01,AZ-4EC5H6,Relaxed Bomber Jacket,outerwear,203.09,203.09,0.0,luxury,none,True,0.0
+2025-12-01,AZ-32X3QD,Relaxed Trench Coat,outerwear,176.21,176.21,0.0,premium,none,True,0.0
+2025-12-01,AZ-RCQUUB,Ultra Blazer,outerwear,242.74,145.64,40.0,luxury,medium,True,97.1
+2025-12-01,AZ-UZSL4I,Ultra Denim Jacket,outerwear,358.06,322.25,10.0,luxury,small,True,35.81
+2025-12-01,AZ-K5P5KJ,Modern Leather Jacket,outerwear,298.55,149.28,50.0,luxury,large,True,149.27
+2025-12-01,AZ-OSVS0I,Relaxed Cardigan,outerwear,168.71,101.23,40.0,premium,medium,True,67.48
+2025-12-01,AZ-KE2DB0,Refined Denim Jacket,outerwear,154.59,123.67,20.0,premium,small,True,30.92
+2025-12-01,AZ-QJS2D9,Effortless Puffer Jacket,outerwear,411.04,411.04,0.0,luxury,none,True,0.0
+2025-12-01,AZ-QPV8MI,Ultra Bomber Jacket,outerwear,449.53,449.53,0.0,luxury,none,True,0.0
+2025-12-01,AZ-UNFA66,Relaxed Leather Jacket,outerwear,352.68,176.34,50.0,luxury,large,True,176.34
+2025-12-01,AZ-RKF2R3,Refined Wool Coat,outerwear,243.15,170.2,30.0,luxury,medium,True,72.95
+2025-12-01,AZ-HGILUH,Refined Trench Coat,outerwear,426.55,426.55,0.0,luxury,none,True,0.0
+2025-12-01,AZ-1QA67Z,Classic Cardigan,outerwear,310.39,248.31,20.0,luxury,small,True,62.08
+2025-12-01,AZ-UG75PL,Modern Puffer Jacket,outerwear,286.85,258.17,10.0,luxury,small,True,28.68
+2025-12-01,AZ-AOAWMK,Ultra Trench Coat,outerwear,261.18,182.83,30.0,luxury,medium,True,78.35
+2025-12-01,AZ-Q0M66L,Modern Puffer Jacket,outerwear,208.59,187.73,10.0,luxury,small,True,20.86
+2025-12-01,AZ-T1I4IN,Signature Cardigan,outerwear,279.71,279.71,0.0,luxury,none,False,0.0
+2025-12-01,AZ-3GYNHZ,Effortless Bomber Jacket,outerwear,278.98,278.98,0.0,luxury,none,True,0.0
+2025-12-01,AZ-J8K1TN,Modern Bomber Jacket,outerwear,189.59,189.59,0.0,premium,none,True,0.0
+2025-12-01,AZ-YPLBF0,Signature Cardigan,outerwear,210.39,210.39,0.0,luxury,none,True,0.0
+2025-12-01,AZ-JCVEEH,Super Denim Jacket,outerwear,362.69,253.88,30.0,luxury,medium,True,108.81
+2025-12-01,AZ-M0SRBB,Refined Leather Jacket,outerwear,333.7,333.7,0.0,luxury,none,True,0.0
+2025-12-01,AZ-X56GSD,Effortless Blazer,outerwear,267.42,267.42,0.0,luxury,none,False,0.0
+2025-12-01,AZ-3CR0CI,Super Blazer,outerwear,323.41,323.41,0.0,luxury,none,True,0.0
+2025-12-01,AZ-GUK6PC,Relaxed Puffer Jacket,outerwear,384.01,384.01,0.0,luxury,none,True,0.0
+2025-12-01,AZ-H6GK94,Contour Leather Jacket,outerwear,170.1,170.1,0.0,premium,none,True,0.0
+2025-12-01,AZ-ZJF4H5,Essential Puffer Jacket,outerwear,342.55,239.78,30.0,luxury,medium,True,102.77
+2025-12-01,AZ-4KNE4W,Modern Blazer,outerwear,270.69,135.34,50.0,luxury,large,True,135.35
+2025-12-01,AZ-FDZBC2,Super Puffer Jacket,outerwear,237.24,237.24,0.0,luxury,none,True,0.0
+2025-12-01,AZ-DSHHZR,Classic Wool Coat,outerwear,274.08,219.26,20.0,luxury,small,True,54.82
+2025-12-01,AZ-5PJV8U,Effortless Denim Jacket,outerwear,419.39,419.39,0.0,luxury,none,True,0.0
+2025-12-01,AZ-G5H5VH,Super Blazer,outerwear,272.76,245.48,10.0,luxury,small,True,27.28
+2025-12-01,AZ-1A326N,Classic Blazer,outerwear,392.81,314.25,20.0,luxury,small,True,78.56
+2025-12-01,AZ-YYIVBV,Effortless Bomber Jacket,outerwear,210.01,210.01,0.0,luxury,none,True,0.0
+2025-12-01,AZ-18ERLF,Signature Midi Dress,dresses,170.6,153.54,10.0,premium,small,True,17.06
+2025-12-01,AZ-EYHLUU,Effortless Midi Dress,dresses,237.77,190.22,20.0,luxury,small,True,47.55
+2025-12-01,AZ-D76V07,Super Bodycon Dress,dresses,187.81,187.81,0.0,premium,none,True,0.0
+2025-12-01,AZ-PMRD7R,Classic Bodycon Dress,dresses,191.1,191.1,0.0,premium,none,True,0.0
+2025-12-01,AZ-MPNAMZ,Ultra Maxi Dress,dresses,248.5,198.8,20.0,luxury,small,True,49.7
+2025-12-01,AZ-AJZ0ZO,Relaxed Shirt Dress,dresses,212.37,212.37,0.0,luxury,none,True,0.0
+2025-12-01,AZ-F986IF,Modern Midi Dress,dresses,244.8,244.8,0.0,luxury,none,True,0.0
+2025-12-01,AZ-SHM1VN,Effortless Slip Dress,dresses,188.03,188.03,0.0,premium,none,True,0.0
+2025-12-01,AZ-LYAMH8,Super Wrap Dress,dresses,165.41,165.41,0.0,premium,none,True,0.0
+2025-12-01,AZ-POAXHG,Modern Bodycon Dress,dresses,81.79,73.61,10.0,mid-range,small,True,8.18
+2025-12-01,AZ-7YEXY4,Super Sweater Dress,dresses,85.27,85.27,0.0,mid-range,none,True,0.0
+2025-12-01,AZ-LLCOZK,Classic Slip Dress,dresses,216.21,216.21,0.0,luxury,none,False,0.0
+2025-12-01,AZ-NB4G6M,Essential Mini Dress,dresses,206.95,206.95,0.0,luxury,none,True,0.0
+2025-12-01,AZ-Z33OUA,Signature Maxi Dress,dresses,230.52,138.31,40.0,luxury,medium,True,92.21
+2025-12-01,AZ-H0LQ9Q,Super Maxi Dress,dresses,225.44,157.81,30.0,luxury,medium,True,67.63
+2025-12-01,AZ-7S6ZGN,Effortless Sweater Dress,dresses,226.85,204.16,10.0,luxury,small,True,22.69
+2025-12-01,AZ-D0C84T,Classic Sweater Dress,dresses,197.89,178.1,10.0,premium,small,True,19.79
+2025-12-01,AZ-LK9DVW,Classic Bodycon Dress,dresses,159.47,159.47,0.0,premium,none,True,0.0
+2025-12-01,AZ-RHMZPZ,Relaxed Wrap Dress,dresses,173.75,173.75,0.0,premium,none,True,0.0
+2025-12-01,AZ-WDD2YU,Ultra Mini Dress,dresses,131.05,131.05,0.0,premium,none,True,0.0
+2025-12-01,AZ-WAIU5G,Signature Midi Dress,dresses,198.46,198.46,0.0,premium,none,True,0.0
+2025-12-01,AZ-1467MT,Essential Sweater Dress,dresses,183.82,147.06,20.0,premium,small,True,36.76
+2025-12-01,AZ-1PZFRS,Signature Bodycon Dress,dresses,208.24,166.59,20.0,luxury,small,True,41.65
+2025-12-01,AZ-X4C5QA,Essential Wrap Dress,dresses,204.64,163.71,20.0,luxury,small,True,40.93
+2025-12-01,AZ-68SOH5,Relaxed Wrap Dress,dresses,182.86,164.57,10.0,premium,small,True,18.29
+2025-12-01,AZ-E8UEYA,Ultra Bodycon Dress,dresses,104.16,93.74,10.0,premium,small,True,10.42
+2025-12-01,AZ-N3121J,Relaxed Mini Dress,dresses,199.49,179.54,10.0,premium,small,True,19.95
+2025-12-01,AZ-B3E189,Signature Sweater Dress,dresses,112.35,78.64,30.0,premium,medium,True,33.71
+2025-12-01,AZ-48CWV6,Ultra Midi Dress,dresses,231.85,231.85,0.0,luxury,none,True,0.0
+2025-12-01,AZ-I0RAW6,Ultra Wrap Dress,dresses,221.91,221.91,0.0,luxury,none,True,0.0
+2025-12-01,AZ-1W3ZPN,Modern Wrap Dress,dresses,238.34,238.34,0.0,luxury,none,True,0.0
+2025-12-01,AZ-SFDS4G,Classic Sweater Dress,dresses,159.68,143.71,10.0,premium,small,True,15.97
+2025-12-01,AZ-OO5U97,Signature Midi Dress,dresses,146.5,146.5,0.0,premium,none,True,0.0
+2025-12-01,AZ-M628SD,Effortless Shirt Dress,dresses,133.15,133.15,0.0,premium,none,True,0.0
+2025-12-01,AZ-NDMO21,Modern Shirt Dress,dresses,172.6,172.6,0.0,premium,none,True,0.0
+2025-12-01,AZ-1QD320,Signature Maxi Dress,dresses,241.71,169.2,30.0,luxury,medium,True,72.51
+2025-12-01,AZ-5B6PRW,Essential Slip Dress,dresses,211.24,211.24,0.0,luxury,none,True,0.0
+2025-12-01,AZ-XLN1X8,Super Maxi Dress,dresses,197.39,157.91,20.0,premium,small,False,39.48
+2025-12-01,AZ-SNGSRF,Super Hoodie,tops,73.22,58.58,20.0,mid-range,small,True,14.64
+2025-12-01,AZ-OV99KM,Signature Turtleneck,tops,56.86,56.86,0.0,mid-range,none,True,0.0
+2025-12-01,AZ-WEMHAV,Classic Blouse,tops,96.12,86.51,10.0,mid-range,small,True,9.61
+2025-12-01,AZ-WGNJNH,Ultra Henley Top,tops,58.83,47.06,20.0,mid-range,small,True,11.77
+2025-12-01,AZ-4P7M5Q,Contour Cropped Tank,tops,54.64,54.64,0.0,mid-range,none,True,0.0
+2025-12-01,AZ-MSSHSZ,Essential Sweater,tops,58.9,58.9,0.0,mid-range,none,True,0.0
+2025-12-01,AZ-S3NW8R,Classic Henley Top,tops,74.29,59.43,20.0,mid-range,small,True,14.86
+2025-12-01,AZ-17MNEJ,Contour Oversized Tee,tops,80.56,72.5,10.0,mid-range,small,True,8.06
+2025-12-01,AZ-0MYVHK,Essential Blouse,tops,96.32,77.06,20.0,mid-range,small,False,19.26
+2025-12-01,AZ-C7JWOB,Relaxed Bodysuit,tops,68.56,47.99,30.0,mid-range,medium,True,20.57
+2025-12-01,AZ-OQL21A,Super Henley Top,tops,45.19,36.15,20.0,budget,small,True,9.04
+2025-12-01,AZ-0TXYWL,Relaxed Sweater,tops,44.78,44.78,0.0,budget,none,True,0.0
+2025-12-01,AZ-DWZOUE,Essential Henley Top,tops,86.68,69.34,20.0,mid-range,small,True,17.34
+2025-12-01,AZ-XP9XDI,Relaxed Cropped Tank,tops,55.37,55.37,0.0,mid-range,none,False,0.0
+2025-12-01,AZ-75EQYO,Refined Henley Top,tops,87.43,87.43,0.0,mid-range,none,True,0.0
+2025-12-01,AZ-WGDPHC,Relaxed Bodysuit,tops,65.65,59.09,10.0,mid-range,small,True,6.56
+2025-12-01,AZ-YC6LEI,Relaxed Bodysuit,tops,81.98,73.78,10.0,mid-range,small,True,8.2
+2025-12-01,AZ-A1946R,Essential Henley Top,tops,97.04,97.04,0.0,mid-range,none,True,0.0
+2025-12-01,AZ-KC2U2R,Modern Turtleneck,tops,80.76,72.68,10.0,mid-range,small,False,8.08
+2025-12-01,AZ-AT3IC1,Super Blouse,tops,96.7,77.36,20.0,mid-range,small,True,19.34
+2025-12-01,AZ-NHES7S,Relaxed Hoodie,tops,77.55,62.04,20.0,mid-range,small,True,15.51
+2025-12-01,AZ-7QGPNC,Effortless Sweater,tops,105.83,74.08,30.0,premium,medium,True,31.75
+2025-12-01,AZ-GA8E9T,Signature Oversized Tee,tops,114.58,80.21,30.0,premium,medium,True,34.37
+2025-12-01,AZ-9FA9F3,Modern Sweater,tops,63.67,38.2,40.0,mid-range,medium,True,25.47
+2025-12-01,AZ-HYJ0TN,Contour Blouse,tops,68.65,68.65,0.0,mid-range,none,True,0.0
+2025-12-01,AZ-HGK4SA,Modern Blouse,tops,67.64,67.64,0.0,mid-range,none,True,0.0
+2025-12-01,AZ-F98LT2,Refined Sweater,tops,113.36,113.36,0.0,premium,none,True,0.0
+2025-12-01,AZ-1NDUUI,Super Hoodie,tops,118.59,94.87,20.0,premium,small,False,23.72
+2025-12-01,AZ-R5JD8H,Super Sweater,tops,40.82,40.82,0.0,budget,none,True,0.0
+2025-12-01,AZ-M9JLMA,Refined Turtleneck,tops,75.78,68.2,10.0,mid-range,small,True,7.58
+2025-12-01,AZ-78BVPP,Refined Hoodie,tops,98.56,49.28,50.0,mid-range,large,True,49.28
+2025-12-01,AZ-B7075J,Essential Cropped Tank,tops,81.35,73.22,10.0,mid-range,small,True,8.13
+2025-12-01,AZ-0ZRUBY,Contour Cropped Tank,tops,87.89,70.31,20.0,mid-range,small,True,17.58
+2025-12-01,AZ-Z0ASRZ,Super Culottes,pants,66.08,52.86,20.0,mid-range,small,True,13.22
+2025-12-01,AZ-5Y29E0,Modern Culottes,pants,173.31,173.31,0.0,premium,none,True,0.0
+2025-12-01,AZ-AJH0GY,Ultra Wide Leg Pants,pants,139.69,97.78,30.0,premium,medium,True,41.91
+2025-12-01,AZ-J5CY1G,Ultra Leggings,pants,139.73,139.73,0.0,premium,none,True,0.0
+2025-12-01,AZ-2RCA6W,Relaxed Dress Pants,pants,171.31,171.31,0.0,premium,none,True,0.0
+2025-12-01,AZ-T81FOS,Super Leggings,pants,106.34,106.34,0.0,premium,none,True,0.0
+2025-12-01,AZ-GOBGBX,Classic Leggings,pants,138.85,83.31,40.0,premium,medium,True,55.54
+2025-12-01,AZ-3AV2LR,Modern Shorts,pants,100.47,100.47,0.0,premium,none,True,0.0
+2025-12-01,AZ-MW10M4,Relaxed Dress Pants,pants,131.19,118.07,10.0,premium,small,False,13.12
+2025-12-01,AZ-NLZJZN,Modern Jeans,pants,124.46,99.57,20.0,premium,small,True,24.89
+2025-12-01,AZ-CBPMFC,Ultra Shorts,pants,90.98,90.98,0.0,mid-range,none,True,0.0
+2025-12-01,AZ-WKGB79,Classic Wide Leg Pants,pants,115.73,92.58,20.0,premium,small,False,23.15
+2025-12-01,AZ-BZEIEA,Contour Joggers,pants,144.64,144.64,0.0,premium,none,True,0.0
+2025-12-01,AZ-WDU4HN,Refined Cargo Pants,pants,154.39,154.39,0.0,premium,none,True,0.0
+2025-12-01,AZ-ZUQNC8,Essential Leggings,pants,123.76,99.01,20.0,premium,small,False,24.75
+2025-12-01,AZ-E8GV8Q,Classic Leggings,pants,163.72,81.86,50.0,premium,large,True,81.86
+2025-12-01,AZ-8SV1D4,Modern Culottes,pants,133.46,133.46,0.0,premium,none,True,0.0
+2025-12-01,AZ-72RS88,Relaxed Dress Pants,pants,62.34,43.64,30.0,mid-range,medium,True,18.7
+2025-12-01,AZ-NVDXM6,Relaxed Cargo Pants,pants,79.07,79.07,0.0,mid-range,none,True,0.0
+2025-12-01,AZ-KFUER1,Modern Joggers,pants,140.9,112.72,20.0,premium,small,True,28.18
+2025-12-01,AZ-A3CB79,Effortless Dress Pants,pants,127.03,101.62,20.0,premium,small,True,25.41
+2025-12-01,AZ-PBT88K,Signature Wide Leg Pants,pants,123.49,74.09,40.0,premium,medium,True,49.4
+2025-12-01,AZ-E44XUS,Refined Culottes,pants,151.5,151.5,0.0,premium,none,True,0.0
+2025-12-01,AZ-IOGNEF,Essential Wide Leg Pants,pants,111.58,100.42,10.0,premium,small,True,11.16
+2025-12-01,AZ-202AM9,Modern Jeans,pants,74.45,74.45,0.0,mid-range,none,True,0.0
+2025-12-01,AZ-IL8LFA,Ultra Wide Leg Pants,pants,125.6,75.36,40.0,premium,medium,True,50.24
+2025-12-01,AZ-8WFEXR,Effortless Dress Pants,pants,94.27,94.27,0.0,mid-range,none,True,0.0
+2025-12-01,AZ-GD95EM,Modern Wide Leg Pants,pants,167.09,150.38,10.0,premium,small,True,16.71
+2025-12-01,AZ-VH54KI,Super Wide Leg Pants,pants,147.23,147.23,0.0,premium,none,True,0.0
+2025-12-01,AZ-425SPA,Refined Jeans,pants,98.46,98.46,0.0,mid-range,none,True,0.0
+2025-12-01,AZ-PYJN1T,Signature Shorts,pants,126.37,63.19,50.0,premium,large,True,63.18
+2025-12-01,AZ-FE23LH,Refined Jeans,pants,145.82,145.82,0.0,premium,none,True,0.0
+2025-12-01,AZ-TJWUCW,Relaxed Dress Pants,pants,121.3,109.17,10.0,premium,small,True,12.13
+2025-12-01,AZ-71P5AB,Effortless Culottes,pants,177.0,177.0,0.0,premium,none,True,0.0
+2025-12-01,AZ-AE97L6,Ultra Joggers,pants,176.29,176.29,0.0,premium,none,True,0.0
+2025-12-01,AZ-7K0VIE,Essential Leggings,pants,100.85,80.68,20.0,premium,small,True,20.17
+2025-12-01,AZ-XPZODM,Refined Shorts,pants,173.05,155.75,10.0,premium,small,True,17.3
+2025-12-01,AZ-I1O3WX,Relaxed Cargo Pants,pants,131.46,78.88,40.0,premium,medium,True,52.58
+2025-12-01,AZ-KC5PQZ,Super Wide Leg Pants,pants,144.32,144.32,0.0,premium,none,True,0.0
+2025-12-01,AZ-P70LO8,Signature Joggers,pants,112.0,112.0,0.0,premium,none,True,0.0
+2025-12-01,AZ-E9MGTC,Modern Jeans,pants,87.3,78.57,10.0,mid-range,small,True,8.73
+2025-12-01,AZ-C7WODD,Effortless Hat,accessories,80.79,64.63,20.0,mid-range,small,False,16.16
+2025-12-01,AZ-WURW5A,Modern Hair Clip,accessories,98.22,98.22,0.0,mid-range,none,False,0.0
+2025-12-01,AZ-E9LAO6,Essential Sunglasses,accessories,81.48,40.74,50.0,mid-range,large,True,40.74
+2025-12-01,AZ-EVJU4R,Signature Headband,accessories,86.22,60.35,30.0,mid-range,medium,True,25.87
+2025-12-01,AZ-FUCTDF,Effortless Hair Clip,accessories,29.42,29.42,0.0,budget,none,True,0.0
+2025-12-01,AZ-KCG3CJ,Essential Hair Clip,accessories,76.13,53.29,30.0,mid-range,medium,True,22.84
+2025-12-01,AZ-N86BXM,Essential Headband,accessories,79.32,71.39,10.0,mid-range,small,True,7.93
+2025-12-01,AZ-JIQY8B,Contour Headband,accessories,37.5,37.5,0.0,budget,none,True,0.0
+2025-12-01,AZ-W4H1OS,Modern Sunglasses,accessories,76.34,53.44,30.0,mid-range,medium,True,22.9
+2025-12-01,AZ-HFTOSS,Classic Jewelry Set,accessories,45.84,45.84,0.0,budget,none,True,0.0
+2025-12-01,AZ-B7HI61,Modern Hat,accessories,26.43,26.43,0.0,budget,none,False,0.0
+2025-12-01,AZ-FPSVS3,Relaxed Hat,accessories,45.48,36.38,20.0,budget,small,True,9.1
+2025-12-01,AZ-2F9BFY,Signature Bag,accessories,40.78,40.78,0.0,budget,none,True,0.0
+2025-12-01,AZ-BVWEH8,Refined Belt,accessories,51.22,46.1,10.0,mid-range,small,False,5.12
+2025-12-01,AZ-HU1Z3D,Refined Jewelry Set,accessories,45.53,36.42,20.0,budget,small,True,9.11
+2025-12-01,AZ-A81IVU,Refined Hat,accessories,80.93,64.74,20.0,mid-range,small,True,16.19
+2025-12-01,AZ-LZ5CBM,Essential Hair Clip,accessories,44.71,44.71,0.0,budget,none,True,0.0
+2025-12-01,AZ-A12L8Y,Contour Jewelry Set,accessories,41.81,25.09,40.0,budget,medium,True,16.72
+2025-12-01,AZ-6TW7MY,Refined Sunglasses,accessories,82.38,57.67,30.0,mid-range,medium,False,24.71
+2025-12-01,AZ-PI3PY8,Essential Hair Clip,accessories,60.78,54.7,10.0,mid-range,small,True,6.08
+2025-12-01,AZ-NASZMH,Super Jewelry Set,accessories,55.8,33.48,40.0,mid-range,medium,False,22.32
+2025-12-01,AZ-1WGBGR,Signature Scarf,accessories,92.6,64.82,30.0,mid-range,medium,True,27.78
+2025-12-01,AZ-EDMYVK,Super Headband,accessories,70.53,42.32,40.0,mid-range,medium,False,28.21
+2025-12-01,AZ-JBYLSP,Classic Hair Clip,accessories,49.47,49.47,0.0,budget,none,True,0.0
+2025-12-01,AZ-CKWSHA,Effortless Sunglasses,accessories,92.5,92.5,0.0,mid-range,none,True,0.0
+2025-12-01,AZ-JA6L32,Refined Belt,accessories,55.4,55.4,0.0,mid-range,none,True,0.0
+2025-12-01,AZ-TQRXOQ,Classic Hair Clip,accessories,56.52,45.22,20.0,mid-range,small,True,11.3
+2025-12-01,AZ-4FBQ56,Classic Belt,accessories,70.02,70.02,0.0,mid-range,none,True,0.0
+2025-12-01,AZ-FANQOE,Ultra Headband,accessories,35.19,24.63,30.0,budget,medium,True,10.56
+2025-12-01,AZ-L3BSN8,Relaxed Hair Clip,accessories,82.33,57.63,30.0,mid-range,medium,True,24.7
+2025-12-01,AZ-TLHNOT,Essential Bag,accessories,41.04,24.62,40.0,budget,medium,True,16.42
+2025-12-01,AZ-ROMFTN,Contour Sunglasses,accessories,57.45,40.21,30.0,mid-range,medium,True,17.24
+2025-12-01,AZ-PH9VU8,Modern Belt,accessories,61.79,55.61,10.0,mid-range,small,True,6.18
+2025-12-01,AZ-S0DXGK,Refined Hair Clip,accessories,70.16,70.16,0.0,mid-range,none,True,0.0
+2025-12-01,AZ-JLA1RE,Ultra Bag,accessories,27.36,24.62,10.0,budget,small,False,2.74
+2025-12-01,AZ-N2KUSL,Effortless Scarf,accessories,73.8,36.9,50.0,mid-range,large,True,36.9
+2025-12-01,AZ-JZCOL0,Ultra Belt,accessories,77.21,77.21,0.0,mid-range,none,True,0.0
+2025-12-01,AZ-T90ND8,Effortless Jewelry Set,accessories,58.4,58.4,0.0,mid-range,none,True,0.0
+2025-12-01,AZ-PSZV9U,Super Belt,accessories,53.02,37.11,30.0,mid-range,medium,False,15.91
+2025-12-01,AZ-IO96GV,Contour Belt,accessories,57.34,45.87,20.0,mid-range,small,False,11.47
+2025-12-01,AZ-2YGPEE,Super Hair Clip,accessories,64.58,51.66,20.0,mid-range,small,True,12.92
+2025-12-01,AZ-QILOOS,Signature Headband,accessories,77.59,77.59,0.0,mid-range,none,True,0.0
+2025-12-01,AZ-UBS5JY,Refined Hair Clip,accessories,65.32,65.32,0.0,mid-range,none,True,0.0
+2025-12-01,AZ-4V1J0I,Classic Jewelry Set,accessories,29.08,29.08,0.0,budget,none,True,0.0
+2025-12-01,AZ-KTSPA3,Super Hair Clip,accessories,98.24,68.77,30.0,mid-range,medium,True,29.47
+2025-12-01,AZ-OTM4FQ,Ultra Bag,accessories,73.07,73.07,0.0,mid-range,none,True,0.0
+2025-12-01,AZ-XL8N6Y,Relaxed Bag,accessories,76.2,76.2,0.0,mid-range,none,False,0.0
+2025-12-01,AZ-AY7TAG,Effortless Jewelry Set,accessories,55.32,44.26,20.0,mid-range,small,True,11.06
+2025-12-02,AZ-PH0QSF,Refined Bomber Jacket,outerwear,227.95,227.95,0.0,luxury,none,True,0.0
+2025-12-02,AZ-QQVC4C,Ultra Denim Jacket,outerwear,337.88,337.88,0.0,luxury,none,True,0.0
+2025-12-02,AZ-5JBDFL,Signature Blazer,outerwear,416.3,374.67,10.0,luxury,small,True,41.63
+2025-12-02,AZ-4EC5H6,Relaxed Bomber Jacket,outerwear,203.09,203.09,0.0,luxury,none,True,0.0
+2025-12-02,AZ-32X3QD,Relaxed Trench Coat,outerwear,176.21,176.21,0.0,premium,none,True,0.0
+2025-12-02,AZ-RCQUUB,Ultra Blazer,outerwear,242.74,145.64,40.0,luxury,medium,True,97.1
+2025-12-02,AZ-UZSL4I,Ultra Denim Jacket,outerwear,358.06,322.25,10.0,luxury,small,True,35.81
+2025-12-02,AZ-K5P5KJ,Modern Leather Jacket,outerwear,298.55,149.28,50.0,luxury,large,True,149.27
+2025-12-02,AZ-OSVS0I,Relaxed Cardigan,outerwear,168.71,101.23,40.0,premium,medium,True,67.48
+2025-12-02,AZ-KE2DB0,Refined Denim Jacket,outerwear,154.59,123.67,20.0,premium,small,True,30.92
+2025-12-02,AZ-QJS2D9,Effortless Puffer Jacket,outerwear,411.04,411.04,0.0,luxury,none,True,0.0
+2025-12-02,AZ-QPV8MI,Ultra Bomber Jacket,outerwear,449.53,449.53,0.0,luxury,none,True,0.0
+2025-12-02,AZ-UNFA66,Relaxed Leather Jacket,outerwear,352.68,176.34,50.0,luxury,large,True,176.34
+2025-12-02,AZ-RKF2R3,Refined Wool Coat,outerwear,243.15,170.2,30.0,luxury,medium,True,72.95
+2025-12-02,AZ-HGILUH,Refined Trench Coat,outerwear,426.55,426.55,0.0,luxury,none,True,0.0
+2025-12-02,AZ-1QA67Z,Classic Cardigan,outerwear,310.39,248.31,20.0,luxury,small,True,62.08
+2025-12-02,AZ-UG75PL,Modern Puffer Jacket,outerwear,286.85,258.17,10.0,luxury,small,True,28.68
+2025-12-02,AZ-AOAWMK,Ultra Trench Coat,outerwear,261.18,182.83,30.0,luxury,medium,True,78.35
+2025-12-02,AZ-Q0M66L,Modern Puffer Jacket,outerwear,208.59,187.73,10.0,luxury,small,True,20.86
+2025-12-02,AZ-T1I4IN,Signature Cardigan,outerwear,279.71,279.71,0.0,luxury,none,False,0.0
+2025-12-02,AZ-3GYNHZ,Effortless Bomber Jacket,outerwear,278.98,278.98,0.0,luxury,none,True,0.0
+2025-12-02,AZ-J8K1TN,Modern Bomber Jacket,outerwear,189.59,189.59,0.0,premium,none,True,0.0
+2025-12-02,AZ-YPLBF0,Signature Cardigan,outerwear,210.39,210.39,0.0,luxury,none,True,0.0
+2025-12-02,AZ-JCVEEH,Super Denim Jacket,outerwear,362.69,290.15,20.0,luxury,small,True,72.54
+2025-12-02,AZ-M0SRBB,Refined Leather Jacket,outerwear,333.7,333.7,0.0,luxury,none,True,0.0
+2025-12-02,AZ-X56GSD,Effortless Blazer,outerwear,267.42,267.42,0.0,luxury,none,False,0.0
+2025-12-02,AZ-3CR0CI,Super Blazer,outerwear,323.41,323.41,0.0,luxury,none,True,0.0
+2025-12-02,AZ-GUK6PC,Relaxed Puffer Jacket,outerwear,384.01,384.01,0.0,luxury,none,True,0.0
+2025-12-02,AZ-H6GK94,Contour Leather Jacket,outerwear,170.1,170.1,0.0,premium,none,True,0.0
+2025-12-02,AZ-ZJF4H5,Essential Puffer Jacket,outerwear,342.55,239.78,30.0,luxury,medium,True,102.77
+2025-12-02,AZ-4KNE4W,Modern Blazer,outerwear,270.69,135.34,50.0,luxury,large,True,135.35
+2025-12-02,AZ-FDZBC2,Super Puffer Jacket,outerwear,237.24,237.24,0.0,luxury,none,True,0.0
+2025-12-02,AZ-DSHHZR,Classic Wool Coat,outerwear,274.08,219.26,20.0,luxury,small,True,54.82
+2025-12-02,AZ-5PJV8U,Effortless Denim Jacket,outerwear,419.39,419.39,0.0,luxury,none,True,0.0
+2025-12-02,AZ-G5H5VH,Super Blazer,outerwear,272.76,245.48,10.0,luxury,small,True,27.28
+2025-12-02,AZ-1A326N,Classic Blazer,outerwear,392.81,314.25,20.0,luxury,small,True,78.56
+2025-12-02,AZ-YYIVBV,Effortless Bomber Jacket,outerwear,210.01,210.01,0.0,luxury,none,True,0.0
+2025-12-02,AZ-18ERLF,Signature Midi Dress,dresses,170.6,153.54,10.0,premium,small,True,17.06
+2025-12-02,AZ-EYHLUU,Effortless Midi Dress,dresses,237.77,190.22,20.0,luxury,small,True,47.55
+2025-12-02,AZ-D76V07,Super Bodycon Dress,dresses,187.81,187.81,0.0,premium,none,True,0.0
+2025-12-02,AZ-PMRD7R,Classic Bodycon Dress,dresses,191.1,191.1,0.0,premium,none,True,0.0
+2025-12-02,AZ-MPNAMZ,Ultra Maxi Dress,dresses,248.5,198.8,20.0,luxury,small,True,49.7
+2025-12-02,AZ-AJZ0ZO,Relaxed Shirt Dress,dresses,212.37,212.37,0.0,luxury,none,True,0.0
+2025-12-02,AZ-F986IF,Modern Midi Dress,dresses,244.8,244.8,0.0,luxury,none,True,0.0
+2025-12-02,AZ-SHM1VN,Effortless Slip Dress,dresses,188.03,188.03,0.0,premium,none,True,0.0
+2025-12-02,AZ-LYAMH8,Super Wrap Dress,dresses,165.41,165.41,0.0,premium,none,True,0.0
+2025-12-02,AZ-POAXHG,Modern Bodycon Dress,dresses,81.79,73.61,10.0,mid-range,small,True,8.18
+2025-12-02,AZ-7YEXY4,Super Sweater Dress,dresses,85.27,85.27,0.0,mid-range,none,True,0.0
+2025-12-02,AZ-LLCOZK,Classic Slip Dress,dresses,216.21,216.21,0.0,luxury,none,False,0.0
+2025-12-02,AZ-NB4G6M,Essential Mini Dress,dresses,206.95,206.95,0.0,luxury,none,True,0.0
+2025-12-02,AZ-Z33OUA,Signature Maxi Dress,dresses,230.52,138.31,40.0,luxury,medium,True,92.21
+2025-12-02,AZ-H0LQ9Q,Super Maxi Dress,dresses,225.44,157.81,30.0,luxury,medium,True,67.63
+2025-12-02,AZ-7S6ZGN,Effortless Sweater Dress,dresses,226.85,204.16,10.0,luxury,small,True,22.69
+2025-12-02,AZ-D0C84T,Classic Sweater Dress,dresses,197.89,158.31,20.0,premium,small,True,39.58
+2025-12-02,AZ-LK9DVW,Classic Bodycon Dress,dresses,159.47,159.47,0.0,premium,none,True,0.0
+2025-12-02,AZ-RHMZPZ,Relaxed Wrap Dress,dresses,173.75,173.75,0.0,premium,none,True,0.0
+2025-12-02,AZ-WDD2YU,Ultra Mini Dress,dresses,131.05,131.05,0.0,premium,none,True,0.0
+2025-12-02,AZ-WAIU5G,Signature Midi Dress,dresses,198.46,198.46,0.0,premium,none,True,0.0
+2025-12-02,AZ-1467MT,Essential Sweater Dress,dresses,183.82,147.06,20.0,premium,small,True,36.76
+2025-12-02,AZ-1PZFRS,Signature Bodycon Dress,dresses,208.24,166.59,20.0,luxury,small,True,41.65
+2025-12-02,AZ-X4C5QA,Essential Wrap Dress,dresses,204.64,163.71,20.0,luxury,small,True,40.93
+2025-12-02,AZ-68SOH5,Relaxed Wrap Dress,dresses,182.86,164.57,10.0,premium,small,True,18.29
+2025-12-02,AZ-E8UEYA,Ultra Bodycon Dress,dresses,104.16,93.74,10.0,premium,small,True,10.42
+2025-12-02,AZ-N3121J,Relaxed Mini Dress,dresses,199.49,179.54,10.0,premium,small,True,19.95
+2025-12-02,AZ-B3E189,Signature Sweater Dress,dresses,112.35,78.64,30.0,premium,medium,True,33.71
+2025-12-02,AZ-48CWV6,Ultra Midi Dress,dresses,231.85,231.85,0.0,luxury,none,True,0.0
+2025-12-02,AZ-I0RAW6,Ultra Wrap Dress,dresses,221.91,155.34,30.0,luxury,medium,True,66.57
+2025-12-02,AZ-1W3ZPN,Modern Wrap Dress,dresses,238.34,238.34,0.0,luxury,none,True,0.0
+2025-12-02,AZ-SFDS4G,Classic Sweater Dress,dresses,159.68,143.71,10.0,premium,small,True,15.97
+2025-12-02,AZ-OO5U97,Signature Midi Dress,dresses,146.5,131.85,10.0,premium,small,True,14.65
+2025-12-02,AZ-M628SD,Effortless Shirt Dress,dresses,133.15,133.15,0.0,premium,none,True,0.0
+2025-12-02,AZ-NDMO21,Modern Shirt Dress,dresses,172.6,172.6,0.0,premium,none,True,0.0
+2025-12-02,AZ-1QD320,Signature Maxi Dress,dresses,241.71,169.2,30.0,luxury,medium,True,72.51
+2025-12-02,AZ-5B6PRW,Essential Slip Dress,dresses,211.24,211.24,0.0,luxury,none,True,0.0
+2025-12-02,AZ-XLN1X8,Super Maxi Dress,dresses,197.39,157.91,20.0,premium,small,False,39.48
+2025-12-02,AZ-SNGSRF,Super Hoodie,tops,73.22,58.58,20.0,mid-range,small,True,14.64
+2025-12-02,AZ-OV99KM,Signature Turtleneck,tops,56.86,56.86,0.0,mid-range,none,True,0.0
+2025-12-02,AZ-WEMHAV,Classic Blouse,tops,96.12,86.51,10.0,mid-range,small,True,9.61
+2025-12-02,AZ-WGNJNH,Ultra Henley Top,tops,58.83,47.06,20.0,mid-range,small,True,11.77
+2025-12-02,AZ-4P7M5Q,Contour Cropped Tank,tops,54.64,54.64,0.0,mid-range,none,True,0.0
+2025-12-02,AZ-MSSHSZ,Essential Sweater,tops,58.9,58.9,0.0,mid-range,none,True,0.0
+2025-12-02,AZ-S3NW8R,Classic Henley Top,tops,74.29,59.43,20.0,mid-range,small,True,14.86
+2025-12-02,AZ-17MNEJ,Contour Oversized Tee,tops,80.56,72.5,10.0,mid-range,small,True,8.06
+2025-12-02,AZ-0MYVHK,Essential Blouse,tops,96.32,77.06,20.0,mid-range,small,False,19.26
+2025-12-02,AZ-C7JWOB,Relaxed Bodysuit,tops,68.56,47.99,30.0,mid-range,medium,True,20.57
+2025-12-02,AZ-OQL21A,Super Henley Top,tops,45.19,36.15,20.0,budget,small,True,9.04
+2025-12-02,AZ-0TXYWL,Relaxed Sweater,tops,44.78,44.78,0.0,budget,none,True,0.0
+2025-12-02,AZ-DWZOUE,Essential Henley Top,tops,86.68,69.34,20.0,mid-range,small,True,17.34
+2025-12-02,AZ-XP9XDI,Relaxed Cropped Tank,tops,55.37,44.3,20.0,mid-range,small,False,11.07
+2025-12-02,AZ-75EQYO,Refined Henley Top,tops,87.43,87.43,0.0,mid-range,none,True,0.0
+2025-12-02,AZ-WGDPHC,Relaxed Bodysuit,tops,65.65,59.09,10.0,mid-range,small,True,6.56
+2025-12-02,AZ-YC6LEI,Relaxed Bodysuit,tops,81.98,73.78,10.0,mid-range,small,True,8.2
+2025-12-02,AZ-A1946R,Essential Henley Top,tops,97.04,97.04,0.0,mid-range,none,True,0.0
+2025-12-02,AZ-KC2U2R,Modern Turtleneck,tops,80.76,80.76,0.0,mid-range,none,False,0.0
+2025-12-02,AZ-AT3IC1,Super Blouse,tops,96.7,77.36,20.0,mid-range,small,True,19.34
+2025-12-02,AZ-NHES7S,Relaxed Hoodie,tops,77.55,62.04,20.0,mid-range,small,True,15.51
+2025-12-02,AZ-7QGPNC,Effortless Sweater,tops,105.83,74.08,30.0,premium,medium,True,31.75
+2025-12-02,AZ-GA8E9T,Signature Oversized Tee,tops,114.58,80.21,30.0,premium,medium,True,34.37
+2025-12-02,AZ-9FA9F3,Modern Sweater,tops,63.67,38.2,40.0,mid-range,medium,True,25.47
+2025-12-02,AZ-HYJ0TN,Contour Blouse,tops,68.65,68.65,0.0,mid-range,none,True,0.0
+2025-12-02,AZ-HGK4SA,Modern Blouse,tops,67.64,47.35,30.0,mid-range,medium,True,20.29
+2025-12-02,AZ-F98LT2,Refined Sweater,tops,113.36,113.36,0.0,premium,none,True,0.0
+2025-12-02,AZ-1NDUUI,Super Hoodie,tops,118.59,94.87,20.0,premium,small,False,23.72
+2025-12-02,AZ-R5JD8H,Super Sweater,tops,40.82,40.82,0.0,budget,none,True,0.0
+2025-12-02,AZ-M9JLMA,Refined Turtleneck,tops,75.78,68.2,10.0,mid-range,small,True,7.58
+2025-12-02,AZ-78BVPP,Refined Hoodie,tops,98.56,49.28,50.0,mid-range,large,True,49.28
+2025-12-02,AZ-B7075J,Essential Cropped Tank,tops,81.35,73.22,10.0,mid-range,small,True,8.13
+2025-12-02,AZ-0ZRUBY,Contour Cropped Tank,tops,87.89,70.31,20.0,mid-range,small,True,17.58
+2025-12-02,AZ-Z0ASRZ,Super Culottes,pants,66.08,52.86,20.0,mid-range,small,True,13.22
+2025-12-02,AZ-5Y29E0,Modern Culottes,pants,173.31,173.31,0.0,premium,none,True,0.0
+2025-12-02,AZ-AJH0GY,Ultra Wide Leg Pants,pants,139.69,97.78,30.0,premium,medium,True,41.91
+2025-12-02,AZ-J5CY1G,Ultra Leggings,pants,139.73,139.73,0.0,premium,none,True,0.0
+2025-12-02,AZ-2RCA6W,Relaxed Dress Pants,pants,171.31,171.31,0.0,premium,none,True,0.0
+2025-12-02,AZ-T81FOS,Super Leggings,pants,106.34,106.34,0.0,premium,none,True,0.0
+2025-12-02,AZ-GOBGBX,Classic Leggings,pants,138.85,83.31,40.0,premium,medium,True,55.54
+2025-12-02,AZ-3AV2LR,Modern Shorts,pants,100.47,100.47,0.0,premium,none,True,0.0
+2025-12-02,AZ-MW10M4,Relaxed Dress Pants,pants,131.19,118.07,10.0,premium,small,False,13.12
+2025-12-02,AZ-NLZJZN,Modern Jeans,pants,124.46,99.57,20.0,premium,small,True,24.89
+2025-12-02,AZ-CBPMFC,Ultra Shorts,pants,90.98,90.98,0.0,mid-range,none,True,0.0
+2025-12-02,AZ-WKGB79,Classic Wide Leg Pants,pants,115.73,92.58,20.0,premium,small,False,23.15
+2025-12-02,AZ-BZEIEA,Contour Joggers,pants,144.64,144.64,0.0,premium,none,True,0.0
+2025-12-02,AZ-WDU4HN,Refined Cargo Pants,pants,154.39,154.39,0.0,premium,none,True,0.0
+2025-12-02,AZ-ZUQNC8,Essential Leggings,pants,123.76,99.01,20.0,premium,small,False,24.75
+2025-12-02,AZ-E8GV8Q,Classic Leggings,pants,163.72,81.86,50.0,premium,large,True,81.86
+2025-12-02,AZ-8SV1D4,Modern Culottes,pants,133.46,133.46,0.0,premium,none,True,0.0
+2025-12-02,AZ-72RS88,Relaxed Dress Pants,pants,62.34,43.64,30.0,mid-range,medium,True,18.7
+2025-12-02,AZ-NVDXM6,Relaxed Cargo Pants,pants,79.07,79.07,0.0,mid-range,none,True,0.0
+2025-12-02,AZ-KFUER1,Modern Joggers,pants,140.9,112.72,20.0,premium,small,True,28.18
+2025-12-02,AZ-A3CB79,Effortless Dress Pants,pants,127.03,101.62,20.0,premium,small,True,25.41
+2025-12-02,AZ-PBT88K,Signature Wide Leg Pants,pants,123.49,74.09,40.0,premium,medium,True,49.4
+2025-12-02,AZ-E44XUS,Refined Culottes,pants,151.5,151.5,0.0,premium,none,True,0.0
+2025-12-02,AZ-IOGNEF,Essential Wide Leg Pants,pants,111.58,100.42,10.0,premium,small,True,11.16
+2025-12-02,AZ-202AM9,Modern Jeans,pants,74.45,74.45,0.0,mid-range,none,True,0.0
+2025-12-02,AZ-IL8LFA,Ultra Wide Leg Pants,pants,125.6,75.36,40.0,premium,medium,True,50.24
+2025-12-02,AZ-8WFEXR,Effortless Dress Pants,pants,94.27,94.27,0.0,mid-range,none,True,0.0
+2025-12-02,AZ-GD95EM,Modern Wide Leg Pants,pants,167.09,150.38,10.0,premium,small,True,16.71
+2025-12-02,AZ-VH54KI,Super Wide Leg Pants,pants,147.23,147.23,0.0,premium,none,True,0.0
+2025-12-02,AZ-425SPA,Refined Jeans,pants,98.46,98.46,0.0,mid-range,none,True,0.0
+2025-12-02,AZ-PYJN1T,Signature Shorts,pants,126.37,63.19,50.0,premium,large,True,63.18
+2025-12-02,AZ-FE23LH,Refined Jeans,pants,145.82,145.82,0.0,premium,none,True,0.0
+2025-12-02,AZ-TJWUCW,Relaxed Dress Pants,pants,121.3,109.17,10.0,premium,small,True,12.13
+2025-12-02,AZ-71P5AB,Effortless Culottes,pants,177.0,177.0,0.0,premium,none,True,0.0
+2025-12-02,AZ-AE97L6,Ultra Joggers,pants,176.29,176.29,0.0,premium,none,True,0.0
+2025-12-02,AZ-7K0VIE,Essential Leggings,pants,100.85,80.68,20.0,premium,small,True,20.17
+2025-12-02,AZ-XPZODM,Refined Shorts,pants,173.05,155.75,10.0,premium,small,True,17.3
+2025-12-02,AZ-I1O3WX,Relaxed Cargo Pants,pants,131.46,78.88,40.0,premium,medium,True,52.58
+2025-12-02,AZ-KC5PQZ,Super Wide Leg Pants,pants,144.32,144.32,0.0,premium,none,True,0.0
+2025-12-02,AZ-P70LO8,Signature Joggers,pants,112.0,112.0,0.0,premium,none,True,0.0
+2025-12-02,AZ-E9MGTC,Modern Jeans,pants,87.3,87.3,0.0,mid-range,none,True,0.0
+2025-12-02,AZ-C7WODD,Effortless Hat,accessories,80.79,72.71,10.0,mid-range,small,False,8.08
+2025-12-02,AZ-WURW5A,Modern Hair Clip,accessories,98.22,98.22,0.0,mid-range,none,False,0.0
+2025-12-02,AZ-E9LAO6,Essential Sunglasses,accessories,81.48,40.74,50.0,mid-range,large,True,40.74
+2025-12-02,AZ-EVJU4R,Signature Headband,accessories,86.22,60.35,30.0,mid-range,medium,True,25.87
+2025-12-02,AZ-FUCTDF,Effortless Hair Clip,accessories,29.42,29.42,0.0,budget,none,True,0.0
+2025-12-02,AZ-KCG3CJ,Essential Hair Clip,accessories,76.13,53.29,30.0,mid-range,medium,True,22.84
+2025-12-02,AZ-N86BXM,Essential Headband,accessories,79.32,71.39,10.0,mid-range,small,True,7.93
+2025-12-02,AZ-JIQY8B,Contour Headband,accessories,37.5,37.5,0.0,budget,none,True,0.0
+2025-12-02,AZ-W4H1OS,Modern Sunglasses,accessories,76.34,53.44,30.0,mid-range,medium,True,22.9
+2025-12-02,AZ-HFTOSS,Classic Jewelry Set,accessories,45.84,45.84,0.0,budget,none,True,0.0
+2025-12-02,AZ-B7HI61,Modern Hat,accessories,26.43,26.43,0.0,budget,none,False,0.0
+2025-12-02,AZ-FPSVS3,Relaxed Hat,accessories,45.48,36.38,20.0,budget,small,True,9.1
+2025-12-02,AZ-2F9BFY,Signature Bag,accessories,40.78,40.78,0.0,budget,none,True,0.0
+2025-12-02,AZ-BVWEH8,Refined Belt,accessories,51.22,46.1,10.0,mid-range,small,False,5.12
+2025-12-02,AZ-HU1Z3D,Refined Jewelry Set,accessories,45.53,36.42,20.0,budget,small,True,9.11
+2025-12-02,AZ-A81IVU,Refined Hat,accessories,80.93,64.74,20.0,mid-range,small,True,16.19
+2025-12-02,AZ-LZ5CBM,Essential Hair Clip,accessories,44.71,44.71,0.0,budget,none,True,0.0
+2025-12-02,AZ-A12L8Y,Contour Jewelry Set,accessories,41.81,25.09,40.0,budget,medium,True,16.72
+2025-12-02,AZ-6TW7MY,Refined Sunglasses,accessories,82.38,57.67,30.0,mid-range,medium,False,24.71
+2025-12-02,AZ-PI3PY8,Essential Hair Clip,accessories,60.78,54.7,10.0,mid-range,small,True,6.08
+2025-12-02,AZ-NASZMH,Super Jewelry Set,accessories,55.8,27.9,50.0,mid-range,large,False,27.9
+2025-12-02,AZ-1WGBGR,Signature Scarf,accessories,92.6,64.82,30.0,mid-range,medium,True,27.78
+2025-12-02,AZ-EDMYVK,Super Headband,accessories,70.53,42.32,40.0,mid-range,medium,False,28.21
+2025-12-02,AZ-JBYLSP,Classic Hair Clip,accessories,49.47,49.47,0.0,budget,none,True,0.0
+2025-12-02,AZ-CKWSHA,Effortless Sunglasses,accessories,92.5,92.5,0.0,mid-range,none,True,0.0
+2025-12-02,AZ-JA6L32,Refined Belt,accessories,55.4,44.32,20.0,mid-range,small,True,11.08
+2025-12-02,AZ-TQRXOQ,Classic Hair Clip,accessories,56.52,45.22,20.0,mid-range,small,True,11.3
+2025-12-02,AZ-4FBQ56,Classic Belt,accessories,70.02,70.02,0.0,mid-range,none,True,0.0
+2025-12-02,AZ-FANQOE,Ultra Headband,accessories,35.19,28.15,20.0,budget,small,True,7.04
+2025-12-02,AZ-L3BSN8,Relaxed Hair Clip,accessories,82.33,57.63,30.0,mid-range,medium,True,24.7
+2025-12-02,AZ-TLHNOT,Essential Bag,accessories,41.04,24.62,40.0,budget,medium,True,16.42
+2025-12-02,AZ-ROMFTN,Contour Sunglasses,accessories,57.45,40.21,30.0,mid-range,medium,True,17.24
+2025-12-02,AZ-PH9VU8,Modern Belt,accessories,61.79,55.61,10.0,mid-range,small,True,6.18
+2025-12-02,AZ-S0DXGK,Refined Hair Clip,accessories,70.16,70.16,0.0,mid-range,none,True,0.0
+2025-12-02,AZ-JLA1RE,Ultra Bag,accessories,27.36,24.62,10.0,budget,small,False,2.74
+2025-12-02,AZ-N2KUSL,Effortless Scarf,accessories,73.8,36.9,50.0,mid-range,large,True,36.9
+2025-12-02,AZ-JZCOL0,Ultra Belt,accessories,77.21,77.21,0.0,mid-range,none,True,0.0
+2025-12-02,AZ-T90ND8,Effortless Jewelry Set,accessories,58.4,58.4,0.0,mid-range,none,True,0.0
+2025-12-02,AZ-PSZV9U,Super Belt,accessories,53.02,37.11,30.0,mid-range,medium,False,15.91
+2025-12-02,AZ-IO96GV,Contour Belt,accessories,57.34,45.87,20.0,mid-range,small,False,11.47
+2025-12-02,AZ-2YGPEE,Super Hair Clip,accessories,64.58,51.66,20.0,mid-range,small,True,12.92
+2025-12-02,AZ-QILOOS,Signature Headband,accessories,77.59,77.59,0.0,mid-range,none,True,0.0
+2025-12-02,AZ-UBS5JY,Refined Hair Clip,accessories,65.32,65.32,0.0,mid-range,none,True,0.0
+2025-12-02,AZ-4V1J0I,Classic Jewelry Set,accessories,29.08,29.08,0.0,budget,none,True,0.0
+2025-12-02,AZ-KTSPA3,Super Hair Clip,accessories,98.24,68.77,30.0,mid-range,medium,True,29.47
+2025-12-02,AZ-OTM4FQ,Ultra Bag,accessories,73.07,73.07,0.0,mid-range,none,True,0.0
+2025-12-02,AZ-XL8N6Y,Relaxed Bag,accessories,76.2,76.2,0.0,mid-range,none,False,0.0
+2025-12-02,AZ-AY7TAG,Effortless Jewelry Set,accessories,55.32,38.72,30.0,mid-range,medium,True,16.6
+2025-12-03,AZ-PH0QSF,Refined Bomber Jacket,outerwear,227.95,227.95,0.0,luxury,none,True,0.0
+2025-12-03,AZ-QQVC4C,Ultra Denim Jacket,outerwear,337.88,337.88,0.0,luxury,none,True,0.0
+2025-12-03,AZ-5JBDFL,Signature Blazer,outerwear,416.3,374.67,10.0,luxury,small,True,41.63
+2025-12-03,AZ-4EC5H6,Relaxed Bomber Jacket,outerwear,203.09,203.09,0.0,luxury,none,True,0.0
+2025-12-03,AZ-32X3QD,Relaxed Trench Coat,outerwear,176.21,176.21,0.0,premium,none,True,0.0
+2025-12-03,AZ-RCQUUB,Ultra Blazer,outerwear,242.74,145.64,40.0,luxury,medium,True,97.1
+2025-12-03,AZ-UZSL4I,Ultra Denim Jacket,outerwear,358.06,322.25,10.0,luxury,small,True,35.81
+2025-12-03,AZ-K5P5KJ,Modern Leather Jacket,outerwear,298.55,149.28,50.0,luxury,large,True,149.27
+2025-12-03,AZ-OSVS0I,Relaxed Cardigan,outerwear,168.71,101.23,40.0,premium,medium,True,67.48
+2025-12-03,AZ-KE2DB0,Refined Denim Jacket,outerwear,154.59,154.59,0.0,premium,none,True,0.0
+2025-12-03,AZ-QJS2D9,Effortless Puffer Jacket,outerwear,411.04,411.04,0.0,luxury,none,True,0.0
+2025-12-03,AZ-QPV8MI,Ultra Bomber Jacket,outerwear,449.53,449.53,0.0,luxury,none,True,0.0
+2025-12-03,AZ-UNFA66,Relaxed Leather Jacket,outerwear,352.68,352.68,0.0,luxury,none,True,0.0
+2025-12-03,AZ-RKF2R3,Refined Wool Coat,outerwear,243.15,170.2,30.0,luxury,medium,True,72.95
+2025-12-03,AZ-HGILUH,Refined Trench Coat,outerwear,426.55,426.55,0.0,luxury,none,True,0.0
+2025-12-03,AZ-1QA67Z,Classic Cardigan,outerwear,310.39,248.31,20.0,luxury,small,True,62.08
+2025-12-03,AZ-UG75PL,Modern Puffer Jacket,outerwear,286.85,258.17,10.0,luxury,small,True,28.68
+2025-12-03,AZ-AOAWMK,Ultra Trench Coat,outerwear,261.18,182.83,30.0,luxury,medium,True,78.35
+2025-12-03,AZ-Q0M66L,Modern Puffer Jacket,outerwear,208.59,187.73,10.0,luxury,small,True,20.86
+2025-12-03,AZ-T1I4IN,Signature Cardigan,outerwear,279.71,279.71,0.0,luxury,none,False,0.0
+2025-12-03,AZ-3GYNHZ,Effortless Bomber Jacket,outerwear,278.98,278.98,0.0,luxury,none,True,0.0
+2025-12-03,AZ-J8K1TN,Modern Bomber Jacket,outerwear,189.59,189.59,0.0,premium,none,True,0.0
+2025-12-03,AZ-YPLBF0,Signature Cardigan,outerwear,210.39,210.39,0.0,luxury,none,True,0.0
+2025-12-03,AZ-JCVEEH,Super Denim Jacket,outerwear,362.69,290.15,20.0,luxury,small,True,72.54
+2025-12-03,AZ-M0SRBB,Refined Leather Jacket,outerwear,333.7,333.7,0.0,luxury,none,True,0.0
+2025-12-03,AZ-X56GSD,Effortless Blazer,outerwear,267.42,267.42,0.0,luxury,none,False,0.0
+2025-12-03,AZ-3CR0CI,Super Blazer,outerwear,323.41,323.41,0.0,luxury,none,True,0.0
+2025-12-03,AZ-GUK6PC,Relaxed Puffer Jacket,outerwear,384.01,345.61,10.0,luxury,small,True,38.4
+2025-12-03,AZ-H6GK94,Contour Leather Jacket,outerwear,170.1,170.1,0.0,premium,none,True,0.0
+2025-12-03,AZ-ZJF4H5,Essential Puffer Jacket,outerwear,342.55,239.78,30.0,luxury,medium,True,102.77
+2025-12-03,AZ-4KNE4W,Modern Blazer,outerwear,270.69,135.34,50.0,luxury,large,True,135.35
+2025-12-03,AZ-FDZBC2,Super Puffer Jacket,outerwear,237.24,237.24,0.0,luxury,none,True,0.0
+2025-12-03,AZ-DSHHZR,Classic Wool Coat,outerwear,274.08,219.26,20.0,luxury,small,True,54.82
+2025-12-03,AZ-5PJV8U,Effortless Denim Jacket,outerwear,419.39,419.39,0.0,luxury,none,True,0.0
+2025-12-03,AZ-G5H5VH,Super Blazer,outerwear,272.76,245.48,10.0,luxury,small,True,27.28
+2025-12-03,AZ-1A326N,Classic Blazer,outerwear,392.81,314.25,20.0,luxury,small,True,78.56
+2025-12-03,AZ-YYIVBV,Effortless Bomber Jacket,outerwear,210.01,210.01,0.0,luxury,none,True,0.0
+2025-12-03,AZ-18ERLF,Signature Midi Dress,dresses,170.6,153.54,10.0,premium,small,True,17.06
+2025-12-03,AZ-EYHLUU,Effortless Midi Dress,dresses,237.77,190.22,20.0,luxury,small,True,47.55
+2025-12-03,AZ-D76V07,Super Bodycon Dress,dresses,187.81,187.81,0.0,premium,none,True,0.0
+2025-12-03,AZ-PMRD7R,Classic Bodycon Dress,dresses,191.1,191.1,0.0,premium,none,True,0.0
+2025-12-03,AZ-MPNAMZ,Ultra Maxi Dress,dresses,248.5,198.8,20.0,luxury,small,True,49.7
+2025-12-03,AZ-AJZ0ZO,Relaxed Shirt Dress,dresses,212.37,148.66,30.0,luxury,medium,True,63.71
+2025-12-03,AZ-F986IF,Modern Midi Dress,dresses,244.8,244.8,0.0,luxury,none,True,0.0
+2025-12-03,AZ-SHM1VN,Effortless Slip Dress,dresses,188.03,188.03,0.0,premium,none,True,0.0
+2025-12-03,AZ-LYAMH8,Super Wrap Dress,dresses,165.41,165.41,0.0,premium,none,True,0.0
+2025-12-03,AZ-POAXHG,Modern Bodycon Dress,dresses,81.79,81.79,0.0,mid-range,none,True,0.0
+2025-12-03,AZ-7YEXY4,Super Sweater Dress,dresses,85.27,85.27,0.0,mid-range,none,True,0.0
+2025-12-03,AZ-LLCOZK,Classic Slip Dress,dresses,216.21,216.21,0.0,luxury,none,False,0.0
+2025-12-03,AZ-NB4G6M,Essential Mini Dress,dresses,206.95,206.95,0.0,luxury,none,True,0.0
+2025-12-03,AZ-Z33OUA,Signature Maxi Dress,dresses,230.52,138.31,40.0,luxury,medium,True,92.21
+2025-12-03,AZ-H0LQ9Q,Super Maxi Dress,dresses,225.44,157.81,30.0,luxury,medium,True,67.63
+2025-12-03,AZ-7S6ZGN,Effortless Sweater Dress,dresses,226.85,204.16,10.0,luxury,small,True,22.69
+2025-12-03,AZ-D0C84T,Classic Sweater Dress,dresses,197.89,158.31,20.0,premium,small,True,39.58
+2025-12-03,AZ-LK9DVW,Classic Bodycon Dress,dresses,159.47,159.47,0.0,premium,none,True,0.0
+2025-12-03,AZ-RHMZPZ,Relaxed Wrap Dress,dresses,173.75,173.75,0.0,premium,none,True,0.0
+2025-12-03,AZ-WDD2YU,Ultra Mini Dress,dresses,131.05,131.05,0.0,premium,none,True,0.0
+2025-12-03,AZ-WAIU5G,Signature Midi Dress,dresses,198.46,198.46,0.0,premium,none,True,0.0
+2025-12-03,AZ-1467MT,Essential Sweater Dress,dresses,183.82,165.44,10.0,premium,small,True,18.38
+2025-12-03,AZ-1PZFRS,Signature Bodycon Dress,dresses,208.24,166.59,20.0,luxury,small,True,41.65
+2025-12-03,AZ-X4C5QA,Essential Wrap Dress,dresses,204.64,163.71,20.0,luxury,small,True,40.93
+2025-12-03,AZ-68SOH5,Relaxed Wrap Dress,dresses,182.86,164.57,10.0,premium,small,True,18.29
+2025-12-03,AZ-E8UEYA,Ultra Bodycon Dress,dresses,104.16,93.74,10.0,premium,small,True,10.42
+2025-12-03,AZ-N3121J,Relaxed Mini Dress,dresses,199.49,179.54,10.0,premium,small,True,19.95
+2025-12-03,AZ-B3E189,Signature Sweater Dress,dresses,112.35,78.64,30.0,premium,medium,True,33.71
+2025-12-03,AZ-48CWV6,Ultra Midi Dress,dresses,231.85,231.85,0.0,luxury,none,True,0.0
+2025-12-03,AZ-I0RAW6,Ultra Wrap Dress,dresses,221.91,155.34,30.0,luxury,medium,True,66.57
+2025-12-03,AZ-1W3ZPN,Modern Wrap Dress,dresses,238.34,238.34,0.0,luxury,none,True,0.0
+2025-12-03,AZ-SFDS4G,Classic Sweater Dress,dresses,159.68,143.71,10.0,premium,small,True,15.97
+2025-12-03,AZ-OO5U97,Signature Midi Dress,dresses,146.5,131.85,10.0,premium,small,True,14.65
+2025-12-03,AZ-M628SD,Effortless Shirt Dress,dresses,133.15,133.15,0.0,premium,none,True,0.0
+2025-12-03,AZ-NDMO21,Modern Shirt Dress,dresses,172.6,172.6,0.0,premium,none,True,0.0
+2025-12-03,AZ-1QD320,Signature Maxi Dress,dresses,241.71,169.2,30.0,luxury,medium,True,72.51
+2025-12-03,AZ-5B6PRW,Essential Slip Dress,dresses,211.24,211.24,0.0,luxury,none,True,0.0
+2025-12-03,AZ-XLN1X8,Super Maxi Dress,dresses,197.39,157.91,20.0,premium,small,False,39.48
+2025-12-03,AZ-SNGSRF,Super Hoodie,tops,73.22,58.58,20.0,mid-range,small,True,14.64
+2025-12-03,AZ-OV99KM,Signature Turtleneck,tops,56.86,56.86,0.0,mid-range,none,True,0.0
+2025-12-03,AZ-WEMHAV,Classic Blouse,tops,96.12,86.51,10.0,mid-range,small,True,9.61
+2025-12-03,AZ-WGNJNH,Ultra Henley Top,tops,58.83,47.06,20.0,mid-range,small,True,11.77
+2025-12-03,AZ-4P7M5Q,Contour Cropped Tank,tops,54.64,54.64,0.0,mid-range,none,True,0.0
+2025-12-03,AZ-MSSHSZ,Essential Sweater,tops,58.9,58.9,0.0,mid-range,none,True,0.0
+2025-12-03,AZ-S3NW8R,Classic Henley Top,tops,74.29,59.43,20.0,mid-range,small,True,14.86
+2025-12-03,AZ-17MNEJ,Contour Oversized Tee,tops,80.56,72.5,10.0,mid-range,small,True,8.06
+2025-12-03,AZ-0MYVHK,Essential Blouse,tops,96.32,86.69,10.0,mid-range,small,False,9.63
+2025-12-03,AZ-C7JWOB,Relaxed Bodysuit,tops,68.56,47.99,30.0,mid-range,medium,True,20.57
+2025-12-03,AZ-OQL21A,Super Henley Top,tops,45.19,36.15,20.0,budget,small,True,9.04
+2025-12-03,AZ-0TXYWL,Relaxed Sweater,tops,44.78,44.78,0.0,budget,none,True,0.0
+2025-12-03,AZ-DWZOUE,Essential Henley Top,tops,86.68,69.34,20.0,mid-range,small,True,17.34
+2025-12-03,AZ-XP9XDI,Relaxed Cropped Tank,tops,55.37,44.3,20.0,mid-range,small,False,11.07
+2025-12-03,AZ-75EQYO,Refined Henley Top,tops,87.43,87.43,0.0,mid-range,none,True,0.0
+2025-12-03,AZ-WGDPHC,Relaxed Bodysuit,tops,65.65,65.65,0.0,mid-range,none,True,0.0
+2025-12-03,AZ-YC6LEI,Relaxed Bodysuit,tops,81.98,73.78,10.0,mid-range,small,True,8.2
+2025-12-03,AZ-A1946R,Essential Henley Top,tops,97.04,97.04,0.0,mid-range,none,True,0.0
+2025-12-03,AZ-KC2U2R,Modern Turtleneck,tops,80.76,80.76,0.0,mid-range,none,False,0.0
+2025-12-03,AZ-AT3IC1,Super Blouse,tops,96.7,77.36,20.0,mid-range,small,True,19.34
+2025-12-03,AZ-NHES7S,Relaxed Hoodie,tops,77.55,62.04,20.0,mid-range,small,True,15.51
+2025-12-03,AZ-7QGPNC,Effortless Sweater,tops,105.83,63.5,40.0,premium,medium,True,42.33
+2025-12-03,AZ-GA8E9T,Signature Oversized Tee,tops,114.58,80.21,30.0,premium,medium,True,34.37
+2025-12-03,AZ-9FA9F3,Modern Sweater,tops,63.67,31.84,50.0,mid-range,large,True,31.83
+2025-12-03,AZ-HYJ0TN,Contour Blouse,tops,68.65,68.65,0.0,mid-range,none,True,0.0
+2025-12-03,AZ-HGK4SA,Modern Blouse,tops,67.64,47.35,30.0,mid-range,medium,True,20.29
+2025-12-03,AZ-F98LT2,Refined Sweater,tops,113.36,113.36,0.0,premium,none,True,0.0
+2025-12-03,AZ-1NDUUI,Super Hoodie,tops,118.59,94.87,20.0,premium,small,False,23.72
+2025-12-03,AZ-R5JD8H,Super Sweater,tops,40.82,40.82,0.0,budget,none,True,0.0
+2025-12-03,AZ-M9JLMA,Refined Turtleneck,tops,75.78,68.2,10.0,mid-range,small,True,7.58
+2025-12-03,AZ-78BVPP,Refined Hoodie,tops,98.56,49.28,50.0,mid-range,large,True,49.28
+2025-12-03,AZ-B7075J,Essential Cropped Tank,tops,81.35,65.08,20.0,mid-range,small,True,16.27
+2025-12-03,AZ-0ZRUBY,Contour Cropped Tank,tops,87.89,70.31,20.0,mid-range,small,True,17.58
+2025-12-03,AZ-Z0ASRZ,Super Culottes,pants,66.08,52.86,20.0,mid-range,small,True,13.22
+2025-12-03,AZ-5Y29E0,Modern Culottes,pants,173.31,173.31,0.0,premium,none,True,0.0
+2025-12-03,AZ-AJH0GY,Ultra Wide Leg Pants,pants,139.69,97.78,30.0,premium,medium,True,41.91
+2025-12-03,AZ-J5CY1G,Ultra Leggings,pants,139.73,139.73,0.0,premium,none,True,0.0
+2025-12-03,AZ-2RCA6W,Relaxed Dress Pants,pants,171.31,171.31,0.0,premium,none,True,0.0
+2025-12-03,AZ-T81FOS,Super Leggings,pants,106.34,106.34,0.0,premium,none,True,0.0
+2025-12-03,AZ-GOBGBX,Classic Leggings,pants,138.85,83.31,40.0,premium,medium,True,55.54
+2025-12-03,AZ-3AV2LR,Modern Shorts,pants,100.47,100.47,0.0,premium,none,True,0.0
+2025-12-03,AZ-MW10M4,Relaxed Dress Pants,pants,131.19,118.07,10.0,premium,small,False,13.12
+2025-12-03,AZ-NLZJZN,Modern Jeans,pants,124.46,99.57,20.0,premium,small,True,24.89
+2025-12-03,AZ-CBPMFC,Ultra Shorts,pants,90.98,90.98,0.0,mid-range,none,True,0.0
+2025-12-03,AZ-WKGB79,Classic Wide Leg Pants,pants,115.73,92.58,20.0,premium,small,False,23.15
+2025-12-03,AZ-BZEIEA,Contour Joggers,pants,144.64,144.64,0.0,premium,none,True,0.0
+2025-12-03,AZ-WDU4HN,Refined Cargo Pants,pants,154.39,154.39,0.0,premium,none,True,0.0
+2025-12-03,AZ-ZUQNC8,Essential Leggings,pants,123.76,99.01,20.0,premium,small,False,24.75
+2025-12-03,AZ-E8GV8Q,Classic Leggings,pants,163.72,81.86,50.0,premium,large,True,81.86
+2025-12-03,AZ-8SV1D4,Modern Culottes,pants,133.46,133.46,0.0,premium,none,True,0.0
+2025-12-03,AZ-72RS88,Relaxed Dress Pants,pants,62.34,43.64,30.0,mid-range,medium,True,18.7
+2025-12-03,AZ-NVDXM6,Relaxed Cargo Pants,pants,79.07,79.07,0.0,mid-range,none,True,0.0
+2025-12-03,AZ-KFUER1,Modern Joggers,pants,140.9,112.72,20.0,premium,small,True,28.18
+2025-12-03,AZ-A3CB79,Effortless Dress Pants,pants,127.03,101.62,20.0,premium,small,True,25.41
+2025-12-03,AZ-PBT88K,Signature Wide Leg Pants,pants,123.49,74.09,40.0,premium,medium,True,49.4
+2025-12-03,AZ-E44XUS,Refined Culottes,pants,151.5,151.5,0.0,premium,none,True,0.0
+2025-12-03,AZ-IOGNEF,Essential Wide Leg Pants,pants,111.58,100.42,10.0,premium,small,True,11.16
+2025-12-03,AZ-202AM9,Modern Jeans,pants,74.45,74.45,0.0,mid-range,none,True,0.0
+2025-12-03,AZ-IL8LFA,Ultra Wide Leg Pants,pants,125.6,75.36,40.0,premium,medium,True,50.24
+2025-12-03,AZ-8WFEXR,Effortless Dress Pants,pants,94.27,94.27,0.0,mid-range,none,True,0.0
+2025-12-03,AZ-GD95EM,Modern Wide Leg Pants,pants,167.09,150.38,10.0,premium,small,True,16.71
+2025-12-03,AZ-VH54KI,Super Wide Leg Pants,pants,147.23,147.23,0.0,premium,none,True,0.0
+2025-12-03,AZ-425SPA,Refined Jeans,pants,98.46,98.46,0.0,mid-range,none,True,0.0
+2025-12-03,AZ-PYJN1T,Signature Shorts,pants,126.37,126.37,0.0,premium,none,True,0.0
+2025-12-03,AZ-FE23LH,Refined Jeans,pants,145.82,145.82,0.0,premium,none,True,0.0
+2025-12-03,AZ-TJWUCW,Relaxed Dress Pants,pants,121.3,109.17,10.0,premium,small,True,12.13
+2025-12-03,AZ-71P5AB,Effortless Culottes,pants,177.0,177.0,0.0,premium,none,True,0.0
+2025-12-03,AZ-AE97L6,Ultra Joggers,pants,176.29,176.29,0.0,premium,none,True,0.0
+2025-12-03,AZ-7K0VIE,Essential Leggings,pants,100.85,80.68,20.0,premium,small,True,20.17
+2025-12-03,AZ-XPZODM,Refined Shorts,pants,173.05,155.75,10.0,premium,small,True,17.3
+2025-12-03,AZ-I1O3WX,Relaxed Cargo Pants,pants,131.46,78.88,40.0,premium,medium,True,52.58
+2025-12-03,AZ-KC5PQZ,Super Wide Leg Pants,pants,144.32,144.32,0.0,premium,none,True,0.0
+2025-12-03,AZ-P70LO8,Signature Joggers,pants,112.0,112.0,0.0,premium,none,True,0.0
+2025-12-03,AZ-E9MGTC,Modern Jeans,pants,87.3,87.3,0.0,mid-range,none,True,0.0
+2025-12-03,AZ-C7WODD,Effortless Hat,accessories,80.79,72.71,10.0,mid-range,small,False,8.08
+2025-12-03,AZ-WURW5A,Modern Hair Clip,accessories,98.22,98.22,0.0,mid-range,none,False,0.0
+2025-12-03,AZ-E9LAO6,Essential Sunglasses,accessories,81.48,40.74,50.0,mid-range,large,True,40.74
+2025-12-03,AZ-EVJU4R,Signature Headband,accessories,86.22,60.35,30.0,mid-range,medium,True,25.87
+2025-12-03,AZ-FUCTDF,Effortless Hair Clip,accessories,29.42,29.42,0.0,budget,none,True,0.0
+2025-12-03,AZ-KCG3CJ,Essential Hair Clip,accessories,76.13,53.29,30.0,mid-range,medium,True,22.84
+2025-12-03,AZ-N86BXM,Essential Headband,accessories,79.32,71.39,10.0,mid-range,small,True,7.93
+2025-12-03,AZ-JIQY8B,Contour Headband,accessories,37.5,37.5,0.0,budget,none,True,0.0
+2025-12-03,AZ-W4H1OS,Modern Sunglasses,accessories,76.34,53.44,30.0,mid-range,medium,True,22.9
+2025-12-03,AZ-HFTOSS,Classic Jewelry Set,accessories,45.84,45.84,0.0,budget,none,True,0.0
+2025-12-03,AZ-B7HI61,Modern Hat,accessories,26.43,26.43,0.0,budget,none,False,0.0
+2025-12-03,AZ-FPSVS3,Relaxed Hat,accessories,45.48,36.38,20.0,budget,small,True,9.1
+2025-12-03,AZ-2F9BFY,Signature Bag,accessories,40.78,40.78,0.0,budget,none,True,0.0
+2025-12-03,AZ-BVWEH8,Refined Belt,accessories,51.22,51.22,0.0,mid-range,none,False,0.0
+2025-12-03,AZ-HU1Z3D,Refined Jewelry Set,accessories,45.53,36.42,20.0,budget,small,True,9.11
+2025-12-03,AZ-A81IVU,Refined Hat,accessories,80.93,64.74,20.0,mid-range,small,True,16.19
+2025-12-03,AZ-LZ5CBM,Essential Hair Clip,accessories,44.71,44.71,0.0,budget,none,True,0.0
+2025-12-03,AZ-A12L8Y,Contour Jewelry Set,accessories,41.81,25.09,40.0,budget,medium,True,16.72
+2025-12-03,AZ-6TW7MY,Refined Sunglasses,accessories,82.38,57.67,30.0,mid-range,medium,False,24.71
+2025-12-03,AZ-PI3PY8,Essential Hair Clip,accessories,60.78,54.7,10.0,mid-range,small,True,6.08
+2025-12-03,AZ-NASZMH,Super Jewelry Set,accessories,55.8,27.9,50.0,mid-range,large,False,27.9
+2025-12-03,AZ-1WGBGR,Signature Scarf,accessories,92.6,64.82,30.0,mid-range,medium,True,27.78
+2025-12-03,AZ-EDMYVK,Super Headband,accessories,70.53,42.32,40.0,mid-range,medium,False,28.21
+2025-12-03,AZ-JBYLSP,Classic Hair Clip,accessories,49.47,49.47,0.0,budget,none,True,0.0
+2025-12-03,AZ-CKWSHA,Effortless Sunglasses,accessories,92.5,83.25,10.0,mid-range,small,True,9.25
+2025-12-03,AZ-JA6L32,Refined Belt,accessories,55.4,44.32,20.0,mid-range,small,True,11.08
+2025-12-03,AZ-TQRXOQ,Classic Hair Clip,accessories,56.52,45.22,20.0,mid-range,small,True,11.3
+2025-12-03,AZ-4FBQ56,Classic Belt,accessories,70.02,70.02,0.0,mid-range,none,True,0.0
+2025-12-03,AZ-FANQOE,Ultra Headband,accessories,35.19,28.15,20.0,budget,small,True,7.04
+2025-12-03,AZ-L3BSN8,Relaxed Hair Clip,accessories,82.33,57.63,30.0,mid-range,medium,True,24.7
+2025-12-03,AZ-TLHNOT,Essential Bag,accessories,41.04,24.62,40.0,budget,medium,True,16.42
+2025-12-03,AZ-ROMFTN,Contour Sunglasses,accessories,57.45,40.21,30.0,mid-range,medium,True,17.24
+2025-12-03,AZ-PH9VU8,Modern Belt,accessories,61.79,55.61,10.0,mid-range,small,True,6.18
+2025-12-03,AZ-S0DXGK,Refined Hair Clip,accessories,70.16,70.16,0.0,mid-range,none,True,0.0
+2025-12-03,AZ-JLA1RE,Ultra Bag,accessories,27.36,21.89,20.0,budget,small,False,5.47
+2025-12-03,AZ-N2KUSL,Effortless Scarf,accessories,73.8,73.8,0.0,mid-range,none,True,0.0
+2025-12-03,AZ-JZCOL0,Ultra Belt,accessories,77.21,77.21,0.0,mid-range,none,True,0.0
+2025-12-03,AZ-T90ND8,Effortless Jewelry Set,accessories,58.4,58.4,0.0,mid-range,none,True,0.0
+2025-12-03,AZ-PSZV9U,Super Belt,accessories,53.02,37.11,30.0,mid-range,medium,False,15.91
+2025-12-03,AZ-IO96GV,Contour Belt,accessories,57.34,45.87,20.0,mid-range,small,False,11.47
+2025-12-03,AZ-2YGPEE,Super Hair Clip,accessories,64.58,64.58,0.0,mid-range,none,True,0.0
+2025-12-03,AZ-QILOOS,Signature Headband,accessories,77.59,77.59,0.0,mid-range,none,True,0.0
+2025-12-03,AZ-UBS5JY,Refined Hair Clip,accessories,65.32,65.32,0.0,mid-range,none,True,0.0
+2025-12-03,AZ-4V1J0I,Classic Jewelry Set,accessories,29.08,29.08,0.0,budget,none,True,0.0
+2025-12-03,AZ-KTSPA3,Super Hair Clip,accessories,98.24,68.77,30.0,mid-range,medium,True,29.47
+2025-12-03,AZ-OTM4FQ,Ultra Bag,accessories,73.07,73.07,0.0,mid-range,none,True,0.0
+2025-12-03,AZ-XL8N6Y,Relaxed Bag,accessories,76.2,76.2,0.0,mid-range,none,False,0.0
+2025-12-03,AZ-AY7TAG,Effortless Jewelry Set,accessories,55.32,38.72,30.0,mid-range,medium,True,16.6
+2025-12-04,AZ-PH0QSF,Refined Bomber Jacket,outerwear,227.95,227.95,0.0,luxury,none,True,0.0
+2025-12-04,AZ-QQVC4C,Ultra Denim Jacket,outerwear,337.88,337.88,0.0,luxury,none,True,0.0
+2025-12-04,AZ-5JBDFL,Signature Blazer,outerwear,416.3,374.67,10.0,luxury,small,True,41.63
+2025-12-04,AZ-4EC5H6,Relaxed Bomber Jacket,outerwear,203.09,203.09,0.0,luxury,none,True,0.0
+2025-12-04,AZ-32X3QD,Relaxed Trench Coat,outerwear,176.21,176.21,0.0,premium,none,True,0.0
+2025-12-04,AZ-RCQUUB,Ultra Blazer,outerwear,242.74,145.64,40.0,luxury,medium,True,97.1
+2025-12-04,AZ-UZSL4I,Ultra Denim Jacket,outerwear,358.06,322.25,10.0,luxury,small,True,35.81
+2025-12-04,AZ-K5P5KJ,Modern Leather Jacket,outerwear,298.55,149.28,50.0,luxury,large,True,149.27
+2025-12-04,AZ-OSVS0I,Relaxed Cardigan,outerwear,168.71,101.23,40.0,premium,medium,True,67.48
+2025-12-04,AZ-KE2DB0,Refined Denim Jacket,outerwear,154.59,154.59,0.0,premium,none,True,0.0
+2025-12-04,AZ-QJS2D9,Effortless Puffer Jacket,outerwear,411.04,411.04,0.0,luxury,none,True,0.0
+2025-12-04,AZ-QPV8MI,Ultra Bomber Jacket,outerwear,449.53,449.53,0.0,luxury,none,True,0.0
+2025-12-04,AZ-UNFA66,Relaxed Leather Jacket,outerwear,352.68,352.68,0.0,luxury,none,True,0.0
+2025-12-04,AZ-RKF2R3,Refined Wool Coat,outerwear,243.15,170.2,30.0,luxury,medium,True,72.95
+2025-12-04,AZ-HGILUH,Refined Trench Coat,outerwear,426.55,341.24,20.0,luxury,small,True,85.31
+2025-12-04,AZ-1QA67Z,Classic Cardigan,outerwear,310.39,248.31,20.0,luxury,small,True,62.08
+2025-12-04,AZ-UG75PL,Modern Puffer Jacket,outerwear,286.85,286.85,0.0,luxury,none,True,0.0
+2025-12-04,AZ-AOAWMK,Ultra Trench Coat,outerwear,261.18,182.83,30.0,luxury,medium,True,78.35
+2025-12-04,AZ-Q0M66L,Modern Puffer Jacket,outerwear,208.59,187.73,10.0,luxury,small,True,20.86
+2025-12-04,AZ-T1I4IN,Signature Cardigan,outerwear,279.71,279.71,0.0,luxury,none,False,0.0
+2025-12-04,AZ-3GYNHZ,Effortless Bomber Jacket,outerwear,278.98,278.98,0.0,luxury,none,True,0.0
+2025-12-04,AZ-J8K1TN,Modern Bomber Jacket,outerwear,189.59,189.59,0.0,premium,none,True,0.0
+2025-12-04,AZ-YPLBF0,Signature Cardigan,outerwear,210.39,210.39,0.0,luxury,none,True,0.0
+2025-12-04,AZ-JCVEEH,Super Denim Jacket,outerwear,362.69,290.15,20.0,luxury,small,True,72.54
+2025-12-04,AZ-M0SRBB,Refined Leather Jacket,outerwear,333.7,333.7,0.0,luxury,none,True,0.0
+2025-12-04,AZ-X56GSD,Effortless Blazer,outerwear,267.42,267.42,0.0,luxury,none,False,0.0
+2025-12-04,AZ-3CR0CI,Super Blazer,outerwear,323.41,323.41,0.0,luxury,none,True,0.0
+2025-12-04,AZ-GUK6PC,Relaxed Puffer Jacket,outerwear,384.01,307.21,20.0,luxury,small,True,76.8
+2025-12-04,AZ-H6GK94,Contour Leather Jacket,outerwear,170.1,170.1,0.0,premium,none,True,0.0
+2025-12-04,AZ-ZJF4H5,Essential Puffer Jacket,outerwear,342.55,239.78,30.0,luxury,medium,True,102.77
+2025-12-04,AZ-4KNE4W,Modern Blazer,outerwear,270.69,135.34,50.0,luxury,large,True,135.35
+2025-12-04,AZ-FDZBC2,Super Puffer Jacket,outerwear,237.24,237.24,0.0,luxury,none,True,0.0
+2025-12-04,AZ-DSHHZR,Classic Wool Coat,outerwear,274.08,219.26,20.0,luxury,small,True,54.82
+2025-12-04,AZ-5PJV8U,Effortless Denim Jacket,outerwear,419.39,419.39,0.0,luxury,none,True,0.0
+2025-12-04,AZ-G5H5VH,Super Blazer,outerwear,272.76,245.48,10.0,luxury,small,True,27.28
+2025-12-04,AZ-1A326N,Classic Blazer,outerwear,392.81,314.25,20.0,luxury,small,True,78.56
+2025-12-04,AZ-YYIVBV,Effortless Bomber Jacket,outerwear,210.01,210.01,0.0,luxury,none,True,0.0
+2025-12-04,AZ-18ERLF,Signature Midi Dress,dresses,170.6,153.54,10.0,premium,small,True,17.06
+2025-12-04,AZ-EYHLUU,Effortless Midi Dress,dresses,237.77,237.77,0.0,luxury,none,True,0.0
+2025-12-04,AZ-D76V07,Super Bodycon Dress,dresses,187.81,187.81,0.0,premium,none,True,0.0
+2025-12-04,AZ-PMRD7R,Classic Bodycon Dress,dresses,191.1,191.1,0.0,premium,none,True,0.0
+2025-12-04,AZ-MPNAMZ,Ultra Maxi Dress,dresses,248.5,198.8,20.0,luxury,small,True,49.7
+2025-12-04,AZ-AJZ0ZO,Relaxed Shirt Dress,dresses,212.37,148.66,30.0,luxury,medium,True,63.71
+2025-12-04,AZ-F986IF,Modern Midi Dress,dresses,244.8,244.8,0.0,luxury,none,True,0.0
+2025-12-04,AZ-SHM1VN,Effortless Slip Dress,dresses,188.03,188.03,0.0,premium,none,True,0.0
+2025-12-04,AZ-LYAMH8,Super Wrap Dress,dresses,165.41,165.41,0.0,premium,none,True,0.0
+2025-12-04,AZ-POAXHG,Modern Bodycon Dress,dresses,81.79,81.79,0.0,mid-range,none,True,0.0
+2025-12-04,AZ-7YEXY4,Super Sweater Dress,dresses,85.27,85.27,0.0,mid-range,none,True,0.0
+2025-12-04,AZ-LLCOZK,Classic Slip Dress,dresses,216.21,216.21,0.0,luxury,none,False,0.0
+2025-12-04,AZ-NB4G6M,Essential Mini Dress,dresses,206.95,206.95,0.0,luxury,none,True,0.0
+2025-12-04,AZ-Z33OUA,Signature Maxi Dress,dresses,230.52,138.31,40.0,luxury,medium,True,92.21
+2025-12-04,AZ-H0LQ9Q,Super Maxi Dress,dresses,225.44,157.81,30.0,luxury,medium,True,67.63
+2025-12-04,AZ-7S6ZGN,Effortless Sweater Dress,dresses,226.85,204.16,10.0,luxury,small,True,22.69
+2025-12-04,AZ-D0C84T,Classic Sweater Dress,dresses,197.89,158.31,20.0,premium,small,True,39.58
+2025-12-04,AZ-LK9DVW,Classic Bodycon Dress,dresses,159.47,159.47,0.0,premium,none,True,0.0
+2025-12-04,AZ-RHMZPZ,Relaxed Wrap Dress,dresses,173.75,173.75,0.0,premium,none,True,0.0
+2025-12-04,AZ-WDD2YU,Ultra Mini Dress,dresses,131.05,131.05,0.0,premium,none,True,0.0
+2025-12-04,AZ-WAIU5G,Signature Midi Dress,dresses,198.46,198.46,0.0,premium,none,True,0.0
+2025-12-04,AZ-1467MT,Essential Sweater Dress,dresses,183.82,165.44,10.0,premium,small,True,18.38
+2025-12-04,AZ-1PZFRS,Signature Bodycon Dress,dresses,208.24,166.59,20.0,luxury,small,True,41.65
+2025-12-04,AZ-X4C5QA,Essential Wrap Dress,dresses,204.64,163.71,20.0,luxury,small,True,40.93
+2025-12-04,AZ-68SOH5,Relaxed Wrap Dress,dresses,182.86,164.57,10.0,premium,small,True,18.29
+2025-12-04,AZ-E8UEYA,Ultra Bodycon Dress,dresses,104.16,93.74,10.0,premium,small,True,10.42
+2025-12-04,AZ-N3121J,Relaxed Mini Dress,dresses,199.49,179.54,10.0,premium,small,True,19.95
+2025-12-04,AZ-B3E189,Signature Sweater Dress,dresses,112.35,78.64,30.0,premium,medium,True,33.71
+2025-12-04,AZ-48CWV6,Ultra Midi Dress,dresses,231.85,231.85,0.0,luxury,none,True,0.0
+2025-12-04,AZ-I0RAW6,Ultra Wrap Dress,dresses,221.91,155.34,30.0,luxury,medium,True,66.57
+2025-12-04,AZ-1W3ZPN,Modern Wrap Dress,dresses,238.34,238.34,0.0,luxury,none,True,0.0
+2025-12-04,AZ-SFDS4G,Classic Sweater Dress,dresses,159.68,143.71,10.0,premium,small,True,15.97
+2025-12-04,AZ-OO5U97,Signature Midi Dress,dresses,146.5,146.5,0.0,premium,none,True,0.0
+2025-12-04,AZ-M628SD,Effortless Shirt Dress,dresses,133.15,133.15,0.0,premium,none,True,0.0
+2025-12-04,AZ-NDMO21,Modern Shirt Dress,dresses,172.6,172.6,0.0,premium,none,True,0.0
+2025-12-04,AZ-1QD320,Signature Maxi Dress,dresses,241.71,169.2,30.0,luxury,medium,True,72.51
+2025-12-04,AZ-5B6PRW,Essential Slip Dress,dresses,211.24,211.24,0.0,luxury,none,True,0.0
+2025-12-04,AZ-XLN1X8,Super Maxi Dress,dresses,197.39,157.91,20.0,premium,small,False,39.48
+2025-12-04,AZ-SNGSRF,Super Hoodie,tops,73.22,58.58,20.0,mid-range,small,True,14.64
+2025-12-04,AZ-OV99KM,Signature Turtleneck,tops,56.86,56.86,0.0,mid-range,none,True,0.0
+2025-12-04,AZ-WEMHAV,Classic Blouse,tops,96.12,86.51,10.0,mid-range,small,True,9.61
+2025-12-04,AZ-WGNJNH,Ultra Henley Top,tops,58.83,47.06,20.0,mid-range,small,True,11.77
+2025-12-04,AZ-4P7M5Q,Contour Cropped Tank,tops,54.64,54.64,0.0,mid-range,none,True,0.0
+2025-12-04,AZ-MSSHSZ,Essential Sweater,tops,58.9,58.9,0.0,mid-range,none,True,0.0
+2025-12-04,AZ-S3NW8R,Classic Henley Top,tops,74.29,59.43,20.0,mid-range,small,True,14.86
+2025-12-04,AZ-17MNEJ,Contour Oversized Tee,tops,80.56,72.5,10.0,mid-range,small,True,8.06
+2025-12-04,AZ-0MYVHK,Essential Blouse,tops,96.32,86.69,10.0,mid-range,small,False,9.63
+2025-12-04,AZ-C7JWOB,Relaxed Bodysuit,tops,68.56,47.99,30.0,mid-range,medium,True,20.57
+2025-12-04,AZ-OQL21A,Super Henley Top,tops,45.19,36.15,20.0,budget,small,True,9.04
+2025-12-04,AZ-0TXYWL,Relaxed Sweater,tops,44.78,44.78,0.0,budget,none,True,0.0
+2025-12-04,AZ-DWZOUE,Essential Henley Top,tops,86.68,69.34,20.0,mid-range,small,True,17.34
+2025-12-04,AZ-XP9XDI,Relaxed Cropped Tank,tops,55.37,44.3,20.0,mid-range,small,False,11.07
+2025-12-04,AZ-75EQYO,Refined Henley Top,tops,87.43,87.43,0.0,mid-range,none,True,0.0
+2025-12-04,AZ-WGDPHC,Relaxed Bodysuit,tops,65.65,65.65,0.0,mid-range,none,True,0.0
+2025-12-04,AZ-YC6LEI,Relaxed Bodysuit,tops,81.98,73.78,10.0,mid-range,small,True,8.2
+2025-12-04,AZ-A1946R,Essential Henley Top,tops,97.04,97.04,0.0,mid-range,none,True,0.0
+2025-12-04,AZ-KC2U2R,Modern Turtleneck,tops,80.76,80.76,0.0,mid-range,none,False,0.0
+2025-12-04,AZ-AT3IC1,Super Blouse,tops,96.7,77.36,20.0,mid-range,small,True,19.34
+2025-12-04,AZ-NHES7S,Relaxed Hoodie,tops,77.55,62.04,20.0,mid-range,small,True,15.51
+2025-12-04,AZ-7QGPNC,Effortless Sweater,tops,105.83,63.5,40.0,premium,medium,True,42.33
+2025-12-04,AZ-GA8E9T,Signature Oversized Tee,tops,114.58,80.21,30.0,premium,medium,True,34.37
+2025-12-04,AZ-9FA9F3,Modern Sweater,tops,63.67,31.84,50.0,mid-range,large,True,31.83
+2025-12-04,AZ-HYJ0TN,Contour Blouse,tops,68.65,68.65,0.0,mid-range,none,True,0.0
+2025-12-04,AZ-HGK4SA,Modern Blouse,tops,67.64,47.35,30.0,mid-range,medium,True,20.29
+2025-12-04,AZ-F98LT2,Refined Sweater,tops,113.36,113.36,0.0,premium,none,True,0.0
+2025-12-04,AZ-1NDUUI,Super Hoodie,tops,118.59,83.01,30.0,premium,medium,False,35.58
+2025-12-04,AZ-R5JD8H,Super Sweater,tops,40.82,40.82,0.0,budget,none,True,0.0
+2025-12-04,AZ-M9JLMA,Refined Turtleneck,tops,75.78,68.2,10.0,mid-range,small,True,7.58
+2025-12-04,AZ-78BVPP,Refined Hoodie,tops,98.56,49.28,50.0,mid-range,large,True,49.28
+2025-12-04,AZ-B7075J,Essential Cropped Tank,tops,81.35,65.08,20.0,mid-range,small,True,16.27
+2025-12-04,AZ-0ZRUBY,Contour Cropped Tank,tops,87.89,70.31,20.0,mid-range,small,True,17.58
+2025-12-04,AZ-Z0ASRZ,Super Culottes,pants,66.08,52.86,20.0,mid-range,small,True,13.22
+2025-12-04,AZ-5Y29E0,Modern Culottes,pants,173.31,173.31,0.0,premium,none,True,0.0
+2025-12-04,AZ-AJH0GY,Ultra Wide Leg Pants,pants,139.69,83.81,40.0,premium,medium,True,55.88
+2025-12-04,AZ-J5CY1G,Ultra Leggings,pants,139.73,139.73,0.0,premium,none,True,0.0
+2025-12-04,AZ-2RCA6W,Relaxed Dress Pants,pants,171.31,171.31,0.0,premium,none,True,0.0
+2025-12-04,AZ-T81FOS,Super Leggings,pants,106.34,106.34,0.0,premium,none,True,0.0
+2025-12-04,AZ-GOBGBX,Classic Leggings,pants,138.85,83.31,40.0,premium,medium,True,55.54
+2025-12-04,AZ-3AV2LR,Modern Shorts,pants,100.47,100.47,0.0,premium,none,True,0.0
+2025-12-04,AZ-MW10M4,Relaxed Dress Pants,pants,131.19,118.07,10.0,premium,small,False,13.12
+2025-12-04,AZ-NLZJZN,Modern Jeans,pants,124.46,99.57,20.0,premium,small,True,24.89
+2025-12-04,AZ-CBPMFC,Ultra Shorts,pants,90.98,90.98,0.0,mid-range,none,True,0.0
+2025-12-04,AZ-WKGB79,Classic Wide Leg Pants,pants,115.73,92.58,20.0,premium,small,False,23.15
+2025-12-04,AZ-BZEIEA,Contour Joggers,pants,144.64,144.64,0.0,premium,none,True,0.0
+2025-12-04,AZ-WDU4HN,Refined Cargo Pants,pants,154.39,154.39,0.0,premium,none,True,0.0
+2025-12-04,AZ-ZUQNC8,Essential Leggings,pants,123.76,99.01,20.0,premium,small,False,24.75
+2025-12-04,AZ-E8GV8Q,Classic Leggings,pants,163.72,81.86,50.0,premium,large,True,81.86
+2025-12-04,AZ-8SV1D4,Modern Culottes,pants,133.46,133.46,0.0,premium,none,True,0.0
+2025-12-04,AZ-72RS88,Relaxed Dress Pants,pants,62.34,43.64,30.0,mid-range,medium,True,18.7
+2025-12-04,AZ-NVDXM6,Relaxed Cargo Pants,pants,79.07,79.07,0.0,mid-range,none,True,0.0
+2025-12-04,AZ-KFUER1,Modern Joggers,pants,140.9,126.81,10.0,premium,small,True,14.09
+2025-12-04,AZ-A3CB79,Effortless Dress Pants,pants,127.03,127.03,0.0,premium,none,True,0.0
+2025-12-04,AZ-PBT88K,Signature Wide Leg Pants,pants,123.49,74.09,40.0,premium,medium,True,49.4
+2025-12-04,AZ-E44XUS,Refined Culottes,pants,151.5,151.5,0.0,premium,none,True,0.0
+2025-12-04,AZ-IOGNEF,Essential Wide Leg Pants,pants,111.58,100.42,10.0,premium,small,True,11.16
+2025-12-04,AZ-202AM9,Modern Jeans,pants,74.45,67.01,10.0,mid-range,small,True,7.44
+2025-12-04,AZ-IL8LFA,Ultra Wide Leg Pants,pants,125.6,75.36,40.0,premium,medium,True,50.24
+2025-12-04,AZ-8WFEXR,Effortless Dress Pants,pants,94.27,94.27,0.0,mid-range,none,True,0.0
+2025-12-04,AZ-GD95EM,Modern Wide Leg Pants,pants,167.09,150.38,10.0,premium,small,True,16.71
+2025-12-04,AZ-VH54KI,Super Wide Leg Pants,pants,147.23,147.23,0.0,premium,none,True,0.0
+2025-12-04,AZ-425SPA,Refined Jeans,pants,98.46,98.46,0.0,mid-range,none,True,0.0
+2025-12-04,AZ-PYJN1T,Signature Shorts,pants,126.37,126.37,0.0,premium,none,True,0.0
+2025-12-04,AZ-FE23LH,Refined Jeans,pants,145.82,145.82,0.0,premium,none,True,0.0
+2025-12-04,AZ-TJWUCW,Relaxed Dress Pants,pants,121.3,109.17,10.0,premium,small,True,12.13
+2025-12-04,AZ-71P5AB,Effortless Culottes,pants,177.0,177.0,0.0,premium,none,True,0.0
+2025-12-04,AZ-AE97L6,Ultra Joggers,pants,176.29,176.29,0.0,premium,none,True,0.0
+2025-12-04,AZ-7K0VIE,Essential Leggings,pants,100.85,80.68,20.0,premium,small,True,20.17
+2025-12-04,AZ-XPZODM,Refined Shorts,pants,173.05,155.75,10.0,premium,small,True,17.3
+2025-12-04,AZ-I1O3WX,Relaxed Cargo Pants,pants,131.46,78.88,40.0,premium,medium,True,52.58
+2025-12-04,AZ-KC5PQZ,Super Wide Leg Pants,pants,144.32,144.32,0.0,premium,none,True,0.0
+2025-12-04,AZ-P70LO8,Signature Joggers,pants,112.0,112.0,0.0,premium,none,True,0.0
+2025-12-04,AZ-E9MGTC,Modern Jeans,pants,87.3,87.3,0.0,mid-range,none,True,0.0
+2025-12-04,AZ-C7WODD,Effortless Hat,accessories,80.79,72.71,10.0,mid-range,small,False,8.08
+2025-12-04,AZ-WURW5A,Modern Hair Clip,accessories,98.22,98.22,0.0,mid-range,none,False,0.0
+2025-12-04,AZ-E9LAO6,Essential Sunglasses,accessories,81.48,40.74,50.0,mid-range,large,True,40.74
+2025-12-04,AZ-EVJU4R,Signature Headband,accessories,86.22,60.35,30.0,mid-range,medium,True,25.87
+2025-12-04,AZ-FUCTDF,Effortless Hair Clip,accessories,29.42,29.42,0.0,budget,none,True,0.0
+2025-12-04,AZ-KCG3CJ,Essential Hair Clip,accessories,76.13,53.29,30.0,mid-range,medium,True,22.84
+2025-12-04,AZ-N86BXM,Essential Headband,accessories,79.32,71.39,10.0,mid-range,small,True,7.93
+2025-12-04,AZ-JIQY8B,Contour Headband,accessories,37.5,37.5,0.0,budget,none,True,0.0
+2025-12-04,AZ-W4H1OS,Modern Sunglasses,accessories,76.34,45.8,40.0,mid-range,medium,True,30.54
+2025-12-04,AZ-HFTOSS,Classic Jewelry Set,accessories,45.84,45.84,0.0,budget,none,True,0.0
+2025-12-04,AZ-B7HI61,Modern Hat,accessories,26.43,26.43,0.0,budget,none,False,0.0
+2025-12-04,AZ-FPSVS3,Relaxed Hat,accessories,45.48,36.38,20.0,budget,small,True,9.1
+2025-12-04,AZ-2F9BFY,Signature Bag,accessories,40.78,40.78,0.0,budget,none,True,0.0
+2025-12-04,AZ-BVWEH8,Refined Belt,accessories,51.22,51.22,0.0,mid-range,none,False,0.0
+2025-12-04,AZ-HU1Z3D,Refined Jewelry Set,accessories,45.53,45.53,0.0,budget,none,True,0.0
+2025-12-04,AZ-A81IVU,Refined Hat,accessories,80.93,64.74,20.0,mid-range,small,True,16.19
+2025-12-04,AZ-LZ5CBM,Essential Hair Clip,accessories,44.71,44.71,0.0,budget,none,True,0.0
+2025-12-04,AZ-A12L8Y,Contour Jewelry Set,accessories,41.81,29.27,30.0,budget,medium,True,12.54
+2025-12-04,AZ-6TW7MY,Refined Sunglasses,accessories,82.38,57.67,30.0,mid-range,medium,False,24.71
+2025-12-04,AZ-PI3PY8,Essential Hair Clip,accessories,60.78,54.7,10.0,mid-range,small,True,6.08
+2025-12-04,AZ-NASZMH,Super Jewelry Set,accessories,55.8,27.9,50.0,mid-range,large,False,27.9
+2025-12-04,AZ-1WGBGR,Signature Scarf,accessories,92.6,64.82,30.0,mid-range,medium,True,27.78
+2025-12-04,AZ-EDMYVK,Super Headband,accessories,70.53,42.32,40.0,mid-range,medium,False,28.21
+2025-12-04,AZ-JBYLSP,Classic Hair Clip,accessories,49.47,49.47,0.0,budget,none,True,0.0
+2025-12-04,AZ-CKWSHA,Effortless Sunglasses,accessories,92.5,92.5,0.0,mid-range,none,True,0.0
+2025-12-04,AZ-JA6L32,Refined Belt,accessories,55.4,44.32,20.0,mid-range,small,True,11.08
+2025-12-04,AZ-TQRXOQ,Classic Hair Clip,accessories,56.52,45.22,20.0,mid-range,small,True,11.3
+2025-12-04,AZ-4FBQ56,Classic Belt,accessories,70.02,70.02,0.0,mid-range,none,True,0.0
+2025-12-04,AZ-FANQOE,Ultra Headband,accessories,35.19,28.15,20.0,budget,small,True,7.04
+2025-12-04,AZ-L3BSN8,Relaxed Hair Clip,accessories,82.33,57.63,30.0,mid-range,medium,True,24.7
+2025-12-04,AZ-TLHNOT,Essential Bag,accessories,41.04,24.62,40.0,budget,medium,True,16.42
+2025-12-04,AZ-ROMFTN,Contour Sunglasses,accessories,57.45,40.21,30.0,mid-range,medium,True,17.24
+2025-12-04,AZ-PH9VU8,Modern Belt,accessories,61.79,55.61,10.0,mid-range,small,True,6.18
+2025-12-04,AZ-S0DXGK,Refined Hair Clip,accessories,70.16,70.16,0.0,mid-range,none,True,0.0
+2025-12-04,AZ-JLA1RE,Ultra Bag,accessories,27.36,21.89,20.0,budget,small,False,5.47
+2025-12-04,AZ-N2KUSL,Effortless Scarf,accessories,73.8,73.8,0.0,mid-range,none,True,0.0
+2025-12-04,AZ-JZCOL0,Ultra Belt,accessories,77.21,77.21,0.0,mid-range,none,True,0.0
+2025-12-04,AZ-T90ND8,Effortless Jewelry Set,accessories,58.4,58.4,0.0,mid-range,none,True,0.0
+2025-12-04,AZ-PSZV9U,Super Belt,accessories,53.02,31.81,40.0,mid-range,medium,False,21.21
+2025-12-04,AZ-IO96GV,Contour Belt,accessories,57.34,40.14,30.0,mid-range,medium,False,17.2
+2025-12-04,AZ-2YGPEE,Super Hair Clip,accessories,64.58,64.58,0.0,mid-range,none,True,0.0
+2025-12-04,AZ-QILOOS,Signature Headband,accessories,77.59,77.59,0.0,mid-range,none,True,0.0
+2025-12-04,AZ-UBS5JY,Refined Hair Clip,accessories,65.32,65.32,0.0,mid-range,none,True,0.0
+2025-12-04,AZ-4V1J0I,Classic Jewelry Set,accessories,29.08,29.08,0.0,budget,none,True,0.0
+2025-12-04,AZ-KTSPA3,Super Hair Clip,accessories,98.24,68.77,30.0,mid-range,medium,True,29.47
+2025-12-04,AZ-OTM4FQ,Ultra Bag,accessories,73.07,73.07,0.0,mid-range,none,True,0.0
+2025-12-04,AZ-XL8N6Y,Relaxed Bag,accessories,76.2,76.2,0.0,mid-range,none,False,0.0
+2025-12-04,AZ-AY7TAG,Effortless Jewelry Set,accessories,55.32,38.72,30.0,mid-range,medium,True,16.6
+2025-12-05,AZ-PH0QSF,Refined Bomber Jacket,outerwear,227.95,227.95,0.0,luxury,none,True,0.0
+2025-12-05,AZ-QQVC4C,Ultra Denim Jacket,outerwear,337.88,337.88,0.0,luxury,none,True,0.0
+2025-12-05,AZ-5JBDFL,Signature Blazer,outerwear,416.3,374.67,10.0,luxury,small,True,41.63
+2025-12-05,AZ-4EC5H6,Relaxed Bomber Jacket,outerwear,203.09,203.09,0.0,luxury,none,True,0.0
+2025-12-05,AZ-32X3QD,Relaxed Trench Coat,outerwear,176.21,176.21,0.0,premium,none,True,0.0
+2025-12-05,AZ-RCQUUB,Ultra Blazer,outerwear,242.74,145.64,40.0,luxury,medium,True,97.1
+2025-12-05,AZ-UZSL4I,Ultra Denim Jacket,outerwear,358.06,322.25,10.0,luxury,small,True,35.81
+2025-12-05,AZ-K5P5KJ,Modern Leather Jacket,outerwear,298.55,149.28,50.0,luxury,large,True,149.27
+2025-12-05,AZ-OSVS0I,Relaxed Cardigan,outerwear,168.71,101.23,40.0,premium,medium,True,67.48
+2025-12-05,AZ-KE2DB0,Refined Denim Jacket,outerwear,154.59,154.59,0.0,premium,none,True,0.0
+2025-12-05,AZ-QJS2D9,Effortless Puffer Jacket,outerwear,411.04,411.04,0.0,luxury,none,True,0.0
+2025-12-05,AZ-QPV8MI,Ultra Bomber Jacket,outerwear,449.53,314.67,30.0,luxury,medium,True,134.86
+2025-12-05,AZ-UNFA66,Relaxed Leather Jacket,outerwear,352.68,352.68,0.0,luxury,none,True,0.0
+2025-12-05,AZ-RKF2R3,Refined Wool Coat,outerwear,243.15,170.2,30.0,luxury,medium,True,72.95
+2025-12-05,AZ-HGILUH,Refined Trench Coat,outerwear,426.55,341.24,20.0,luxury,small,True,85.31
+2025-12-05,AZ-1QA67Z,Classic Cardigan,outerwear,310.39,248.31,20.0,luxury,small,True,62.08
+2025-12-05,AZ-UG75PL,Modern Puffer Jacket,outerwear,286.85,286.85,0.0,luxury,none,True,0.0
+2025-12-05,AZ-AOAWMK,Ultra Trench Coat,outerwear,261.18,156.71,40.0,luxury,medium,True,104.47
+2025-12-05,AZ-Q0M66L,Modern Puffer Jacket,outerwear,208.59,208.59,0.0,luxury,none,True,0.0
+2025-12-05,AZ-T1I4IN,Signature Cardigan,outerwear,279.71,279.71,0.0,luxury,none,False,0.0
+2025-12-05,AZ-3GYNHZ,Effortless Bomber Jacket,outerwear,278.98,278.98,0.0,luxury,none,True,0.0
+2025-12-05,AZ-J8K1TN,Modern Bomber Jacket,outerwear,189.59,189.59,0.0,premium,none,True,0.0
+2025-12-05,AZ-YPLBF0,Signature Cardigan,outerwear,210.39,210.39,0.0,luxury,none,True,0.0
+2025-12-05,AZ-JCVEEH,Super Denim Jacket,outerwear,362.69,290.15,20.0,luxury,small,True,72.54
+2025-12-05,AZ-M0SRBB,Refined Leather Jacket,outerwear,333.7,333.7,0.0,luxury,none,True,0.0
+2025-12-05,AZ-X56GSD,Effortless Blazer,outerwear,267.42,267.42,0.0,luxury,none,False,0.0
+2025-12-05,AZ-3CR0CI,Super Blazer,outerwear,323.41,323.41,0.0,luxury,none,True,0.0
+2025-12-05,AZ-GUK6PC,Relaxed Puffer Jacket,outerwear,384.01,307.21,20.0,luxury,small,True,76.8
+2025-12-05,AZ-H6GK94,Contour Leather Jacket,outerwear,170.1,170.1,0.0,premium,none,True,0.0
+2025-12-05,AZ-ZJF4H5,Essential Puffer Jacket,outerwear,342.55,239.78,30.0,luxury,medium,True,102.77
+2025-12-05,AZ-4KNE4W,Modern Blazer,outerwear,270.69,135.34,50.0,luxury,large,True,135.35
+2025-12-05,AZ-FDZBC2,Super Puffer Jacket,outerwear,237.24,237.24,0.0,luxury,none,True,0.0
+2025-12-05,AZ-DSHHZR,Classic Wool Coat,outerwear,274.08,274.08,0.0,luxury,none,True,0.0
+2025-12-05,AZ-5PJV8U,Effortless Denim Jacket,outerwear,419.39,419.39,0.0,luxury,none,True,0.0
+2025-12-05,AZ-G5H5VH,Super Blazer,outerwear,272.76,272.76,0.0,luxury,none,True,0.0
+2025-12-05,AZ-1A326N,Classic Blazer,outerwear,392.81,314.25,20.0,luxury,small,True,78.56
+2025-12-05,AZ-YYIVBV,Effortless Bomber Jacket,outerwear,210.01,168.01,20.0,luxury,small,True,42.0
+2025-12-05,AZ-18ERLF,Signature Midi Dress,dresses,170.6,170.6,0.0,premium,none,True,0.0
+2025-12-05,AZ-EYHLUU,Effortless Midi Dress,dresses,237.77,237.77,0.0,luxury,none,True,0.0
+2025-12-05,AZ-D76V07,Super Bodycon Dress,dresses,187.81,187.81,0.0,premium,none,True,0.0
+2025-12-05,AZ-PMRD7R,Classic Bodycon Dress,dresses,191.1,191.1,0.0,premium,none,True,0.0
+2025-12-05,AZ-MPNAMZ,Ultra Maxi Dress,dresses,248.5,248.5,0.0,luxury,none,True,0.0
+2025-12-05,AZ-AJZ0ZO,Relaxed Shirt Dress,dresses,212.37,148.66,30.0,luxury,medium,True,63.71
+2025-12-05,AZ-F986IF,Modern Midi Dress,dresses,244.8,244.8,0.0,luxury,none,True,0.0
+2025-12-05,AZ-SHM1VN,Effortless Slip Dress,dresses,188.03,188.03,0.0,premium,none,True,0.0
+2025-12-05,AZ-LYAMH8,Super Wrap Dress,dresses,165.41,165.41,0.0,premium,none,True,0.0
+2025-12-05,AZ-POAXHG,Modern Bodycon Dress,dresses,81.79,81.79,0.0,mid-range,none,True,0.0
+2025-12-05,AZ-7YEXY4,Super Sweater Dress,dresses,85.27,85.27,0.0,mid-range,none,True,0.0
+2025-12-05,AZ-LLCOZK,Classic Slip Dress,dresses,216.21,172.97,20.0,luxury,small,False,43.24
+2025-12-05,AZ-NB4G6M,Essential Mini Dress,dresses,206.95,206.95,0.0,luxury,none,True,0.0
+2025-12-05,AZ-Z33OUA,Signature Maxi Dress,dresses,230.52,230.52,0.0,luxury,none,True,0.0
+2025-12-05,AZ-H0LQ9Q,Super Maxi Dress,dresses,225.44,157.81,30.0,luxury,medium,True,67.63
+2025-12-05,AZ-7S6ZGN,Effortless Sweater Dress,dresses,226.85,204.16,10.0,luxury,small,True,22.69
+2025-12-05,AZ-D0C84T,Classic Sweater Dress,dresses,197.89,158.31,20.0,premium,small,True,39.58
+2025-12-05,AZ-LK9DVW,Classic Bodycon Dress,dresses,159.47,159.47,0.0,premium,none,True,0.0
+2025-12-05,AZ-RHMZPZ,Relaxed Wrap Dress,dresses,173.75,173.75,0.0,premium,none,True,0.0
+2025-12-05,AZ-WDD2YU,Ultra Mini Dress,dresses,131.05,131.05,0.0,premium,none,True,0.0
+2025-12-05,AZ-WAIU5G,Signature Midi Dress,dresses,198.46,198.46,0.0,premium,none,True,0.0
+2025-12-05,AZ-1467MT,Essential Sweater Dress,dresses,183.82,165.44,10.0,premium,small,True,18.38
+2025-12-05,AZ-1PZFRS,Signature Bodycon Dress,dresses,208.24,166.59,20.0,luxury,small,True,41.65
+2025-12-05,AZ-X4C5QA,Essential Wrap Dress,dresses,204.64,163.71,20.0,luxury,small,True,40.93
+2025-12-05,AZ-68SOH5,Relaxed Wrap Dress,dresses,182.86,164.57,10.0,premium,small,True,18.29
+2025-12-05,AZ-E8UEYA,Ultra Bodycon Dress,dresses,104.16,93.74,10.0,premium,small,True,10.42
+2025-12-05,AZ-N3121J,Relaxed Mini Dress,dresses,199.49,179.54,10.0,premium,small,True,19.95
+2025-12-05,AZ-B3E189,Signature Sweater Dress,dresses,112.35,78.64,30.0,premium,medium,True,33.71
+2025-12-05,AZ-48CWV6,Ultra Midi Dress,dresses,231.85,231.85,0.0,luxury,none,True,0.0
+2025-12-05,AZ-I0RAW6,Ultra Wrap Dress,dresses,221.91,155.34,30.0,luxury,medium,True,66.57
+2025-12-05,AZ-1W3ZPN,Modern Wrap Dress,dresses,238.34,238.34,0.0,luxury,none,True,0.0
+2025-12-05,AZ-SFDS4G,Classic Sweater Dress,dresses,159.68,143.71,10.0,premium,small,True,15.97
+2025-12-05,AZ-OO5U97,Signature Midi Dress,dresses,146.5,146.5,0.0,premium,none,True,0.0
+2025-12-05,AZ-M628SD,Effortless Shirt Dress,dresses,133.15,133.15,0.0,premium,none,True,0.0
+2025-12-05,AZ-NDMO21,Modern Shirt Dress,dresses,172.6,172.6,0.0,premium,none,True,0.0
+2025-12-05,AZ-1QD320,Signature Maxi Dress,dresses,241.71,169.2,30.0,luxury,medium,True,72.51
+2025-12-05,AZ-5B6PRW,Essential Slip Dress,dresses,211.24,211.24,0.0,luxury,none,True,0.0
+2025-12-05,AZ-XLN1X8,Super Maxi Dress,dresses,197.39,157.91,20.0,premium,small,False,39.48
+2025-12-05,AZ-SNGSRF,Super Hoodie,tops,73.22,58.58,20.0,mid-range,small,True,14.64
+2025-12-05,AZ-OV99KM,Signature Turtleneck,tops,56.86,56.86,0.0,mid-range,none,True,0.0
+2025-12-05,AZ-WEMHAV,Classic Blouse,tops,96.12,86.51,10.0,mid-range,small,True,9.61
+2025-12-05,AZ-WGNJNH,Ultra Henley Top,tops,58.83,47.06,20.0,mid-range,small,True,11.77
+2025-12-05,AZ-4P7M5Q,Contour Cropped Tank,tops,54.64,54.64,0.0,mid-range,none,True,0.0
+2025-12-05,AZ-MSSHSZ,Essential Sweater,tops,58.9,58.9,0.0,mid-range,none,True,0.0
+2025-12-05,AZ-S3NW8R,Classic Henley Top,tops,74.29,59.43,20.0,mid-range,small,True,14.86
+2025-12-05,AZ-17MNEJ,Contour Oversized Tee,tops,80.56,72.5,10.0,mid-range,small,True,8.06
+2025-12-05,AZ-0MYVHK,Essential Blouse,tops,96.32,86.69,10.0,mid-range,small,False,9.63
+2025-12-05,AZ-C7JWOB,Relaxed Bodysuit,tops,68.56,47.99,30.0,mid-range,medium,True,20.57
+2025-12-05,AZ-OQL21A,Super Henley Top,tops,45.19,36.15,20.0,budget,small,True,9.04
+2025-12-05,AZ-0TXYWL,Relaxed Sweater,tops,44.78,44.78,0.0,budget,none,True,0.0
+2025-12-05,AZ-DWZOUE,Essential Henley Top,tops,86.68,69.34,20.0,mid-range,small,True,17.34
+2025-12-05,AZ-XP9XDI,Relaxed Cropped Tank,tops,55.37,49.83,10.0,mid-range,small,False,5.54
+2025-12-05,AZ-75EQYO,Refined Henley Top,tops,87.43,87.43,0.0,mid-range,none,True,0.0
+2025-12-05,AZ-WGDPHC,Relaxed Bodysuit,tops,65.65,65.65,0.0,mid-range,none,True,0.0
+2025-12-05,AZ-YC6LEI,Relaxed Bodysuit,tops,81.98,73.78,10.0,mid-range,small,True,8.2
+2025-12-05,AZ-A1946R,Essential Henley Top,tops,97.04,97.04,0.0,mid-range,none,True,0.0
+2025-12-05,AZ-KC2U2R,Modern Turtleneck,tops,80.76,80.76,0.0,mid-range,none,False,0.0
+2025-12-05,AZ-AT3IC1,Super Blouse,tops,96.7,77.36,20.0,mid-range,small,True,19.34
+2025-12-05,AZ-NHES7S,Relaxed Hoodie,tops,77.55,62.04,20.0,mid-range,small,True,15.51
+2025-12-05,AZ-7QGPNC,Effortless Sweater,tops,105.83,63.5,40.0,premium,medium,True,42.33
+2025-12-05,AZ-GA8E9T,Signature Oversized Tee,tops,114.58,80.21,30.0,premium,medium,True,34.37
+2025-12-05,AZ-9FA9F3,Modern Sweater,tops,63.67,63.67,0.0,mid-range,none,True,0.0
+2025-12-05,AZ-HYJ0TN,Contour Blouse,tops,68.65,68.65,0.0,mid-range,none,True,0.0
+2025-12-05,AZ-HGK4SA,Modern Blouse,tops,67.64,47.35,30.0,mid-range,medium,True,20.29
+2025-12-05,AZ-F98LT2,Refined Sweater,tops,113.36,79.35,30.0,premium,medium,True,34.01
+2025-12-05,AZ-1NDUUI,Super Hoodie,tops,118.59,71.15,40.0,premium,medium,False,47.44
+2025-12-05,AZ-R5JD8H,Super Sweater,tops,40.82,40.82,0.0,budget,none,True,0.0
+2025-12-05,AZ-M9JLMA,Refined Turtleneck,tops,75.78,68.2,10.0,mid-range,small,True,7.58
+2025-12-05,AZ-78BVPP,Refined Hoodie,tops,98.56,49.28,50.0,mid-range,large,True,49.28
+2025-12-05,AZ-B7075J,Essential Cropped Tank,tops,81.35,65.08,20.0,mid-range,small,True,16.27
+2025-12-05,AZ-0ZRUBY,Contour Cropped Tank,tops,87.89,79.1,10.0,mid-range,small,True,8.79
+2025-12-05,AZ-Z0ASRZ,Super Culottes,pants,66.08,52.86,20.0,mid-range,small,True,13.22
+2025-12-05,AZ-5Y29E0,Modern Culottes,pants,173.31,173.31,0.0,premium,none,True,0.0
+2025-12-05,AZ-AJH0GY,Ultra Wide Leg Pants,pants,139.69,83.81,40.0,premium,medium,True,55.88
+2025-12-05,AZ-J5CY1G,Ultra Leggings,pants,139.73,139.73,0.0,premium,none,True,0.0
+2025-12-05,AZ-2RCA6W,Relaxed Dress Pants,pants,171.31,171.31,0.0,premium,none,True,0.0
+2025-12-05,AZ-T81FOS,Super Leggings,pants,106.34,106.34,0.0,premium,none,True,0.0
+2025-12-05,AZ-GOBGBX,Classic Leggings,pants,138.85,83.31,40.0,premium,medium,True,55.54
+2025-12-05,AZ-3AV2LR,Modern Shorts,pants,100.47,100.47,0.0,premium,none,True,0.0
+2025-12-05,AZ-MW10M4,Relaxed Dress Pants,pants,131.19,118.07,10.0,premium,small,False,13.12
+2025-12-05,AZ-NLZJZN,Modern Jeans,pants,124.46,99.57,20.0,premium,small,True,24.89
+2025-12-05,AZ-CBPMFC,Ultra Shorts,pants,90.98,90.98,0.0,mid-range,none,True,0.0
+2025-12-05,AZ-WKGB79,Classic Wide Leg Pants,pants,115.73,92.58,20.0,premium,small,False,23.15
+2025-12-05,AZ-BZEIEA,Contour Joggers,pants,144.64,144.64,0.0,premium,none,True,0.0
+2025-12-05,AZ-WDU4HN,Refined Cargo Pants,pants,154.39,154.39,0.0,premium,none,True,0.0
+2025-12-05,AZ-ZUQNC8,Essential Leggings,pants,123.76,99.01,20.0,premium,small,False,24.75
+2025-12-05,AZ-E8GV8Q,Classic Leggings,pants,163.72,163.72,0.0,premium,none,True,0.0
+2025-12-05,AZ-8SV1D4,Modern Culottes,pants,133.46,133.46,0.0,premium,none,True,0.0
+2025-12-05,AZ-72RS88,Relaxed Dress Pants,pants,62.34,43.64,30.0,mid-range,medium,True,18.7
+2025-12-05,AZ-NVDXM6,Relaxed Cargo Pants,pants,79.07,79.07,0.0,mid-range,none,True,0.0
+2025-12-05,AZ-KFUER1,Modern Joggers,pants,140.9,126.81,10.0,premium,small,True,14.09
+2025-12-05,AZ-A3CB79,Effortless Dress Pants,pants,127.03,88.92,30.0,premium,medium,True,38.11
+2025-12-05,AZ-PBT88K,Signature Wide Leg Pants,pants,123.49,74.09,40.0,premium,medium,True,49.4
+2025-12-05,AZ-E44XUS,Refined Culottes,pants,151.5,151.5,0.0,premium,none,True,0.0
+2025-12-05,AZ-IOGNEF,Essential Wide Leg Pants,pants,111.58,100.42,10.0,premium,small,True,11.16
+2025-12-05,AZ-202AM9,Modern Jeans,pants,74.45,67.01,10.0,mid-range,small,True,7.44
+2025-12-05,AZ-IL8LFA,Ultra Wide Leg Pants,pants,125.6,75.36,40.0,premium,medium,True,50.24
+2025-12-05,AZ-8WFEXR,Effortless Dress Pants,pants,94.27,94.27,0.0,mid-range,none,True,0.0
+2025-12-05,AZ-GD95EM,Modern Wide Leg Pants,pants,167.09,150.38,10.0,premium,small,True,16.71
+2025-12-05,AZ-VH54KI,Super Wide Leg Pants,pants,147.23,147.23,0.0,premium,none,True,0.0
+2025-12-05,AZ-425SPA,Refined Jeans,pants,98.46,98.46,0.0,mid-range,none,True,0.0
+2025-12-05,AZ-PYJN1T,Signature Shorts,pants,126.37,126.37,0.0,premium,none,True,0.0
+2025-12-05,AZ-FE23LH,Refined Jeans,pants,145.82,145.82,0.0,premium,none,True,0.0
+2025-12-05,AZ-TJWUCW,Relaxed Dress Pants,pants,121.3,109.17,10.0,premium,small,True,12.13
+2025-12-05,AZ-71P5AB,Effortless Culottes,pants,177.0,177.0,0.0,premium,none,True,0.0
+2025-12-05,AZ-AE97L6,Ultra Joggers,pants,176.29,176.29,0.0,premium,none,True,0.0
+2025-12-05,AZ-7K0VIE,Essential Leggings,pants,100.85,80.68,20.0,premium,small,True,20.17
+2025-12-05,AZ-XPZODM,Refined Shorts,pants,173.05,155.75,10.0,premium,small,True,17.3
+2025-12-05,AZ-I1O3WX,Relaxed Cargo Pants,pants,131.46,78.88,40.0,premium,medium,True,52.58
+2025-12-05,AZ-KC5PQZ,Super Wide Leg Pants,pants,144.32,144.32,0.0,premium,none,True,0.0
+2025-12-05,AZ-P70LO8,Signature Joggers,pants,112.0,112.0,0.0,premium,none,True,0.0
+2025-12-05,AZ-E9MGTC,Modern Jeans,pants,87.3,87.3,0.0,mid-range,none,True,0.0
+2025-12-05,AZ-C7WODD,Effortless Hat,accessories,80.79,72.71,10.0,mid-range,small,False,8.08
+2025-12-05,AZ-WURW5A,Modern Hair Clip,accessories,98.22,98.22,0.0,mid-range,none,False,0.0
+2025-12-05,AZ-E9LAO6,Essential Sunglasses,accessories,81.48,40.74,50.0,mid-range,large,True,40.74
+2025-12-05,AZ-EVJU4R,Signature Headband,accessories,86.22,60.35,30.0,mid-range,medium,True,25.87
+2025-12-05,AZ-FUCTDF,Effortless Hair Clip,accessories,29.42,29.42,0.0,budget,none,True,0.0
+2025-12-05,AZ-KCG3CJ,Essential Hair Clip,accessories,76.13,53.29,30.0,mid-range,medium,True,22.84
+2025-12-05,AZ-N86BXM,Essential Headband,accessories,79.32,71.39,10.0,mid-range,small,True,7.93
+2025-12-05,AZ-JIQY8B,Contour Headband,accessories,37.5,37.5,0.0,budget,none,True,0.0
+2025-12-05,AZ-W4H1OS,Modern Sunglasses,accessories,76.34,45.8,40.0,mid-range,medium,True,30.54
+2025-12-05,AZ-HFTOSS,Classic Jewelry Set,accessories,45.84,45.84,0.0,budget,none,True,0.0
+2025-12-05,AZ-B7HI61,Modern Hat,accessories,26.43,26.43,0.0,budget,none,False,0.0
+2025-12-05,AZ-FPSVS3,Relaxed Hat,accessories,45.48,36.38,20.0,budget,small,True,9.1
+2025-12-05,AZ-2F9BFY,Signature Bag,accessories,40.78,40.78,0.0,budget,none,True,0.0
+2025-12-05,AZ-BVWEH8,Refined Belt,accessories,51.22,51.22,0.0,mid-range,none,False,0.0
+2025-12-05,AZ-HU1Z3D,Refined Jewelry Set,accessories,45.53,45.53,0.0,budget,none,True,0.0
+2025-12-05,AZ-A81IVU,Refined Hat,accessories,80.93,64.74,20.0,mid-range,small,True,16.19
+2025-12-05,AZ-LZ5CBM,Essential Hair Clip,accessories,44.71,44.71,0.0,budget,none,True,0.0
+2025-12-05,AZ-A12L8Y,Contour Jewelry Set,accessories,41.81,29.27,30.0,budget,medium,True,12.54
+2025-12-05,AZ-6TW7MY,Refined Sunglasses,accessories,82.38,57.67,30.0,mid-range,medium,False,24.71
+2025-12-05,AZ-PI3PY8,Essential Hair Clip,accessories,60.78,54.7,10.0,mid-range,small,True,6.08
+2025-12-05,AZ-NASZMH,Super Jewelry Set,accessories,55.8,27.9,50.0,mid-range,large,False,27.9
+2025-12-05,AZ-1WGBGR,Signature Scarf,accessories,92.6,64.82,30.0,mid-range,medium,True,27.78
+2025-12-05,AZ-EDMYVK,Super Headband,accessories,70.53,42.32,40.0,mid-range,medium,False,28.21
+2025-12-05,AZ-JBYLSP,Classic Hair Clip,accessories,49.47,49.47,0.0,budget,none,True,0.0
+2025-12-05,AZ-CKWSHA,Effortless Sunglasses,accessories,92.5,92.5,0.0,mid-range,none,True,0.0
+2025-12-05,AZ-JA6L32,Refined Belt,accessories,55.4,44.32,20.0,mid-range,small,True,11.08
+2025-12-05,AZ-TQRXOQ,Classic Hair Clip,accessories,56.52,50.87,10.0,mid-range,small,True,5.65
+2025-12-05,AZ-4FBQ56,Classic Belt,accessories,70.02,70.02,0.0,mid-range,none,True,0.0
+2025-12-05,AZ-FANQOE,Ultra Headband,accessories,35.19,28.15,20.0,budget,small,True,7.04
+2025-12-05,AZ-L3BSN8,Relaxed Hair Clip,accessories,82.33,57.63,30.0,mid-range,medium,True,24.7
+2025-12-05,AZ-TLHNOT,Essential Bag,accessories,41.04,24.62,40.0,budget,medium,True,16.42
+2025-12-05,AZ-ROMFTN,Contour Sunglasses,accessories,57.45,40.21,30.0,mid-range,medium,True,17.24
+2025-12-05,AZ-PH9VU8,Modern Belt,accessories,61.79,61.79,0.0,mid-range,none,True,0.0
+2025-12-05,AZ-S0DXGK,Refined Hair Clip,accessories,70.16,70.16,0.0,mid-range,none,True,0.0
+2025-12-05,AZ-JLA1RE,Ultra Bag,accessories,27.36,21.89,20.0,budget,small,False,5.47
+2025-12-05,AZ-N2KUSL,Effortless Scarf,accessories,73.8,73.8,0.0,mid-range,none,True,0.0
+2025-12-05,AZ-JZCOL0,Ultra Belt,accessories,77.21,77.21,0.0,mid-range,none,True,0.0
+2025-12-05,AZ-T90ND8,Effortless Jewelry Set,accessories,58.4,40.88,30.0,mid-range,medium,True,17.52
+2025-12-05,AZ-PSZV9U,Super Belt,accessories,53.02,31.81,40.0,mid-range,medium,False,21.21
+2025-12-05,AZ-IO96GV,Contour Belt,accessories,57.34,40.14,30.0,mid-range,medium,False,17.2
+2025-12-05,AZ-2YGPEE,Super Hair Clip,accessories,64.58,64.58,0.0,mid-range,none,True,0.0
+2025-12-05,AZ-QILOOS,Signature Headband,accessories,77.59,77.59,0.0,mid-range,none,True,0.0
+2025-12-05,AZ-UBS5JY,Refined Hair Clip,accessories,65.32,65.32,0.0,mid-range,none,True,0.0
+2025-12-05,AZ-4V1J0I,Classic Jewelry Set,accessories,29.08,29.08,0.0,budget,none,True,0.0
+2025-12-05,AZ-KTSPA3,Super Hair Clip,accessories,98.24,68.77,30.0,mid-range,medium,True,29.47
+2025-12-05,AZ-OTM4FQ,Ultra Bag,accessories,73.07,73.07,0.0,mid-range,none,True,0.0
+2025-12-05,AZ-XL8N6Y,Relaxed Bag,accessories,76.2,76.2,0.0,mid-range,none,False,0.0
+2025-12-05,AZ-AY7TAG,Effortless Jewelry Set,accessories,55.32,38.72,30.0,mid-range,medium,True,16.6
+2025-12-06,AZ-PH0QSF,Refined Bomber Jacket,outerwear,227.95,227.95,0.0,luxury,none,True,0.0
+2025-12-06,AZ-QQVC4C,Ultra Denim Jacket,outerwear,337.88,337.88,0.0,luxury,none,True,0.0
+2025-12-06,AZ-5JBDFL,Signature Blazer,outerwear,416.3,374.67,10.0,luxury,small,True,41.63
+2025-12-06,AZ-4EC5H6,Relaxed Bomber Jacket,outerwear,203.09,203.09,0.0,luxury,none,True,0.0
+2025-12-06,AZ-32X3QD,Relaxed Trench Coat,outerwear,176.21,176.21,0.0,premium,none,True,0.0
+2025-12-06,AZ-RCQUUB,Ultra Blazer,outerwear,242.74,145.64,40.0,luxury,medium,True,97.1
+2025-12-06,AZ-UZSL4I,Ultra Denim Jacket,outerwear,358.06,322.25,10.0,luxury,small,True,35.81
+2025-12-06,AZ-K5P5KJ,Modern Leather Jacket,outerwear,298.55,149.28,50.0,luxury,large,True,149.27
+2025-12-06,AZ-OSVS0I,Relaxed Cardigan,outerwear,168.71,101.23,40.0,premium,medium,True,67.48
+2025-12-06,AZ-KE2DB0,Refined Denim Jacket,outerwear,154.59,154.59,0.0,premium,none,True,0.0
+2025-12-06,AZ-QJS2D9,Effortless Puffer Jacket,outerwear,411.04,411.04,0.0,luxury,none,True,0.0
+2025-12-06,AZ-QPV8MI,Ultra Bomber Jacket,outerwear,449.53,314.67,30.0,luxury,medium,True,134.86
+2025-12-06,AZ-UNFA66,Relaxed Leather Jacket,outerwear,352.68,352.68,0.0,luxury,none,True,0.0
+2025-12-06,AZ-RKF2R3,Refined Wool Coat,outerwear,243.15,170.2,30.0,luxury,medium,True,72.95
+2025-12-06,AZ-HGILUH,Refined Trench Coat,outerwear,426.55,341.24,20.0,luxury,small,True,85.31
+2025-12-06,AZ-1QA67Z,Classic Cardigan,outerwear,310.39,248.31,20.0,luxury,small,True,62.08
+2025-12-06,AZ-UG75PL,Modern Puffer Jacket,outerwear,286.85,286.85,0.0,luxury,none,True,0.0
+2025-12-06,AZ-AOAWMK,Ultra Trench Coat,outerwear,261.18,156.71,40.0,luxury,medium,True,104.47
+2025-12-06,AZ-Q0M66L,Modern Puffer Jacket,outerwear,208.59,208.59,0.0,luxury,none,True,0.0
+2025-12-06,AZ-T1I4IN,Signature Cardigan,outerwear,279.71,279.71,0.0,luxury,none,False,0.0
+2025-12-06,AZ-3GYNHZ,Effortless Bomber Jacket,outerwear,278.98,278.98,0.0,luxury,none,True,0.0
+2025-12-06,AZ-J8K1TN,Modern Bomber Jacket,outerwear,189.59,189.59,0.0,premium,none,True,0.0
+2025-12-06,AZ-YPLBF0,Signature Cardigan,outerwear,210.39,210.39,0.0,luxury,none,True,0.0
+2025-12-06,AZ-JCVEEH,Super Denim Jacket,outerwear,362.69,290.15,20.0,luxury,small,True,72.54
+2025-12-06,AZ-M0SRBB,Refined Leather Jacket,outerwear,333.7,233.59,30.0,luxury,medium,True,100.11
+2025-12-06,AZ-X56GSD,Effortless Blazer,outerwear,267.42,267.42,0.0,luxury,none,False,0.0
+2025-12-06,AZ-3CR0CI,Super Blazer,outerwear,323.41,323.41,0.0,luxury,none,True,0.0
+2025-12-06,AZ-GUK6PC,Relaxed Puffer Jacket,outerwear,384.01,307.21,20.0,luxury,small,True,76.8
+2025-12-06,AZ-H6GK94,Contour Leather Jacket,outerwear,170.1,170.1,0.0,premium,none,True,0.0
+2025-12-06,AZ-ZJF4H5,Essential Puffer Jacket,outerwear,342.55,342.55,0.0,luxury,none,True,0.0
+2025-12-06,AZ-4KNE4W,Modern Blazer,outerwear,270.69,270.69,0.0,luxury,none,True,0.0
+2025-12-06,AZ-FDZBC2,Super Puffer Jacket,outerwear,237.24,237.24,0.0,luxury,none,True,0.0
+2025-12-06,AZ-DSHHZR,Classic Wool Coat,outerwear,274.08,274.08,0.0,luxury,none,True,0.0
+2025-12-06,AZ-5PJV8U,Effortless Denim Jacket,outerwear,419.39,419.39,0.0,luxury,none,True,0.0
+2025-12-06,AZ-G5H5VH,Super Blazer,outerwear,272.76,272.76,0.0,luxury,none,True,0.0
+2025-12-06,AZ-1A326N,Classic Blazer,outerwear,392.81,314.25,20.0,luxury,small,True,78.56
+2025-12-06,AZ-YYIVBV,Effortless Bomber Jacket,outerwear,210.01,168.01,20.0,luxury,small,True,42.0
+2025-12-06,AZ-18ERLF,Signature Midi Dress,dresses,170.6,170.6,0.0,premium,none,True,0.0
+2025-12-06,AZ-EYHLUU,Effortless Midi Dress,dresses,237.77,237.77,0.0,luxury,none,True,0.0
+2025-12-06,AZ-D76V07,Super Bodycon Dress,dresses,187.81,187.81,0.0,premium,none,True,0.0
+2025-12-06,AZ-PMRD7R,Classic Bodycon Dress,dresses,191.1,191.1,0.0,premium,none,True,0.0
+2025-12-06,AZ-MPNAMZ,Ultra Maxi Dress,dresses,248.5,248.5,0.0,luxury,none,True,0.0
+2025-12-06,AZ-AJZ0ZO,Relaxed Shirt Dress,dresses,212.37,169.9,20.0,luxury,small,True,42.47
+2025-12-06,AZ-F986IF,Modern Midi Dress,dresses,244.8,244.8,0.0,luxury,none,True,0.0
+2025-12-06,AZ-SHM1VN,Effortless Slip Dress,dresses,188.03,188.03,0.0,premium,none,True,0.0
+2025-12-06,AZ-LYAMH8,Super Wrap Dress,dresses,165.41,165.41,0.0,premium,none,True,0.0
+2025-12-06,AZ-POAXHG,Modern Bodycon Dress,dresses,81.79,81.79,0.0,mid-range,none,True,0.0
+2025-12-06,AZ-7YEXY4,Super Sweater Dress,dresses,85.27,85.27,0.0,mid-range,none,True,0.0
+2025-12-06,AZ-LLCOZK,Classic Slip Dress,dresses,216.21,172.97,20.0,luxury,small,False,43.24
+2025-12-06,AZ-NB4G6M,Essential Mini Dress,dresses,206.95,206.95,0.0,luxury,none,True,0.0
+2025-12-06,AZ-Z33OUA,Signature Maxi Dress,dresses,230.52,230.52,0.0,luxury,none,True,0.0
+2025-12-06,AZ-H0LQ9Q,Super Maxi Dress,dresses,225.44,157.81,30.0,luxury,medium,True,67.63
+2025-12-06,AZ-7S6ZGN,Effortless Sweater Dress,dresses,226.85,204.16,10.0,luxury,small,True,22.69
+2025-12-06,AZ-D0C84T,Classic Sweater Dress,dresses,197.89,158.31,20.0,premium,small,True,39.58
+2025-12-06,AZ-LK9DVW,Classic Bodycon Dress,dresses,159.47,159.47,0.0,premium,none,True,0.0
+2025-12-06,AZ-RHMZPZ,Relaxed Wrap Dress,dresses,173.75,173.75,0.0,premium,none,True,0.0
+2025-12-06,AZ-WDD2YU,Ultra Mini Dress,dresses,131.05,131.05,0.0,premium,none,True,0.0
+2025-12-06,AZ-WAIU5G,Signature Midi Dress,dresses,198.46,198.46,0.0,premium,none,True,0.0
+2025-12-06,AZ-1467MT,Essential Sweater Dress,dresses,183.82,165.44,10.0,premium,small,True,18.38
+2025-12-06,AZ-1PZFRS,Signature Bodycon Dress,dresses,208.24,166.59,20.0,luxury,small,True,41.65
+2025-12-06,AZ-X4C5QA,Essential Wrap Dress,dresses,204.64,163.71,20.0,luxury,small,True,40.93
+2025-12-06,AZ-68SOH5,Relaxed Wrap Dress,dresses,182.86,164.57,10.0,premium,small,True,18.29
+2025-12-06,AZ-E8UEYA,Ultra Bodycon Dress,dresses,104.16,93.74,10.0,premium,small,True,10.42
+2025-12-06,AZ-N3121J,Relaxed Mini Dress,dresses,199.49,179.54,10.0,premium,small,True,19.95
+2025-12-06,AZ-B3E189,Signature Sweater Dress,dresses,112.35,78.64,30.0,premium,medium,True,33.71
+2025-12-06,AZ-48CWV6,Ultra Midi Dress,dresses,231.85,231.85,0.0,luxury,none,True,0.0
+2025-12-06,AZ-I0RAW6,Ultra Wrap Dress,dresses,221.91,155.34,30.0,luxury,medium,True,66.57
+2025-12-06,AZ-1W3ZPN,Modern Wrap Dress,dresses,238.34,238.34,0.0,luxury,none,True,0.0
+2025-12-06,AZ-SFDS4G,Classic Sweater Dress,dresses,159.68,143.71,10.0,premium,small,True,15.97
+2025-12-06,AZ-OO5U97,Signature Midi Dress,dresses,146.5,146.5,0.0,premium,none,True,0.0
+2025-12-06,AZ-M628SD,Effortless Shirt Dress,dresses,133.15,133.15,0.0,premium,none,True,0.0
+2025-12-06,AZ-NDMO21,Modern Shirt Dress,dresses,172.6,172.6,0.0,premium,none,True,0.0
+2025-12-06,AZ-1QD320,Signature Maxi Dress,dresses,241.71,169.2,30.0,luxury,medium,True,72.51
+2025-12-06,AZ-5B6PRW,Essential Slip Dress,dresses,211.24,211.24,0.0,luxury,none,True,0.0
+2025-12-06,AZ-XLN1X8,Super Maxi Dress,dresses,197.39,157.91,20.0,premium,small,False,39.48
+2025-12-06,AZ-SNGSRF,Super Hoodie,tops,73.22,73.22,0.0,mid-range,none,True,0.0
+2025-12-06,AZ-OV99KM,Signature Turtleneck,tops,56.86,56.86,0.0,mid-range,none,True,0.0
+2025-12-06,AZ-WEMHAV,Classic Blouse,tops,96.12,86.51,10.0,mid-range,small,True,9.61
+2025-12-06,AZ-WGNJNH,Ultra Henley Top,tops,58.83,47.06,20.0,mid-range,small,True,11.77
+2025-12-06,AZ-4P7M5Q,Contour Cropped Tank,tops,54.64,54.64,0.0,mid-range,none,True,0.0
+2025-12-06,AZ-MSSHSZ,Essential Sweater,tops,58.9,58.9,0.0,mid-range,none,True,0.0
+2025-12-06,AZ-S3NW8R,Classic Henley Top,tops,74.29,59.43,20.0,mid-range,small,True,14.86
+2025-12-06,AZ-17MNEJ,Contour Oversized Tee,tops,80.56,72.5,10.0,mid-range,small,True,8.06
+2025-12-06,AZ-0MYVHK,Essential Blouse,tops,96.32,86.69,10.0,mid-range,small,False,9.63
+2025-12-06,AZ-C7JWOB,Relaxed Bodysuit,tops,68.56,47.99,30.0,mid-range,medium,True,20.57
+2025-12-06,AZ-OQL21A,Super Henley Top,tops,45.19,31.63,30.0,budget,medium,True,13.56
+2025-12-06,AZ-0TXYWL,Relaxed Sweater,tops,44.78,44.78,0.0,budget,none,True,0.0
+2025-12-06,AZ-DWZOUE,Essential Henley Top,tops,86.68,69.34,20.0,mid-range,small,True,17.34
+2025-12-06,AZ-XP9XDI,Relaxed Cropped Tank,tops,55.37,49.83,10.0,mid-range,small,False,5.54
+2025-12-06,AZ-75EQYO,Refined Henley Top,tops,87.43,87.43,0.0,mid-range,none,True,0.0
+2025-12-06,AZ-WGDPHC,Relaxed Bodysuit,tops,65.65,65.65,0.0,mid-range,none,True,0.0
+2025-12-06,AZ-YC6LEI,Relaxed Bodysuit,tops,81.98,73.78,10.0,mid-range,small,True,8.2
+2025-12-06,AZ-A1946R,Essential Henley Top,tops,97.04,97.04,0.0,mid-range,none,True,0.0
+2025-12-06,AZ-KC2U2R,Modern Turtleneck,tops,80.76,80.76,0.0,mid-range,none,False,0.0
+2025-12-06,AZ-AT3IC1,Super Blouse,tops,96.7,77.36,20.0,mid-range,small,True,19.34
+2025-12-06,AZ-NHES7S,Relaxed Hoodie,tops,77.55,62.04,20.0,mid-range,small,True,15.51
+2025-12-06,AZ-7QGPNC,Effortless Sweater,tops,105.83,74.08,30.0,premium,medium,True,31.75
+2025-12-06,AZ-GA8E9T,Signature Oversized Tee,tops,114.58,80.21,30.0,premium,medium,True,34.37
+2025-12-06,AZ-9FA9F3,Modern Sweater,tops,63.67,63.67,0.0,mid-range,none,True,0.0
+2025-12-06,AZ-HYJ0TN,Contour Blouse,tops,68.65,68.65,0.0,mid-range,none,True,0.0
+2025-12-06,AZ-HGK4SA,Modern Blouse,tops,67.64,47.35,30.0,mid-range,medium,True,20.29
+2025-12-06,AZ-F98LT2,Refined Sweater,tops,113.36,79.35,30.0,premium,medium,True,34.01
+2025-12-06,AZ-1NDUUI,Super Hoodie,tops,118.59,71.15,40.0,premium,medium,False,47.44
+2025-12-06,AZ-R5JD8H,Super Sweater,tops,40.82,40.82,0.0,budget,none,True,0.0
+2025-12-06,AZ-M9JLMA,Refined Turtleneck,tops,75.78,68.2,10.0,mid-range,small,True,7.58
+2025-12-06,AZ-78BVPP,Refined Hoodie,tops,98.56,49.28,50.0,mid-range,large,True,49.28
+2025-12-06,AZ-B7075J,Essential Cropped Tank,tops,81.35,65.08,20.0,mid-range,small,True,16.27
+2025-12-06,AZ-0ZRUBY,Contour Cropped Tank,tops,87.89,79.1,10.0,mid-range,small,True,8.79
+2025-12-06,AZ-Z0ASRZ,Super Culottes,pants,66.08,52.86,20.0,mid-range,small,True,13.22
+2025-12-06,AZ-5Y29E0,Modern Culottes,pants,173.31,173.31,0.0,premium,none,True,0.0
+2025-12-06,AZ-AJH0GY,Ultra Wide Leg Pants,pants,139.69,83.81,40.0,premium,medium,True,55.88
+2025-12-06,AZ-J5CY1G,Ultra Leggings,pants,139.73,139.73,0.0,premium,none,True,0.0
+2025-12-06,AZ-2RCA6W,Relaxed Dress Pants,pants,171.31,171.31,0.0,premium,none,True,0.0
+2025-12-06,AZ-T81FOS,Super Leggings,pants,106.34,106.34,0.0,premium,none,True,0.0
+2025-12-06,AZ-GOBGBX,Classic Leggings,pants,138.85,83.31,40.0,premium,medium,True,55.54
+2025-12-06,AZ-3AV2LR,Modern Shorts,pants,100.47,100.47,0.0,premium,none,True,0.0
+2025-12-06,AZ-MW10M4,Relaxed Dress Pants,pants,131.19,118.07,10.0,premium,small,False,13.12
+2025-12-06,AZ-NLZJZN,Modern Jeans,pants,124.46,99.57,20.0,premium,small,True,24.89
+2025-12-06,AZ-CBPMFC,Ultra Shorts,pants,90.98,90.98,0.0,mid-range,none,True,0.0
+2025-12-06,AZ-WKGB79,Classic Wide Leg Pants,pants,115.73,92.58,20.0,premium,small,False,23.15
+2025-12-06,AZ-BZEIEA,Contour Joggers,pants,144.64,144.64,0.0,premium,none,True,0.0
+2025-12-06,AZ-WDU4HN,Refined Cargo Pants,pants,154.39,138.95,10.0,premium,small,True,15.44
+2025-12-06,AZ-ZUQNC8,Essential Leggings,pants,123.76,99.01,20.0,premium,small,False,24.75
+2025-12-06,AZ-E8GV8Q,Classic Leggings,pants,163.72,163.72,0.0,premium,none,True,0.0
+2025-12-06,AZ-8SV1D4,Modern Culottes,pants,133.46,133.46,0.0,premium,none,True,0.0
+2025-12-06,AZ-72RS88,Relaxed Dress Pants,pants,62.34,43.64,30.0,mid-range,medium,True,18.7
+2025-12-06,AZ-NVDXM6,Relaxed Cargo Pants,pants,79.07,79.07,0.0,mid-range,none,True,0.0
+2025-12-06,AZ-KFUER1,Modern Joggers,pants,140.9,126.81,10.0,premium,small,True,14.09
+2025-12-06,AZ-A3CB79,Effortless Dress Pants,pants,127.03,88.92,30.0,premium,medium,True,38.11
+2025-12-06,AZ-PBT88K,Signature Wide Leg Pants,pants,123.49,74.09,40.0,premium,medium,True,49.4
+2025-12-06,AZ-E44XUS,Refined Culottes,pants,151.5,151.5,0.0,premium,none,True,0.0
+2025-12-06,AZ-IOGNEF,Essential Wide Leg Pants,pants,111.58,100.42,10.0,premium,small,True,11.16
+2025-12-06,AZ-202AM9,Modern Jeans,pants,74.45,67.01,10.0,mid-range,small,True,7.44
+2025-12-06,AZ-IL8LFA,Ultra Wide Leg Pants,pants,125.6,75.36,40.0,premium,medium,True,50.24
+2025-12-06,AZ-8WFEXR,Effortless Dress Pants,pants,94.27,94.27,0.0,mid-range,none,True,0.0
+2025-12-06,AZ-GD95EM,Modern Wide Leg Pants,pants,167.09,150.38,10.0,premium,small,True,16.71
+2025-12-06,AZ-VH54KI,Super Wide Leg Pants,pants,147.23,147.23,0.0,premium,none,True,0.0
+2025-12-06,AZ-425SPA,Refined Jeans,pants,98.46,78.77,20.0,mid-range,small,True,19.69
+2025-12-06,AZ-PYJN1T,Signature Shorts,pants,126.37,126.37,0.0,premium,none,True,0.0
+2025-12-06,AZ-FE23LH,Refined Jeans,pants,145.82,145.82,0.0,premium,none,True,0.0
+2025-12-06,AZ-TJWUCW,Relaxed Dress Pants,pants,121.3,109.17,10.0,premium,small,True,12.13
+2025-12-06,AZ-71P5AB,Effortless Culottes,pants,177.0,177.0,0.0,premium,none,True,0.0
+2025-12-06,AZ-AE97L6,Ultra Joggers,pants,176.29,176.29,0.0,premium,none,True,0.0
+2025-12-06,AZ-7K0VIE,Essential Leggings,pants,100.85,80.68,20.0,premium,small,True,20.17
+2025-12-06,AZ-XPZODM,Refined Shorts,pants,173.05,155.75,10.0,premium,small,True,17.3
+2025-12-06,AZ-I1O3WX,Relaxed Cargo Pants,pants,131.46,78.88,40.0,premium,medium,True,52.58
+2025-12-06,AZ-KC5PQZ,Super Wide Leg Pants,pants,144.32,115.46,20.0,premium,small,True,28.86
+2025-12-06,AZ-P70LO8,Signature Joggers,pants,112.0,112.0,0.0,premium,none,True,0.0
+2025-12-06,AZ-E9MGTC,Modern Jeans,pants,87.3,87.3,0.0,mid-range,none,True,0.0
+2025-12-06,AZ-C7WODD,Effortless Hat,accessories,80.79,72.71,10.0,mid-range,small,False,8.08
+2025-12-06,AZ-WURW5A,Modern Hair Clip,accessories,98.22,98.22,0.0,mid-range,none,False,0.0
+2025-12-06,AZ-E9LAO6,Essential Sunglasses,accessories,81.48,40.74,50.0,mid-range,large,True,40.74
+2025-12-06,AZ-EVJU4R,Signature Headband,accessories,86.22,60.35,30.0,mid-range,medium,True,25.87
+2025-12-06,AZ-FUCTDF,Effortless Hair Clip,accessories,29.42,29.42,0.0,budget,none,True,0.0
+2025-12-06,AZ-KCG3CJ,Essential Hair Clip,accessories,76.13,53.29,30.0,mid-range,medium,True,22.84
+2025-12-06,AZ-N86BXM,Essential Headband,accessories,79.32,71.39,10.0,mid-range,small,True,7.93
+2025-12-06,AZ-JIQY8B,Contour Headband,accessories,37.5,37.5,0.0,budget,none,True,0.0
+2025-12-06,AZ-W4H1OS,Modern Sunglasses,accessories,76.34,45.8,40.0,mid-range,medium,True,30.54
+2025-12-06,AZ-HFTOSS,Classic Jewelry Set,accessories,45.84,45.84,0.0,budget,none,True,0.0
+2025-12-06,AZ-B7HI61,Modern Hat,accessories,26.43,26.43,0.0,budget,none,False,0.0
+2025-12-06,AZ-FPSVS3,Relaxed Hat,accessories,45.48,36.38,20.0,budget,small,True,9.1
+2025-12-06,AZ-2F9BFY,Signature Bag,accessories,40.78,40.78,0.0,budget,none,True,0.0
+2025-12-06,AZ-BVWEH8,Refined Belt,accessories,51.22,51.22,0.0,mid-range,none,False,0.0
+2025-12-06,AZ-HU1Z3D,Refined Jewelry Set,accessories,45.53,45.53,0.0,budget,none,True,0.0
+2025-12-06,AZ-A81IVU,Refined Hat,accessories,80.93,80.93,0.0,mid-range,none,True,0.0
+2025-12-06,AZ-LZ5CBM,Essential Hair Clip,accessories,44.71,44.71,0.0,budget,none,True,0.0
+2025-12-06,AZ-A12L8Y,Contour Jewelry Set,accessories,41.81,29.27,30.0,budget,medium,True,12.54
+2025-12-06,AZ-6TW7MY,Refined Sunglasses,accessories,82.38,57.67,30.0,mid-range,medium,False,24.71
+2025-12-06,AZ-PI3PY8,Essential Hair Clip,accessories,60.78,54.7,10.0,mid-range,small,True,6.08
+2025-12-06,AZ-NASZMH,Super Jewelry Set,accessories,55.8,27.9,50.0,mid-range,large,False,27.9
+2025-12-06,AZ-1WGBGR,Signature Scarf,accessories,92.6,64.82,30.0,mid-range,medium,True,27.78
+2025-12-06,AZ-EDMYVK,Super Headband,accessories,70.53,42.32,40.0,mid-range,medium,False,28.21
+2025-12-06,AZ-JBYLSP,Classic Hair Clip,accessories,49.47,49.47,0.0,budget,none,True,0.0
+2025-12-06,AZ-CKWSHA,Effortless Sunglasses,accessories,92.5,92.5,0.0,mid-range,none,True,0.0
+2025-12-06,AZ-JA6L32,Refined Belt,accessories,55.4,44.32,20.0,mid-range,small,True,11.08
+2025-12-06,AZ-TQRXOQ,Classic Hair Clip,accessories,56.52,50.87,10.0,mid-range,small,True,5.65
+2025-12-06,AZ-4FBQ56,Classic Belt,accessories,70.02,70.02,0.0,mid-range,none,True,0.0
+2025-12-06,AZ-FANQOE,Ultra Headband,accessories,35.19,28.15,20.0,budget,small,True,7.04
+2025-12-06,AZ-L3BSN8,Relaxed Hair Clip,accessories,82.33,57.63,30.0,mid-range,medium,True,24.7
+2025-12-06,AZ-TLHNOT,Essential Bag,accessories,41.04,24.62,40.0,budget,medium,True,16.42
+2025-12-06,AZ-ROMFTN,Contour Sunglasses,accessories,57.45,40.21,30.0,mid-range,medium,True,17.24
+2025-12-06,AZ-PH9VU8,Modern Belt,accessories,61.79,61.79,0.0,mid-range,none,True,0.0
+2025-12-06,AZ-S0DXGK,Refined Hair Clip,accessories,70.16,70.16,0.0,mid-range,none,True,0.0
+2025-12-06,AZ-JLA1RE,Ultra Bag,accessories,27.36,21.89,20.0,budget,small,False,5.47
+2025-12-06,AZ-N2KUSL,Effortless Scarf,accessories,73.8,73.8,0.0,mid-range,none,True,0.0
+2025-12-06,AZ-JZCOL0,Ultra Belt,accessories,77.21,61.77,20.0,mid-range,small,True,15.44
+2025-12-06,AZ-T90ND8,Effortless Jewelry Set,accessories,58.4,40.88,30.0,mid-range,medium,True,17.52
+2025-12-06,AZ-PSZV9U,Super Belt,accessories,53.02,31.81,40.0,mid-range,medium,False,21.21
+2025-12-06,AZ-IO96GV,Contour Belt,accessories,57.34,40.14,30.0,mid-range,medium,False,17.2
+2025-12-06,AZ-2YGPEE,Super Hair Clip,accessories,64.58,64.58,0.0,mid-range,none,True,0.0
+2025-12-06,AZ-QILOOS,Signature Headband,accessories,77.59,77.59,0.0,mid-range,none,True,0.0
+2025-12-06,AZ-UBS5JY,Refined Hair Clip,accessories,65.32,65.32,0.0,mid-range,none,True,0.0
+2025-12-06,AZ-4V1J0I,Classic Jewelry Set,accessories,29.08,29.08,0.0,budget,none,True,0.0
+2025-12-06,AZ-KTSPA3,Super Hair Clip,accessories,98.24,68.77,30.0,mid-range,medium,True,29.47
+2025-12-06,AZ-OTM4FQ,Ultra Bag,accessories,73.07,73.07,0.0,mid-range,none,True,0.0
+2025-12-06,AZ-XL8N6Y,Relaxed Bag,accessories,76.2,76.2,0.0,mid-range,none,False,0.0
+2025-12-06,AZ-AY7TAG,Effortless Jewelry Set,accessories,55.32,38.72,30.0,mid-range,medium,True,16.6
+2025-12-07,AZ-PH0QSF,Refined Bomber Jacket,outerwear,227.95,227.95,0.0,luxury,none,True,0.0
+2025-12-07,AZ-QQVC4C,Ultra Denim Jacket,outerwear,337.88,236.52,30.0,luxury,medium,True,101.36
+2025-12-07,AZ-5JBDFL,Signature Blazer,outerwear,416.3,374.67,10.0,luxury,small,True,41.63
+2025-12-07,AZ-4EC5H6,Relaxed Bomber Jacket,outerwear,203.09,203.09,0.0,luxury,none,True,0.0
+2025-12-07,AZ-32X3QD,Relaxed Trench Coat,outerwear,176.21,176.21,0.0,premium,none,True,0.0
+2025-12-07,AZ-RCQUUB,Ultra Blazer,outerwear,242.74,145.64,40.0,luxury,medium,True,97.1
+2025-12-07,AZ-UZSL4I,Ultra Denim Jacket,outerwear,358.06,286.45,20.0,luxury,small,True,71.61
+2025-12-07,AZ-K5P5KJ,Modern Leather Jacket,outerwear,298.55,149.28,50.0,luxury,large,True,149.27
+2025-12-07,AZ-OSVS0I,Relaxed Cardigan,outerwear,168.71,101.23,40.0,premium,medium,True,67.48
+2025-12-07,AZ-KE2DB0,Refined Denim Jacket,outerwear,154.59,154.59,0.0,premium,none,True,0.0
+2025-12-07,AZ-QJS2D9,Effortless Puffer Jacket,outerwear,411.04,411.04,0.0,luxury,none,True,0.0
+2025-12-07,AZ-QPV8MI,Ultra Bomber Jacket,outerwear,449.53,314.67,30.0,luxury,medium,True,134.86
+2025-12-07,AZ-UNFA66,Relaxed Leather Jacket,outerwear,352.68,352.68,0.0,luxury,none,True,0.0
+2025-12-07,AZ-RKF2R3,Refined Wool Coat,outerwear,243.15,170.2,30.0,luxury,medium,True,72.95
+2025-12-07,AZ-HGILUH,Refined Trench Coat,outerwear,426.55,341.24,20.0,luxury,small,True,85.31
+2025-12-07,AZ-1QA67Z,Classic Cardigan,outerwear,310.39,248.31,20.0,luxury,small,True,62.08
+2025-12-07,AZ-UG75PL,Modern Puffer Jacket,outerwear,286.85,286.85,0.0,luxury,none,True,0.0
+2025-12-07,AZ-AOAWMK,Ultra Trench Coat,outerwear,261.18,156.71,40.0,luxury,medium,True,104.47
+2025-12-07,AZ-Q0M66L,Modern Puffer Jacket,outerwear,208.59,208.59,0.0,luxury,none,True,0.0
+2025-12-07,AZ-T1I4IN,Signature Cardigan,outerwear,279.71,279.71,0.0,luxury,none,False,0.0
+2025-12-07,AZ-3GYNHZ,Effortless Bomber Jacket,outerwear,278.98,278.98,0.0,luxury,none,True,0.0
+2025-12-07,AZ-J8K1TN,Modern Bomber Jacket,outerwear,189.59,189.59,0.0,premium,none,True,0.0
+2025-12-07,AZ-YPLBF0,Signature Cardigan,outerwear,210.39,210.39,0.0,luxury,none,True,0.0
+2025-12-07,AZ-JCVEEH,Super Denim Jacket,outerwear,362.69,290.15,20.0,luxury,small,True,72.54
+2025-12-07,AZ-M0SRBB,Refined Leather Jacket,outerwear,333.7,233.59,30.0,luxury,medium,True,100.11
+2025-12-07,AZ-X56GSD,Effortless Blazer,outerwear,267.42,213.94,20.0,luxury,small,False,53.48
+2025-12-07,AZ-3CR0CI,Super Blazer,outerwear,323.41,323.41,0.0,luxury,none,True,0.0
+2025-12-07,AZ-GUK6PC,Relaxed Puffer Jacket,outerwear,384.01,307.21,20.0,luxury,small,True,76.8
+2025-12-07,AZ-H6GK94,Contour Leather Jacket,outerwear,170.1,170.1,0.0,premium,none,True,0.0
+2025-12-07,AZ-ZJF4H5,Essential Puffer Jacket,outerwear,342.55,239.78,30.0,luxury,medium,True,102.77
+2025-12-07,AZ-4KNE4W,Modern Blazer,outerwear,270.69,270.69,0.0,luxury,none,True,0.0
+2025-12-07,AZ-FDZBC2,Super Puffer Jacket,outerwear,237.24,237.24,0.0,luxury,none,True,0.0
+2025-12-07,AZ-DSHHZR,Classic Wool Coat,outerwear,274.08,274.08,0.0,luxury,none,True,0.0
+2025-12-07,AZ-5PJV8U,Effortless Denim Jacket,outerwear,419.39,419.39,0.0,luxury,none,True,0.0
+2025-12-07,AZ-G5H5VH,Super Blazer,outerwear,272.76,272.76,0.0,luxury,none,True,0.0
+2025-12-07,AZ-1A326N,Classic Blazer,outerwear,392.81,353.53,10.0,luxury,small,True,39.28
+2025-12-07,AZ-YYIVBV,Effortless Bomber Jacket,outerwear,210.01,168.01,20.0,luxury,small,True,42.0
+2025-12-07,AZ-18ERLF,Signature Midi Dress,dresses,170.6,170.6,0.0,premium,none,True,0.0
+2025-12-07,AZ-EYHLUU,Effortless Midi Dress,dresses,237.77,237.77,0.0,luxury,none,True,0.0
+2025-12-07,AZ-D76V07,Super Bodycon Dress,dresses,187.81,187.81,0.0,premium,none,True,0.0
+2025-12-07,AZ-PMRD7R,Classic Bodycon Dress,dresses,191.1,191.1,0.0,premium,none,True,0.0
+2025-12-07,AZ-MPNAMZ,Ultra Maxi Dress,dresses,248.5,248.5,0.0,luxury,none,True,0.0
+2025-12-07,AZ-AJZ0ZO,Relaxed Shirt Dress,dresses,212.37,169.9,20.0,luxury,small,True,42.47
+2025-12-07,AZ-F986IF,Modern Midi Dress,dresses,244.8,244.8,0.0,luxury,none,True,0.0
+2025-12-07,AZ-SHM1VN,Effortless Slip Dress,dresses,188.03,188.03,0.0,premium,none,True,0.0
+2025-12-07,AZ-LYAMH8,Super Wrap Dress,dresses,165.41,148.87,10.0,premium,small,True,16.54
+2025-12-07,AZ-POAXHG,Modern Bodycon Dress,dresses,81.79,81.79,0.0,mid-range,none,True,0.0
+2025-12-07,AZ-7YEXY4,Super Sweater Dress,dresses,85.27,85.27,0.0,mid-range,none,True,0.0
+2025-12-07,AZ-LLCOZK,Classic Slip Dress,dresses,216.21,216.21,0.0,luxury,none,False,0.0
+2025-12-07,AZ-NB4G6M,Essential Mini Dress,dresses,206.95,206.95,0.0,luxury,none,True,0.0
+2025-12-07,AZ-Z33OUA,Signature Maxi Dress,dresses,230.52,230.52,0.0,luxury,none,True,0.0
+2025-12-07,AZ-H0LQ9Q,Super Maxi Dress,dresses,225.44,157.81,30.0,luxury,medium,True,67.63
+2025-12-07,AZ-7S6ZGN,Effortless Sweater Dress,dresses,226.85,204.16,10.0,luxury,small,True,22.69
+2025-12-07,AZ-D0C84T,Classic Sweater Dress,dresses,197.89,158.31,20.0,premium,small,True,39.58
+2025-12-07,AZ-LK9DVW,Classic Bodycon Dress,dresses,159.47,159.47,0.0,premium,none,True,0.0
+2025-12-07,AZ-RHMZPZ,Relaxed Wrap Dress,dresses,173.75,173.75,0.0,premium,none,True,0.0
+2025-12-07,AZ-WDD2YU,Ultra Mini Dress,dresses,131.05,131.05,0.0,premium,none,True,0.0
+2025-12-07,AZ-WAIU5G,Signature Midi Dress,dresses,198.46,198.46,0.0,premium,none,True,0.0
+2025-12-07,AZ-1467MT,Essential Sweater Dress,dresses,183.82,147.06,20.0,premium,small,True,36.76
+2025-12-07,AZ-1PZFRS,Signature Bodycon Dress,dresses,208.24,166.59,20.0,luxury,small,True,41.65
+2025-12-07,AZ-X4C5QA,Essential Wrap Dress,dresses,204.64,163.71,20.0,luxury,small,True,40.93
+2025-12-07,AZ-68SOH5,Relaxed Wrap Dress,dresses,182.86,164.57,10.0,premium,small,True,18.29
+2025-12-07,AZ-E8UEYA,Ultra Bodycon Dress,dresses,104.16,93.74,10.0,premium,small,True,10.42
+2025-12-07,AZ-N3121J,Relaxed Mini Dress,dresses,199.49,179.54,10.0,premium,small,True,19.95
+2025-12-07,AZ-B3E189,Signature Sweater Dress,dresses,112.35,78.64,30.0,premium,medium,True,33.71
+2025-12-07,AZ-48CWV6,Ultra Midi Dress,dresses,231.85,231.85,0.0,luxury,none,True,0.0
+2025-12-07,AZ-I0RAW6,Ultra Wrap Dress,dresses,221.91,155.34,30.0,luxury,medium,True,66.57
+2025-12-07,AZ-1W3ZPN,Modern Wrap Dress,dresses,238.34,238.34,0.0,luxury,none,True,0.0
+2025-12-07,AZ-SFDS4G,Classic Sweater Dress,dresses,159.68,143.71,10.0,premium,small,True,15.97
+2025-12-07,AZ-OO5U97,Signature Midi Dress,dresses,146.5,146.5,0.0,premium,none,True,0.0
+2025-12-07,AZ-M628SD,Effortless Shirt Dress,dresses,133.15,133.15,0.0,premium,none,True,0.0
+2025-12-07,AZ-NDMO21,Modern Shirt Dress,dresses,172.6,172.6,0.0,premium,none,True,0.0
+2025-12-07,AZ-1QD320,Signature Maxi Dress,dresses,241.71,193.37,20.0,luxury,small,True,48.34
+2025-12-07,AZ-5B6PRW,Essential Slip Dress,dresses,211.24,211.24,0.0,luxury,none,True,0.0
+2025-12-07,AZ-XLN1X8,Super Maxi Dress,dresses,197.39,157.91,20.0,premium,small,False,39.48
+2025-12-07,AZ-SNGSRF,Super Hoodie,tops,73.22,73.22,0.0,mid-range,none,True,0.0
+2025-12-07,AZ-OV99KM,Signature Turtleneck,tops,56.86,56.86,0.0,mid-range,none,True,0.0
+2025-12-07,AZ-WEMHAV,Classic Blouse,tops,96.12,86.51,10.0,mid-range,small,True,9.61
+2025-12-07,AZ-WGNJNH,Ultra Henley Top,tops,58.83,41.18,30.0,mid-range,medium,True,17.65
+2025-12-07,AZ-4P7M5Q,Contour Cropped Tank,tops,54.64,54.64,0.0,mid-range,none,True,0.0
+2025-12-07,AZ-MSSHSZ,Essential Sweater,tops,58.9,58.9,0.0,mid-range,none,True,0.0
+2025-12-07,AZ-S3NW8R,Classic Henley Top,tops,74.29,59.43,20.0,mid-range,small,True,14.86
+2025-12-07,AZ-17MNEJ,Contour Oversized Tee,tops,80.56,72.5,10.0,mid-range,small,True,8.06
+2025-12-07,AZ-0MYVHK,Essential Blouse,tops,96.32,86.69,10.0,mid-range,small,False,9.63
+2025-12-07,AZ-C7JWOB,Relaxed Bodysuit,tops,68.56,47.99,30.0,mid-range,medium,True,20.57
+2025-12-07,AZ-OQL21A,Super Henley Top,tops,45.19,31.63,30.0,budget,medium,True,13.56
+2025-12-07,AZ-0TXYWL,Relaxed Sweater,tops,44.78,44.78,0.0,budget,none,True,0.0
+2025-12-07,AZ-DWZOUE,Essential Henley Top,tops,86.68,69.34,20.0,mid-range,small,True,17.34
+2025-12-07,AZ-XP9XDI,Relaxed Cropped Tank,tops,55.37,49.83,10.0,mid-range,small,False,5.54
+2025-12-07,AZ-75EQYO,Refined Henley Top,tops,87.43,87.43,0.0,mid-range,none,True,0.0
+2025-12-07,AZ-WGDPHC,Relaxed Bodysuit,tops,65.65,65.65,0.0,mid-range,none,True,0.0
+2025-12-07,AZ-YC6LEI,Relaxed Bodysuit,tops,81.98,73.78,10.0,mid-range,small,True,8.2
+2025-12-07,AZ-A1946R,Essential Henley Top,tops,97.04,97.04,0.0,mid-range,none,True,0.0
+2025-12-07,AZ-KC2U2R,Modern Turtleneck,tops,80.76,80.76,0.0,mid-range,none,False,0.0
+2025-12-07,AZ-AT3IC1,Super Blouse,tops,96.7,77.36,20.0,mid-range,small,True,19.34
+2025-12-07,AZ-NHES7S,Relaxed Hoodie,tops,77.55,62.04,20.0,mid-range,small,True,15.51
+2025-12-07,AZ-7QGPNC,Effortless Sweater,tops,105.83,74.08,30.0,premium,medium,True,31.75
+2025-12-07,AZ-GA8E9T,Signature Oversized Tee,tops,114.58,80.21,30.0,premium,medium,True,34.37
+2025-12-07,AZ-9FA9F3,Modern Sweater,tops,63.67,63.67,0.0,mid-range,none,True,0.0
+2025-12-07,AZ-HYJ0TN,Contour Blouse,tops,68.65,68.65,0.0,mid-range,none,True,0.0
+2025-12-07,AZ-HGK4SA,Modern Blouse,tops,67.64,47.35,30.0,mid-range,medium,True,20.29
+2025-12-07,AZ-F98LT2,Refined Sweater,tops,113.36,79.35,30.0,premium,medium,True,34.01
+2025-12-07,AZ-1NDUUI,Super Hoodie,tops,118.59,71.15,40.0,premium,medium,False,47.44
+2025-12-07,AZ-R5JD8H,Super Sweater,tops,40.82,40.82,0.0,budget,none,True,0.0
+2025-12-07,AZ-M9JLMA,Refined Turtleneck,tops,75.78,68.2,10.0,mid-range,small,True,7.58
+2025-12-07,AZ-78BVPP,Refined Hoodie,tops,98.56,49.28,50.0,mid-range,large,True,49.28
+2025-12-07,AZ-B7075J,Essential Cropped Tank,tops,81.35,65.08,20.0,mid-range,small,True,16.27
+2025-12-07,AZ-0ZRUBY,Contour Cropped Tank,tops,87.89,87.89,0.0,mid-range,none,True,0.0
+2025-12-07,AZ-Z0ASRZ,Super Culottes,pants,66.08,52.86,20.0,mid-range,small,True,13.22
+2025-12-07,AZ-5Y29E0,Modern Culottes,pants,173.31,173.31,0.0,premium,none,True,0.0
+2025-12-07,AZ-AJH0GY,Ultra Wide Leg Pants,pants,139.69,83.81,40.0,premium,medium,True,55.88
+2025-12-07,AZ-J5CY1G,Ultra Leggings,pants,139.73,139.73,0.0,premium,none,True,0.0
+2025-12-07,AZ-2RCA6W,Relaxed Dress Pants,pants,171.31,171.31,0.0,premium,none,True,0.0
+2025-12-07,AZ-T81FOS,Super Leggings,pants,106.34,106.34,0.0,premium,none,True,0.0
+2025-12-07,AZ-GOBGBX,Classic Leggings,pants,138.85,83.31,40.0,premium,medium,True,55.54
+2025-12-07,AZ-3AV2LR,Modern Shorts,pants,100.47,100.47,0.0,premium,none,True,0.0
+2025-12-07,AZ-MW10M4,Relaxed Dress Pants,pants,131.19,118.07,10.0,premium,small,False,13.12
+2025-12-07,AZ-NLZJZN,Modern Jeans,pants,124.46,99.57,20.0,premium,small,True,24.89
+2025-12-07,AZ-CBPMFC,Ultra Shorts,pants,90.98,90.98,0.0,mid-range,none,True,0.0
+2025-12-07,AZ-WKGB79,Classic Wide Leg Pants,pants,115.73,92.58,20.0,premium,small,False,23.15
+2025-12-07,AZ-BZEIEA,Contour Joggers,pants,144.64,144.64,0.0,premium,none,True,0.0
+2025-12-07,AZ-WDU4HN,Refined Cargo Pants,pants,154.39,138.95,10.0,premium,small,True,15.44
+2025-12-07,AZ-ZUQNC8,Essential Leggings,pants,123.76,99.01,20.0,premium,small,False,24.75
+2025-12-07,AZ-E8GV8Q,Classic Leggings,pants,163.72,163.72,0.0,premium,none,True,0.0
+2025-12-07,AZ-8SV1D4,Modern Culottes,pants,133.46,133.46,0.0,premium,none,True,0.0
+2025-12-07,AZ-72RS88,Relaxed Dress Pants,pants,62.34,43.64,30.0,mid-range,medium,True,18.7
+2025-12-07,AZ-NVDXM6,Relaxed Cargo Pants,pants,79.07,79.07,0.0,mid-range,none,True,0.0
+2025-12-07,AZ-KFUER1,Modern Joggers,pants,140.9,126.81,10.0,premium,small,True,14.09
+2025-12-07,AZ-A3CB79,Effortless Dress Pants,pants,127.03,127.03,0.0,premium,none,True,0.0
+2025-12-07,AZ-PBT88K,Signature Wide Leg Pants,pants,123.49,74.09,40.0,premium,medium,True,49.4
+2025-12-07,AZ-E44XUS,Refined Culottes,pants,151.5,151.5,0.0,premium,none,True,0.0
+2025-12-07,AZ-IOGNEF,Essential Wide Leg Pants,pants,111.58,100.42,10.0,premium,small,True,11.16
+2025-12-07,AZ-202AM9,Modern Jeans,pants,74.45,67.01,10.0,mid-range,small,True,7.44
+2025-12-07,AZ-IL8LFA,Ultra Wide Leg Pants,pants,125.6,75.36,40.0,premium,medium,True,50.24
+2025-12-07,AZ-8WFEXR,Effortless Dress Pants,pants,94.27,65.99,30.0,mid-range,medium,True,28.28
+2025-12-07,AZ-GD95EM,Modern Wide Leg Pants,pants,167.09,150.38,10.0,premium,small,True,16.71
+2025-12-07,AZ-VH54KI,Super Wide Leg Pants,pants,147.23,147.23,0.0,premium,none,True,0.0
+2025-12-07,AZ-425SPA,Refined Jeans,pants,98.46,78.77,20.0,mid-range,small,True,19.69
+2025-12-07,AZ-PYJN1T,Signature Shorts,pants,126.37,126.37,0.0,premium,none,True,0.0
+2025-12-07,AZ-FE23LH,Refined Jeans,pants,145.82,145.82,0.0,premium,none,True,0.0
+2025-12-07,AZ-TJWUCW,Relaxed Dress Pants,pants,121.3,109.17,10.0,premium,small,True,12.13
+2025-12-07,AZ-71P5AB,Effortless Culottes,pants,177.0,177.0,0.0,premium,none,True,0.0
+2025-12-07,AZ-AE97L6,Ultra Joggers,pants,176.29,176.29,0.0,premium,none,True,0.0
+2025-12-07,AZ-7K0VIE,Essential Leggings,pants,100.85,80.68,20.0,premium,small,True,20.17
+2025-12-07,AZ-XPZODM,Refined Shorts,pants,173.05,155.75,10.0,premium,small,True,17.3
+2025-12-07,AZ-I1O3WX,Relaxed Cargo Pants,pants,131.46,78.88,40.0,premium,medium,True,52.58
+2025-12-07,AZ-KC5PQZ,Super Wide Leg Pants,pants,144.32,115.46,20.0,premium,small,True,28.86
+2025-12-07,AZ-P70LO8,Signature Joggers,pants,112.0,112.0,0.0,premium,none,True,0.0
+2025-12-07,AZ-E9MGTC,Modern Jeans,pants,87.3,87.3,0.0,mid-range,none,True,0.0
+2025-12-07,AZ-C7WODD,Effortless Hat,accessories,80.79,72.71,10.0,mid-range,small,False,8.08
+2025-12-07,AZ-WURW5A,Modern Hair Clip,accessories,98.22,98.22,0.0,mid-range,none,False,0.0
+2025-12-07,AZ-E9LAO6,Essential Sunglasses,accessories,81.48,40.74,50.0,mid-range,large,True,40.74
+2025-12-07,AZ-EVJU4R,Signature Headband,accessories,86.22,60.35,30.0,mid-range,medium,True,25.87
+2025-12-07,AZ-FUCTDF,Effortless Hair Clip,accessories,29.42,29.42,0.0,budget,none,True,0.0
+2025-12-07,AZ-KCG3CJ,Essential Hair Clip,accessories,76.13,53.29,30.0,mid-range,medium,True,22.84
+2025-12-07,AZ-N86BXM,Essential Headband,accessories,79.32,71.39,10.0,mid-range,small,True,7.93
+2025-12-07,AZ-JIQY8B,Contour Headband,accessories,37.5,37.5,0.0,budget,none,True,0.0
+2025-12-07,AZ-W4H1OS,Modern Sunglasses,accessories,76.34,45.8,40.0,mid-range,medium,True,30.54
+2025-12-07,AZ-HFTOSS,Classic Jewelry Set,accessories,45.84,45.84,0.0,budget,none,True,0.0
+2025-12-07,AZ-B7HI61,Modern Hat,accessories,26.43,26.43,0.0,budget,none,False,0.0
+2025-12-07,AZ-FPSVS3,Relaxed Hat,accessories,45.48,36.38,20.0,budget,small,True,9.1
+2025-12-07,AZ-2F9BFY,Signature Bag,accessories,40.78,40.78,0.0,budget,none,True,0.0
+2025-12-07,AZ-BVWEH8,Refined Belt,accessories,51.22,51.22,0.0,mid-range,none,False,0.0
+2025-12-07,AZ-HU1Z3D,Refined Jewelry Set,accessories,45.53,45.53,0.0,budget,none,True,0.0
+2025-12-07,AZ-A81IVU,Refined Hat,accessories,80.93,80.93,0.0,mid-range,none,True,0.0
+2025-12-07,AZ-LZ5CBM,Essential Hair Clip,accessories,44.71,44.71,0.0,budget,none,True,0.0
+2025-12-07,AZ-A12L8Y,Contour Jewelry Set,accessories,41.81,29.27,30.0,budget,medium,True,12.54
+2025-12-07,AZ-6TW7MY,Refined Sunglasses,accessories,82.38,57.67,30.0,mid-range,medium,False,24.71
+2025-12-07,AZ-PI3PY8,Essential Hair Clip,accessories,60.78,54.7,10.0,mid-range,small,True,6.08
+2025-12-07,AZ-NASZMH,Super Jewelry Set,accessories,55.8,27.9,50.0,mid-range,large,False,27.9
+2025-12-07,AZ-1WGBGR,Signature Scarf,accessories,92.6,64.82,30.0,mid-range,medium,True,27.78
+2025-12-07,AZ-EDMYVK,Super Headband,accessories,70.53,42.32,40.0,mid-range,medium,False,28.21
+2025-12-07,AZ-JBYLSP,Classic Hair Clip,accessories,49.47,49.47,0.0,budget,none,True,0.0
+2025-12-07,AZ-CKWSHA,Effortless Sunglasses,accessories,92.5,92.5,0.0,mid-range,none,True,0.0
+2025-12-07,AZ-JA6L32,Refined Belt,accessories,55.4,38.78,30.0,mid-range,medium,True,16.62
+2025-12-07,AZ-TQRXOQ,Classic Hair Clip,accessories,56.52,50.87,10.0,mid-range,small,True,5.65
+2025-12-07,AZ-4FBQ56,Classic Belt,accessories,70.02,70.02,0.0,mid-range,none,True,0.0
+2025-12-07,AZ-FANQOE,Ultra Headband,accessories,35.19,28.15,20.0,budget,small,True,7.04
+2025-12-07,AZ-L3BSN8,Relaxed Hair Clip,accessories,82.33,57.63,30.0,mid-range,medium,True,24.7
+2025-12-07,AZ-TLHNOT,Essential Bag,accessories,41.04,24.62,40.0,budget,medium,True,16.42
+2025-12-07,AZ-ROMFTN,Contour Sunglasses,accessories,57.45,40.21,30.0,mid-range,medium,True,17.24
+2025-12-07,AZ-PH9VU8,Modern Belt,accessories,61.79,61.79,0.0,mid-range,none,True,0.0
+2025-12-07,AZ-S0DXGK,Refined Hair Clip,accessories,70.16,70.16,0.0,mid-range,none,True,0.0
+2025-12-07,AZ-JLA1RE,Ultra Bag,accessories,27.36,21.89,20.0,budget,small,False,5.47
+2025-12-07,AZ-N2KUSL,Effortless Scarf,accessories,73.8,73.8,0.0,mid-range,none,True,0.0
+2025-12-07,AZ-JZCOL0,Ultra Belt,accessories,77.21,61.77,20.0,mid-range,small,True,15.44
+2025-12-07,AZ-T90ND8,Effortless Jewelry Set,accessories,58.4,58.4,0.0,mid-range,none,True,0.0
+2025-12-07,AZ-PSZV9U,Super Belt,accessories,53.02,37.11,30.0,mid-range,medium,False,15.91
+2025-12-07,AZ-IO96GV,Contour Belt,accessories,57.34,40.14,30.0,mid-range,medium,False,17.2
+2025-12-07,AZ-2YGPEE,Super Hair Clip,accessories,64.58,64.58,0.0,mid-range,none,True,0.0
+2025-12-07,AZ-QILOOS,Signature Headband,accessories,77.59,54.31,30.0,mid-range,medium,True,23.28
+2025-12-07,AZ-UBS5JY,Refined Hair Clip,accessories,65.32,65.32,0.0,mid-range,none,True,0.0
+2025-12-07,AZ-4V1J0I,Classic Jewelry Set,accessories,29.08,29.08,0.0,budget,none,True,0.0
+2025-12-07,AZ-KTSPA3,Super Hair Clip,accessories,98.24,68.77,30.0,mid-range,medium,True,29.47
+2025-12-07,AZ-OTM4FQ,Ultra Bag,accessories,73.07,73.07,0.0,mid-range,none,True,0.0
+2025-12-07,AZ-XL8N6Y,Relaxed Bag,accessories,76.2,76.2,0.0,mid-range,none,False,0.0
+2025-12-07,AZ-AY7TAG,Effortless Jewelry Set,accessories,55.32,38.72,30.0,mid-range,medium,True,16.6
+2025-12-08,AZ-PH0QSF,Refined Bomber Jacket,outerwear,227.95,227.95,0.0,luxury,none,True,0.0
+2025-12-08,AZ-QQVC4C,Ultra Denim Jacket,outerwear,337.88,236.52,30.0,luxury,medium,True,101.36
+2025-12-08,AZ-5JBDFL,Signature Blazer,outerwear,416.3,333.04,20.0,luxury,small,True,83.26
+2025-12-08,AZ-4EC5H6,Relaxed Bomber Jacket,outerwear,203.09,203.09,0.0,luxury,none,True,0.0
+2025-12-08,AZ-32X3QD,Relaxed Trench Coat,outerwear,176.21,140.97,20.0,premium,small,True,35.24
+2025-12-08,AZ-RCQUUB,Ultra Blazer,outerwear,242.74,145.64,40.0,luxury,medium,True,97.1
+2025-12-08,AZ-UZSL4I,Ultra Denim Jacket,outerwear,358.06,286.45,20.0,luxury,small,True,71.61
+2025-12-08,AZ-K5P5KJ,Modern Leather Jacket,outerwear,298.55,149.28,50.0,luxury,large,True,149.27
+2025-12-08,AZ-OSVS0I,Relaxed Cardigan,outerwear,168.71,101.23,40.0,premium,medium,True,67.48
+2025-12-08,AZ-KE2DB0,Refined Denim Jacket,outerwear,154.59,123.67,20.0,premium,small,True,30.92
+2025-12-08,AZ-QJS2D9,Effortless Puffer Jacket,outerwear,411.04,411.04,0.0,luxury,none,True,0.0
+2025-12-08,AZ-QPV8MI,Ultra Bomber Jacket,outerwear,449.53,314.67,30.0,luxury,medium,True,134.86
+2025-12-08,AZ-UNFA66,Relaxed Leather Jacket,outerwear,352.68,352.68,0.0,luxury,none,True,0.0
+2025-12-08,AZ-RKF2R3,Refined Wool Coat,outerwear,243.15,170.2,30.0,luxury,medium,True,72.95
+2025-12-08,AZ-HGILUH,Refined Trench Coat,outerwear,426.55,341.24,20.0,luxury,small,True,85.31
+2025-12-08,AZ-1QA67Z,Classic Cardigan,outerwear,310.39,279.35,10.0,luxury,small,True,31.04
+2025-12-08,AZ-UG75PL,Modern Puffer Jacket,outerwear,286.85,286.85,0.0,luxury,none,True,0.0
+2025-12-08,AZ-AOAWMK,Ultra Trench Coat,outerwear,261.18,156.71,40.0,luxury,medium,True,104.47
+2025-12-08,AZ-Q0M66L,Modern Puffer Jacket,outerwear,208.59,208.59,0.0,luxury,none,True,0.0
+2025-12-08,AZ-T1I4IN,Signature Cardigan,outerwear,279.71,279.71,0.0,luxury,none,False,0.0
+2025-12-08,AZ-3GYNHZ,Effortless Bomber Jacket,outerwear,278.98,278.98,0.0,luxury,none,True,0.0
+2025-12-08,AZ-J8K1TN,Modern Bomber Jacket,outerwear,189.59,189.59,0.0,premium,none,True,0.0
+2025-12-08,AZ-YPLBF0,Signature Cardigan,outerwear,210.39,210.39,0.0,luxury,none,True,0.0
+2025-12-08,AZ-JCVEEH,Super Denim Jacket,outerwear,362.69,326.42,10.0,luxury,small,True,36.27
+2025-12-08,AZ-M0SRBB,Refined Leather Jacket,outerwear,333.7,233.59,30.0,luxury,medium,True,100.11
+2025-12-08,AZ-X56GSD,Effortless Blazer,outerwear,267.42,213.94,20.0,luxury,small,False,53.48
+2025-12-08,AZ-3CR0CI,Super Blazer,outerwear,323.41,323.41,0.0,luxury,none,True,0.0
+2025-12-08,AZ-GUK6PC,Relaxed Puffer Jacket,outerwear,384.01,307.21,20.0,luxury,small,True,76.8
+2025-12-08,AZ-H6GK94,Contour Leather Jacket,outerwear,170.1,170.1,0.0,premium,none,True,0.0
+2025-12-08,AZ-ZJF4H5,Essential Puffer Jacket,outerwear,342.55,239.78,30.0,luxury,medium,True,102.77
+2025-12-08,AZ-4KNE4W,Modern Blazer,outerwear,270.69,270.69,0.0,luxury,none,True,0.0
+2025-12-08,AZ-FDZBC2,Super Puffer Jacket,outerwear,237.24,237.24,0.0,luxury,none,True,0.0
+2025-12-08,AZ-DSHHZR,Classic Wool Coat,outerwear,274.08,274.08,0.0,luxury,none,True,0.0
+2025-12-08,AZ-5PJV8U,Effortless Denim Jacket,outerwear,419.39,419.39,0.0,luxury,none,True,0.0
+2025-12-08,AZ-G5H5VH,Super Blazer,outerwear,272.76,272.76,0.0,luxury,none,True,0.0
+2025-12-08,AZ-1A326N,Classic Blazer,outerwear,392.81,353.53,10.0,luxury,small,True,39.28
+2025-12-08,AZ-YYIVBV,Effortless Bomber Jacket,outerwear,210.01,189.01,10.0,luxury,small,True,21.0
+2025-12-08,AZ-18ERLF,Signature Midi Dress,dresses,170.6,170.6,0.0,premium,none,True,0.0
+2025-12-08,AZ-EYHLUU,Effortless Midi Dress,dresses,237.77,237.77,0.0,luxury,none,True,0.0
+2025-12-08,AZ-D76V07,Super Bodycon Dress,dresses,187.81,187.81,0.0,premium,none,True,0.0
+2025-12-08,AZ-PMRD7R,Classic Bodycon Dress,dresses,191.1,191.1,0.0,premium,none,True,0.0
+2025-12-08,AZ-MPNAMZ,Ultra Maxi Dress,dresses,248.5,248.5,0.0,luxury,none,True,0.0
+2025-12-08,AZ-AJZ0ZO,Relaxed Shirt Dress,dresses,212.37,169.9,20.0,luxury,small,True,42.47
+2025-12-08,AZ-F986IF,Modern Midi Dress,dresses,244.8,244.8,0.0,luxury,none,True,0.0
+2025-12-08,AZ-SHM1VN,Effortless Slip Dress,dresses,188.03,188.03,0.0,premium,none,True,0.0
+2025-12-08,AZ-LYAMH8,Super Wrap Dress,dresses,165.41,148.87,10.0,premium,small,True,16.54
+2025-12-08,AZ-POAXHG,Modern Bodycon Dress,dresses,81.79,81.79,0.0,mid-range,none,True,0.0
+2025-12-08,AZ-7YEXY4,Super Sweater Dress,dresses,85.27,85.27,0.0,mid-range,none,True,0.0
+2025-12-08,AZ-LLCOZK,Classic Slip Dress,dresses,216.21,216.21,0.0,luxury,none,False,0.0
+2025-12-08,AZ-NB4G6M,Essential Mini Dress,dresses,206.95,206.95,0.0,luxury,none,True,0.0
+2025-12-08,AZ-Z33OUA,Signature Maxi Dress,dresses,230.52,230.52,0.0,luxury,none,True,0.0
+2025-12-08,AZ-H0LQ9Q,Super Maxi Dress,dresses,225.44,157.81,30.0,luxury,medium,True,67.63
+2025-12-08,AZ-7S6ZGN,Effortless Sweater Dress,dresses,226.85,204.16,10.0,luxury,small,True,22.69
+2025-12-08,AZ-D0C84T,Classic Sweater Dress,dresses,197.89,158.31,20.0,premium,small,True,39.58
+2025-12-08,AZ-LK9DVW,Classic Bodycon Dress,dresses,159.47,159.47,0.0,premium,none,True,0.0
+2025-12-08,AZ-RHMZPZ,Relaxed Wrap Dress,dresses,173.75,173.75,0.0,premium,none,True,0.0
+2025-12-08,AZ-WDD2YU,Ultra Mini Dress,dresses,131.05,131.05,0.0,premium,none,True,0.0
+2025-12-08,AZ-WAIU5G,Signature Midi Dress,dresses,198.46,198.46,0.0,premium,none,True,0.0
+2025-12-08,AZ-1467MT,Essential Sweater Dress,dresses,183.82,147.06,20.0,premium,small,True,36.76
+2025-12-08,AZ-1PZFRS,Signature Bodycon Dress,dresses,208.24,166.59,20.0,luxury,small,True,41.65
+2025-12-08,AZ-X4C5QA,Essential Wrap Dress,dresses,204.64,163.71,20.0,luxury,small,True,40.93
+2025-12-08,AZ-68SOH5,Relaxed Wrap Dress,dresses,182.86,164.57,10.0,premium,small,True,18.29
+2025-12-08,AZ-E8UEYA,Ultra Bodycon Dress,dresses,104.16,93.74,10.0,premium,small,True,10.42
+2025-12-08,AZ-N3121J,Relaxed Mini Dress,dresses,199.49,179.54,10.0,premium,small,True,19.95
+2025-12-08,AZ-B3E189,Signature Sweater Dress,dresses,112.35,78.64,30.0,premium,medium,True,33.71
+2025-12-08,AZ-48CWV6,Ultra Midi Dress,dresses,231.85,231.85,0.0,luxury,none,True,0.0
+2025-12-08,AZ-I0RAW6,Ultra Wrap Dress,dresses,221.91,155.34,30.0,luxury,medium,True,66.57
+2025-12-08,AZ-1W3ZPN,Modern Wrap Dress,dresses,238.34,238.34,0.0,luxury,none,True,0.0
+2025-12-08,AZ-SFDS4G,Classic Sweater Dress,dresses,159.68,143.71,10.0,premium,small,True,15.97
+2025-12-08,AZ-OO5U97,Signature Midi Dress,dresses,146.5,146.5,0.0,premium,none,True,0.0
+2025-12-08,AZ-M628SD,Effortless Shirt Dress,dresses,133.15,133.15,0.0,premium,none,True,0.0
+2025-12-08,AZ-NDMO21,Modern Shirt Dress,dresses,172.6,172.6,0.0,premium,none,True,0.0
+2025-12-08,AZ-1QD320,Signature Maxi Dress,dresses,241.71,193.37,20.0,luxury,small,True,48.34
+2025-12-08,AZ-5B6PRW,Essential Slip Dress,dresses,211.24,211.24,0.0,luxury,none,True,0.0
+2025-12-08,AZ-XLN1X8,Super Maxi Dress,dresses,197.39,157.91,20.0,premium,small,False,39.48
+2025-12-08,AZ-SNGSRF,Super Hoodie,tops,73.22,73.22,0.0,mid-range,none,True,0.0
+2025-12-08,AZ-OV99KM,Signature Turtleneck,tops,56.86,56.86,0.0,mid-range,none,True,0.0
+2025-12-08,AZ-WEMHAV,Classic Blouse,tops,96.12,96.12,0.0,mid-range,none,True,0.0
+2025-12-08,AZ-WGNJNH,Ultra Henley Top,tops,58.83,41.18,30.0,mid-range,medium,True,17.65
+2025-12-08,AZ-4P7M5Q,Contour Cropped Tank,tops,54.64,54.64,0.0,mid-range,none,True,0.0
+2025-12-08,AZ-MSSHSZ,Essential Sweater,tops,58.9,58.9,0.0,mid-range,none,True,0.0
+2025-12-08,AZ-S3NW8R,Classic Henley Top,tops,74.29,59.43,20.0,mid-range,small,True,14.86
+2025-12-08,AZ-17MNEJ,Contour Oversized Tee,tops,80.56,80.56,0.0,mid-range,none,True,0.0
+2025-12-08,AZ-0MYVHK,Essential Blouse,tops,96.32,77.06,20.0,mid-range,small,False,19.26
+2025-12-08,AZ-C7JWOB,Relaxed Bodysuit,tops,68.56,68.56,0.0,mid-range,none,True,0.0
+2025-12-08,AZ-OQL21A,Super Henley Top,tops,45.19,31.63,30.0,budget,medium,True,13.56
+2025-12-08,AZ-0TXYWL,Relaxed Sweater,tops,44.78,44.78,0.0,budget,none,True,0.0
+2025-12-08,AZ-DWZOUE,Essential Henley Top,tops,86.68,69.34,20.0,mid-range,small,True,17.34
+2025-12-08,AZ-XP9XDI,Relaxed Cropped Tank,tops,55.37,49.83,10.0,mid-range,small,False,5.54
+2025-12-08,AZ-75EQYO,Refined Henley Top,tops,87.43,87.43,0.0,mid-range,none,True,0.0
+2025-12-08,AZ-WGDPHC,Relaxed Bodysuit,tops,65.65,65.65,0.0,mid-range,none,True,0.0
+2025-12-08,AZ-YC6LEI,Relaxed Bodysuit,tops,81.98,73.78,10.0,mid-range,small,True,8.2
+2025-12-08,AZ-A1946R,Essential Henley Top,tops,97.04,97.04,0.0,mid-range,none,True,0.0
+2025-12-08,AZ-KC2U2R,Modern Turtleneck,tops,80.76,80.76,0.0,mid-range,none,False,0.0
+2025-12-08,AZ-AT3IC1,Super Blouse,tops,96.7,77.36,20.0,mid-range,small,True,19.34
+2025-12-08,AZ-NHES7S,Relaxed Hoodie,tops,77.55,62.04,20.0,mid-range,small,True,15.51
+2025-12-08,AZ-7QGPNC,Effortless Sweater,tops,105.83,74.08,30.0,premium,medium,True,31.75
+2025-12-08,AZ-GA8E9T,Signature Oversized Tee,tops,114.58,114.58,0.0,premium,none,True,0.0
+2025-12-08,AZ-9FA9F3,Modern Sweater,tops,63.67,63.67,0.0,mid-range,none,True,0.0
+2025-12-08,AZ-HYJ0TN,Contour Blouse,tops,68.65,68.65,0.0,mid-range,none,True,0.0
+2025-12-08,AZ-HGK4SA,Modern Blouse,tops,67.64,47.35,30.0,mid-range,medium,True,20.29
+2025-12-08,AZ-F98LT2,Refined Sweater,tops,113.36,79.35,30.0,premium,medium,True,34.01
+2025-12-08,AZ-1NDUUI,Super Hoodie,tops,118.59,118.59,0.0,premium,none,False,0.0
+2025-12-08,AZ-R5JD8H,Super Sweater,tops,40.82,40.82,0.0,budget,none,True,0.0
+2025-12-08,AZ-M9JLMA,Refined Turtleneck,tops,75.78,68.2,10.0,mid-range,small,True,7.58
+2025-12-08,AZ-78BVPP,Refined Hoodie,tops,98.56,49.28,50.0,mid-range,large,True,49.28
+2025-12-08,AZ-B7075J,Essential Cropped Tank,tops,81.35,65.08,20.0,mid-range,small,True,16.27
+2025-12-08,AZ-0ZRUBY,Contour Cropped Tank,tops,87.89,87.89,0.0,mid-range,none,True,0.0
+2025-12-08,AZ-Z0ASRZ,Super Culottes,pants,66.08,52.86,20.0,mid-range,small,True,13.22
+2025-12-08,AZ-5Y29E0,Modern Culottes,pants,173.31,173.31,0.0,premium,none,True,0.0
+2025-12-08,AZ-AJH0GY,Ultra Wide Leg Pants,pants,139.69,83.81,40.0,premium,medium,True,55.88
+2025-12-08,AZ-J5CY1G,Ultra Leggings,pants,139.73,139.73,0.0,premium,none,True,0.0
+2025-12-08,AZ-2RCA6W,Relaxed Dress Pants,pants,171.31,171.31,0.0,premium,none,True,0.0
+2025-12-08,AZ-T81FOS,Super Leggings,pants,106.34,106.34,0.0,premium,none,True,0.0
+2025-12-08,AZ-GOBGBX,Classic Leggings,pants,138.85,83.31,40.0,premium,medium,True,55.54
+2025-12-08,AZ-3AV2LR,Modern Shorts,pants,100.47,100.47,0.0,premium,none,True,0.0
+2025-12-08,AZ-MW10M4,Relaxed Dress Pants,pants,131.19,118.07,10.0,premium,small,False,13.12
+2025-12-08,AZ-NLZJZN,Modern Jeans,pants,124.46,99.57,20.0,premium,small,True,24.89
+2025-12-08,AZ-CBPMFC,Ultra Shorts,pants,90.98,90.98,0.0,mid-range,none,True,0.0
+2025-12-08,AZ-WKGB79,Classic Wide Leg Pants,pants,115.73,92.58,20.0,premium,small,False,23.15
+2025-12-08,AZ-BZEIEA,Contour Joggers,pants,144.64,144.64,0.0,premium,none,True,0.0
+2025-12-08,AZ-WDU4HN,Refined Cargo Pants,pants,154.39,138.95,10.0,premium,small,True,15.44
+2025-12-08,AZ-ZUQNC8,Essential Leggings,pants,123.76,99.01,20.0,premium,small,False,24.75
+2025-12-08,AZ-E8GV8Q,Classic Leggings,pants,163.72,163.72,0.0,premium,none,True,0.0
+2025-12-08,AZ-8SV1D4,Modern Culottes,pants,133.46,133.46,0.0,premium,none,True,0.0
+2025-12-08,AZ-72RS88,Relaxed Dress Pants,pants,62.34,43.64,30.0,mid-range,medium,True,18.7
+2025-12-08,AZ-NVDXM6,Relaxed Cargo Pants,pants,79.07,79.07,0.0,mid-range,none,True,0.0
+2025-12-08,AZ-KFUER1,Modern Joggers,pants,140.9,126.81,10.0,premium,small,True,14.09
+2025-12-08,AZ-A3CB79,Effortless Dress Pants,pants,127.03,127.03,0.0,premium,none,True,0.0
+2025-12-08,AZ-PBT88K,Signature Wide Leg Pants,pants,123.49,74.09,40.0,premium,medium,True,49.4
+2025-12-08,AZ-E44XUS,Refined Culottes,pants,151.5,151.5,0.0,premium,none,True,0.0
+2025-12-08,AZ-IOGNEF,Essential Wide Leg Pants,pants,111.58,89.26,20.0,premium,small,True,22.32
+2025-12-08,AZ-202AM9,Modern Jeans,pants,74.45,67.01,10.0,mid-range,small,True,7.44
+2025-12-08,AZ-IL8LFA,Ultra Wide Leg Pants,pants,125.6,75.36,40.0,premium,medium,True,50.24
+2025-12-08,AZ-8WFEXR,Effortless Dress Pants,pants,94.27,65.99,30.0,mid-range,medium,True,28.28
+2025-12-08,AZ-GD95EM,Modern Wide Leg Pants,pants,167.09,150.38,10.0,premium,small,True,16.71
+2025-12-08,AZ-VH54KI,Super Wide Leg Pants,pants,147.23,147.23,0.0,premium,none,True,0.0
+2025-12-08,AZ-425SPA,Refined Jeans,pants,98.46,78.77,20.0,mid-range,small,True,19.69
+2025-12-08,AZ-PYJN1T,Signature Shorts,pants,126.37,126.37,0.0,premium,none,True,0.0
+2025-12-08,AZ-FE23LH,Refined Jeans,pants,145.82,145.82,0.0,premium,none,True,0.0
+2025-12-08,AZ-TJWUCW,Relaxed Dress Pants,pants,121.3,109.17,10.0,premium,small,True,12.13
+2025-12-08,AZ-71P5AB,Effortless Culottes,pants,177.0,177.0,0.0,premium,none,True,0.0
+2025-12-08,AZ-AE97L6,Ultra Joggers,pants,176.29,176.29,0.0,premium,none,True,0.0
+2025-12-08,AZ-7K0VIE,Essential Leggings,pants,100.85,80.68,20.0,premium,small,True,20.17
+2025-12-08,AZ-XPZODM,Refined Shorts,pants,173.05,155.75,10.0,premium,small,True,17.3
+2025-12-08,AZ-I1O3WX,Relaxed Cargo Pants,pants,131.46,78.88,40.0,premium,medium,True,52.58
+2025-12-08,AZ-KC5PQZ,Super Wide Leg Pants,pants,144.32,115.46,20.0,premium,small,True,28.86
+2025-12-08,AZ-P70LO8,Signature Joggers,pants,112.0,112.0,0.0,premium,none,True,0.0
+2025-12-08,AZ-E9MGTC,Modern Jeans,pants,87.3,87.3,0.0,mid-range,none,True,0.0
+2025-12-08,AZ-C7WODD,Effortless Hat,accessories,80.79,72.71,10.0,mid-range,small,False,8.08
+2025-12-08,AZ-WURW5A,Modern Hair Clip,accessories,98.22,98.22,0.0,mid-range,none,False,0.0
+2025-12-08,AZ-E9LAO6,Essential Sunglasses,accessories,81.48,40.74,50.0,mid-range,large,True,40.74
+2025-12-08,AZ-EVJU4R,Signature Headband,accessories,86.22,60.35,30.0,mid-range,medium,True,25.87
+2025-12-08,AZ-FUCTDF,Effortless Hair Clip,accessories,29.42,23.54,20.0,budget,small,True,5.88
+2025-12-08,AZ-KCG3CJ,Essential Hair Clip,accessories,76.13,53.29,30.0,mid-range,medium,True,22.84
+2025-12-08,AZ-N86BXM,Essential Headband,accessories,79.32,71.39,10.0,mid-range,small,True,7.93
+2025-12-08,AZ-JIQY8B,Contour Headband,accessories,37.5,37.5,0.0,budget,none,True,0.0
+2025-12-08,AZ-W4H1OS,Modern Sunglasses,accessories,76.34,45.8,40.0,mid-range,medium,True,30.54
+2025-12-08,AZ-HFTOSS,Classic Jewelry Set,accessories,45.84,45.84,0.0,budget,none,True,0.0
+2025-12-08,AZ-B7HI61,Modern Hat,accessories,26.43,26.43,0.0,budget,none,False,0.0
+2025-12-08,AZ-FPSVS3,Relaxed Hat,accessories,45.48,36.38,20.0,budget,small,True,9.1
+2025-12-08,AZ-2F9BFY,Signature Bag,accessories,40.78,40.78,0.0,budget,none,True,0.0
+2025-12-08,AZ-BVWEH8,Refined Belt,accessories,51.22,51.22,0.0,mid-range,none,False,0.0
+2025-12-08,AZ-HU1Z3D,Refined Jewelry Set,accessories,45.53,45.53,0.0,budget,none,True,0.0
+2025-12-08,AZ-A81IVU,Refined Hat,accessories,80.93,80.93,0.0,mid-range,none,True,0.0
+2025-12-08,AZ-LZ5CBM,Essential Hair Clip,accessories,44.71,44.71,0.0,budget,none,True,0.0
+2025-12-08,AZ-A12L8Y,Contour Jewelry Set,accessories,41.81,29.27,30.0,budget,medium,True,12.54
+2025-12-08,AZ-6TW7MY,Refined Sunglasses,accessories,82.38,57.67,30.0,mid-range,medium,False,24.71
+2025-12-08,AZ-PI3PY8,Essential Hair Clip,accessories,60.78,54.7,10.0,mid-range,small,True,6.08
+2025-12-08,AZ-NASZMH,Super Jewelry Set,accessories,55.8,27.9,50.0,mid-range,large,False,27.9
+2025-12-08,AZ-1WGBGR,Signature Scarf,accessories,92.6,64.82,30.0,mid-range,medium,True,27.78
+2025-12-08,AZ-EDMYVK,Super Headband,accessories,70.53,42.32,40.0,mid-range,medium,False,28.21
+2025-12-08,AZ-JBYLSP,Classic Hair Clip,accessories,49.47,49.47,0.0,budget,none,True,0.0
+2025-12-08,AZ-CKWSHA,Effortless Sunglasses,accessories,92.5,92.5,0.0,mid-range,none,True,0.0
+2025-12-08,AZ-JA6L32,Refined Belt,accessories,55.4,38.78,30.0,mid-range,medium,True,16.62
+2025-12-08,AZ-TQRXOQ,Classic Hair Clip,accessories,56.52,50.87,10.0,mid-range,small,True,5.65
+2025-12-08,AZ-4FBQ56,Classic Belt,accessories,70.02,70.02,0.0,mid-range,none,True,0.0
+2025-12-08,AZ-FANQOE,Ultra Headband,accessories,35.19,28.15,20.0,budget,small,True,7.04
+2025-12-08,AZ-L3BSN8,Relaxed Hair Clip,accessories,82.33,57.63,30.0,mid-range,medium,True,24.7
+2025-12-08,AZ-TLHNOT,Essential Bag,accessories,41.04,24.62,40.0,budget,medium,True,16.42
+2025-12-08,AZ-ROMFTN,Contour Sunglasses,accessories,57.45,40.21,30.0,mid-range,medium,True,17.24
+2025-12-08,AZ-PH9VU8,Modern Belt,accessories,61.79,61.79,0.0,mid-range,none,True,0.0
+2025-12-08,AZ-S0DXGK,Refined Hair Clip,accessories,70.16,70.16,0.0,mid-range,none,True,0.0
+2025-12-08,AZ-JLA1RE,Ultra Bag,accessories,27.36,21.89,20.0,budget,small,False,5.47
+2025-12-08,AZ-N2KUSL,Effortless Scarf,accessories,73.8,66.42,10.0,mid-range,small,True,7.38
+2025-12-08,AZ-JZCOL0,Ultra Belt,accessories,77.21,61.77,20.0,mid-range,small,True,15.44
+2025-12-08,AZ-T90ND8,Effortless Jewelry Set,accessories,58.4,58.4,0.0,mid-range,none,True,0.0
+2025-12-08,AZ-PSZV9U,Super Belt,accessories,53.02,37.11,30.0,mid-range,medium,False,15.91
+2025-12-08,AZ-IO96GV,Contour Belt,accessories,57.34,40.14,30.0,mid-range,medium,False,17.2
+2025-12-08,AZ-2YGPEE,Super Hair Clip,accessories,64.58,64.58,0.0,mid-range,none,True,0.0
+2025-12-08,AZ-QILOOS,Signature Headband,accessories,77.59,54.31,30.0,mid-range,medium,True,23.28
+2025-12-08,AZ-UBS5JY,Refined Hair Clip,accessories,65.32,65.32,0.0,mid-range,none,True,0.0
+2025-12-08,AZ-4V1J0I,Classic Jewelry Set,accessories,29.08,29.08,0.0,budget,none,True,0.0
+2025-12-08,AZ-KTSPA3,Super Hair Clip,accessories,98.24,98.24,0.0,mid-range,none,True,0.0
+2025-12-08,AZ-OTM4FQ,Ultra Bag,accessories,73.07,73.07,0.0,mid-range,none,True,0.0
+2025-12-08,AZ-XL8N6Y,Relaxed Bag,accessories,76.2,76.2,0.0,mid-range,none,False,0.0
+2025-12-08,AZ-AY7TAG,Effortless Jewelry Set,accessories,55.32,38.72,30.0,mid-range,medium,True,16.6
+2025-12-09,AZ-PH0QSF,Refined Bomber Jacket,outerwear,227.95,227.95,0.0,luxury,none,True,0.0
+2025-12-09,AZ-QQVC4C,Ultra Denim Jacket,outerwear,337.88,236.52,30.0,luxury,medium,True,101.36
+2025-12-09,AZ-5JBDFL,Signature Blazer,outerwear,416.3,333.04,20.0,luxury,small,True,83.26
+2025-12-09,AZ-4EC5H6,Relaxed Bomber Jacket,outerwear,203.09,203.09,0.0,luxury,none,True,0.0
+2025-12-09,AZ-32X3QD,Relaxed Trench Coat,outerwear,176.21,158.59,10.0,premium,small,True,17.62
+2025-12-09,AZ-RCQUUB,Ultra Blazer,outerwear,242.74,145.64,40.0,luxury,medium,True,97.1
+2025-12-09,AZ-UZSL4I,Ultra Denim Jacket,outerwear,358.06,286.45,20.0,luxury,small,True,71.61
+2025-12-09,AZ-K5P5KJ,Modern Leather Jacket,outerwear,298.55,149.28,50.0,luxury,large,True,149.27
+2025-12-09,AZ-OSVS0I,Relaxed Cardigan,outerwear,168.71,101.23,40.0,premium,medium,True,67.48
+2025-12-09,AZ-KE2DB0,Refined Denim Jacket,outerwear,154.59,123.67,20.0,premium,small,True,30.92
+2025-12-09,AZ-QJS2D9,Effortless Puffer Jacket,outerwear,411.04,411.04,0.0,luxury,none,True,0.0
+2025-12-09,AZ-QPV8MI,Ultra Bomber Jacket,outerwear,449.53,314.67,30.0,luxury,medium,True,134.86
+2025-12-09,AZ-UNFA66,Relaxed Leather Jacket,outerwear,352.68,352.68,0.0,luxury,none,True,0.0
+2025-12-09,AZ-RKF2R3,Refined Wool Coat,outerwear,243.15,170.2,30.0,luxury,medium,True,72.95
+2025-12-09,AZ-HGILUH,Refined Trench Coat,outerwear,426.55,341.24,20.0,luxury,small,True,85.31
+2025-12-09,AZ-1QA67Z,Classic Cardigan,outerwear,310.39,279.35,10.0,luxury,small,True,31.04
+2025-12-09,AZ-UG75PL,Modern Puffer Jacket,outerwear,286.85,286.85,0.0,luxury,none,True,0.0
+2025-12-09,AZ-AOAWMK,Ultra Trench Coat,outerwear,261.18,156.71,40.0,luxury,medium,True,104.47
+2025-12-09,AZ-Q0M66L,Modern Puffer Jacket,outerwear,208.59,208.59,0.0,luxury,none,True,0.0
+2025-12-09,AZ-T1I4IN,Signature Cardigan,outerwear,279.71,279.71,0.0,luxury,none,False,0.0
+2025-12-09,AZ-3GYNHZ,Effortless Bomber Jacket,outerwear,278.98,278.98,0.0,luxury,none,True,0.0
+2025-12-09,AZ-J8K1TN,Modern Bomber Jacket,outerwear,189.59,189.59,0.0,premium,none,True,0.0
+2025-12-09,AZ-YPLBF0,Signature Cardigan,outerwear,210.39,210.39,0.0,luxury,none,True,0.0
+2025-12-09,AZ-JCVEEH,Super Denim Jacket,outerwear,362.69,326.42,10.0,luxury,small,True,36.27
+2025-12-09,AZ-M0SRBB,Refined Leather Jacket,outerwear,333.7,233.59,30.0,luxury,medium,True,100.11
+2025-12-09,AZ-X56GSD,Effortless Blazer,outerwear,267.42,213.94,20.0,luxury,small,False,53.48
+2025-12-09,AZ-3CR0CI,Super Blazer,outerwear,323.41,323.41,0.0,luxury,none,True,0.0
+2025-12-09,AZ-GUK6PC,Relaxed Puffer Jacket,outerwear,384.01,307.21,20.0,luxury,small,True,76.8
+2025-12-09,AZ-H6GK94,Contour Leather Jacket,outerwear,170.1,153.09,10.0,premium,small,True,17.01
+2025-12-09,AZ-ZJF4H5,Essential Puffer Jacket,outerwear,342.55,239.78,30.0,luxury,medium,True,102.77
+2025-12-09,AZ-4KNE4W,Modern Blazer,outerwear,270.69,270.69,0.0,luxury,none,True,0.0
+2025-12-09,AZ-FDZBC2,Super Puffer Jacket,outerwear,237.24,237.24,0.0,luxury,none,True,0.0
+2025-12-09,AZ-DSHHZR,Classic Wool Coat,outerwear,274.08,274.08,0.0,luxury,none,True,0.0
+2025-12-09,AZ-5PJV8U,Effortless Denim Jacket,outerwear,419.39,419.39,0.0,luxury,none,True,0.0
+2025-12-09,AZ-G5H5VH,Super Blazer,outerwear,272.76,272.76,0.0,luxury,none,True,0.0
+2025-12-09,AZ-1A326N,Classic Blazer,outerwear,392.81,353.53,10.0,luxury,small,True,39.28
+2025-12-09,AZ-YYIVBV,Effortless Bomber Jacket,outerwear,210.01,168.01,20.0,luxury,small,True,42.0
+2025-12-09,AZ-18ERLF,Signature Midi Dress,dresses,170.6,170.6,0.0,premium,none,True,0.0
+2025-12-09,AZ-EYHLUU,Effortless Midi Dress,dresses,237.77,237.77,0.0,luxury,none,True,0.0
+2025-12-09,AZ-D76V07,Super Bodycon Dress,dresses,187.81,187.81,0.0,premium,none,True,0.0
+2025-12-09,AZ-PMRD7R,Classic Bodycon Dress,dresses,191.1,191.1,0.0,premium,none,True,0.0
+2025-12-09,AZ-MPNAMZ,Ultra Maxi Dress,dresses,248.5,248.5,0.0,luxury,none,True,0.0
+2025-12-09,AZ-AJZ0ZO,Relaxed Shirt Dress,dresses,212.37,169.9,20.0,luxury,small,True,42.47
+2025-12-09,AZ-F986IF,Modern Midi Dress,dresses,244.8,244.8,0.0,luxury,none,True,0.0
+2025-12-09,AZ-SHM1VN,Effortless Slip Dress,dresses,188.03,188.03,0.0,premium,none,True,0.0
+2025-12-09,AZ-LYAMH8,Super Wrap Dress,dresses,165.41,148.87,10.0,premium,small,True,16.54
+2025-12-09,AZ-POAXHG,Modern Bodycon Dress,dresses,81.79,81.79,0.0,mid-range,none,True,0.0
+2025-12-09,AZ-7YEXY4,Super Sweater Dress,dresses,85.27,85.27,0.0,mid-range,none,True,0.0
+2025-12-09,AZ-LLCOZK,Classic Slip Dress,dresses,216.21,216.21,0.0,luxury,none,False,0.0
+2025-12-09,AZ-NB4G6M,Essential Mini Dress,dresses,206.95,206.95,0.0,luxury,none,True,0.0
+2025-12-09,AZ-Z33OUA,Signature Maxi Dress,dresses,230.52,230.52,0.0,luxury,none,True,0.0
+2025-12-09,AZ-H0LQ9Q,Super Maxi Dress,dresses,225.44,157.81,30.0,luxury,medium,True,67.63
+2025-12-09,AZ-7S6ZGN,Effortless Sweater Dress,dresses,226.85,204.16,10.0,luxury,small,True,22.69
+2025-12-09,AZ-D0C84T,Classic Sweater Dress,dresses,197.89,158.31,20.0,premium,small,True,39.58
+2025-12-09,AZ-LK9DVW,Classic Bodycon Dress,dresses,159.47,159.47,0.0,premium,none,True,0.0
+2025-12-09,AZ-RHMZPZ,Relaxed Wrap Dress,dresses,173.75,173.75,0.0,premium,none,True,0.0
+2025-12-09,AZ-WDD2YU,Ultra Mini Dress,dresses,131.05,131.05,0.0,premium,none,True,0.0
+2025-12-09,AZ-WAIU5G,Signature Midi Dress,dresses,198.46,198.46,0.0,premium,none,True,0.0
+2025-12-09,AZ-1467MT,Essential Sweater Dress,dresses,183.82,147.06,20.0,premium,small,True,36.76
+2025-12-09,AZ-1PZFRS,Signature Bodycon Dress,dresses,208.24,166.59,20.0,luxury,small,True,41.65
+2025-12-09,AZ-X4C5QA,Essential Wrap Dress,dresses,204.64,163.71,20.0,luxury,small,True,40.93
+2025-12-09,AZ-68SOH5,Relaxed Wrap Dress,dresses,182.86,182.86,0.0,premium,none,True,0.0
+2025-12-09,AZ-E8UEYA,Ultra Bodycon Dress,dresses,104.16,93.74,10.0,premium,small,True,10.42
+2025-12-09,AZ-N3121J,Relaxed Mini Dress,dresses,199.49,159.59,20.0,premium,small,True,39.9
+2025-12-09,AZ-B3E189,Signature Sweater Dress,dresses,112.35,78.64,30.0,premium,medium,True,33.71
+2025-12-09,AZ-48CWV6,Ultra Midi Dress,dresses,231.85,231.85,0.0,luxury,none,True,0.0
+2025-12-09,AZ-I0RAW6,Ultra Wrap Dress,dresses,221.91,155.34,30.0,luxury,medium,True,66.57
+2025-12-09,AZ-1W3ZPN,Modern Wrap Dress,dresses,238.34,238.34,0.0,luxury,none,True,0.0
+2025-12-09,AZ-SFDS4G,Classic Sweater Dress,dresses,159.68,159.68,0.0,premium,none,True,0.0
+2025-12-09,AZ-OO5U97,Signature Midi Dress,dresses,146.5,146.5,0.0,premium,none,True,0.0
+2025-12-09,AZ-M628SD,Effortless Shirt Dress,dresses,133.15,133.15,0.0,premium,none,True,0.0
+2025-12-09,AZ-NDMO21,Modern Shirt Dress,dresses,172.6,172.6,0.0,premium,none,True,0.0
+2025-12-09,AZ-1QD320,Signature Maxi Dress,dresses,241.71,193.37,20.0,luxury,small,True,48.34
+2025-12-09,AZ-5B6PRW,Essential Slip Dress,dresses,211.24,211.24,0.0,luxury,none,True,0.0
+2025-12-09,AZ-XLN1X8,Super Maxi Dress,dresses,197.39,157.91,20.0,premium,small,False,39.48
+2025-12-09,AZ-SNGSRF,Super Hoodie,tops,73.22,73.22,0.0,mid-range,none,True,0.0
+2025-12-09,AZ-OV99KM,Signature Turtleneck,tops,56.86,39.8,30.0,mid-range,medium,True,17.06
+2025-12-09,AZ-WEMHAV,Classic Blouse,tops,96.12,96.12,0.0,mid-range,none,True,0.0
+2025-12-09,AZ-WGNJNH,Ultra Henley Top,tops,58.83,41.18,30.0,mid-range,medium,True,17.65
+2025-12-09,AZ-4P7M5Q,Contour Cropped Tank,tops,54.64,54.64,0.0,mid-range,none,True,0.0
+2025-12-09,AZ-MSSHSZ,Essential Sweater,tops,58.9,58.9,0.0,mid-range,none,True,0.0
+2025-12-09,AZ-S3NW8R,Classic Henley Top,tops,74.29,59.43,20.0,mid-range,small,True,14.86
+2025-12-09,AZ-17MNEJ,Contour Oversized Tee,tops,80.56,80.56,0.0,mid-range,none,True,0.0
+2025-12-09,AZ-0MYVHK,Essential Blouse,tops,96.32,77.06,20.0,mid-range,small,False,19.26
+2025-12-09,AZ-C7JWOB,Relaxed Bodysuit,tops,68.56,68.56,0.0,mid-range,none,True,0.0
+2025-12-09,AZ-OQL21A,Super Henley Top,tops,45.19,45.19,0.0,budget,none,True,0.0
+2025-12-09,AZ-0TXYWL,Relaxed Sweater,tops,44.78,44.78,0.0,budget,none,True,0.0
+2025-12-09,AZ-DWZOUE,Essential Henley Top,tops,86.68,69.34,20.0,mid-range,small,True,17.34
+2025-12-09,AZ-XP9XDI,Relaxed Cropped Tank,tops,55.37,49.83,10.0,mid-range,small,False,5.54
+2025-12-09,AZ-75EQYO,Refined Henley Top,tops,87.43,87.43,0.0,mid-range,none,True,0.0
+2025-12-09,AZ-WGDPHC,Relaxed Bodysuit,tops,65.65,65.65,0.0,mid-range,none,True,0.0
+2025-12-09,AZ-YC6LEI,Relaxed Bodysuit,tops,81.98,73.78,10.0,mid-range,small,True,8.2
+2025-12-09,AZ-A1946R,Essential Henley Top,tops,97.04,97.04,0.0,mid-range,none,True,0.0
+2025-12-09,AZ-KC2U2R,Modern Turtleneck,tops,80.76,80.76,0.0,mid-range,none,False,0.0
+2025-12-09,AZ-AT3IC1,Super Blouse,tops,96.7,67.69,30.0,mid-range,medium,True,29.01
+2025-12-09,AZ-NHES7S,Relaxed Hoodie,tops,77.55,54.28,30.0,mid-range,medium,True,23.27
+2025-12-09,AZ-7QGPNC,Effortless Sweater,tops,105.83,74.08,30.0,premium,medium,True,31.75
+2025-12-09,AZ-GA8E9T,Signature Oversized Tee,tops,114.58,114.58,0.0,premium,none,True,0.0
+2025-12-09,AZ-9FA9F3,Modern Sweater,tops,63.67,63.67,0.0,mid-range,none,True,0.0
+2025-12-09,AZ-HYJ0TN,Contour Blouse,tops,68.65,68.65,0.0,mid-range,none,True,0.0
+2025-12-09,AZ-HGK4SA,Modern Blouse,tops,67.64,47.35,30.0,mid-range,medium,True,20.29
+2025-12-09,AZ-F98LT2,Refined Sweater,tops,113.36,79.35,30.0,premium,medium,True,34.01
+2025-12-09,AZ-1NDUUI,Super Hoodie,tops,118.59,118.59,0.0,premium,none,False,0.0
+2025-12-09,AZ-R5JD8H,Super Sweater,tops,40.82,40.82,0.0,budget,none,True,0.0
+2025-12-09,AZ-M9JLMA,Refined Turtleneck,tops,75.78,68.2,10.0,mid-range,small,True,7.58
+2025-12-09,AZ-78BVPP,Refined Hoodie,tops,98.56,49.28,50.0,mid-range,large,True,49.28
+2025-12-09,AZ-B7075J,Essential Cropped Tank,tops,81.35,65.08,20.0,mid-range,small,True,16.27
+2025-12-09,AZ-0ZRUBY,Contour Cropped Tank,tops,87.89,87.89,0.0,mid-range,none,True,0.0
+2025-12-09,AZ-Z0ASRZ,Super Culottes,pants,66.08,52.86,20.0,mid-range,small,True,13.22
+2025-12-09,AZ-5Y29E0,Modern Culottes,pants,173.31,173.31,0.0,premium,none,True,0.0
+2025-12-09,AZ-AJH0GY,Ultra Wide Leg Pants,pants,139.69,83.81,40.0,premium,medium,True,55.88
+2025-12-09,AZ-J5CY1G,Ultra Leggings,pants,139.73,139.73,0.0,premium,none,True,0.0
+2025-12-09,AZ-2RCA6W,Relaxed Dress Pants,pants,171.31,171.31,0.0,premium,none,True,0.0
+2025-12-09,AZ-T81FOS,Super Leggings,pants,106.34,106.34,0.0,premium,none,True,0.0
+2025-12-09,AZ-GOBGBX,Classic Leggings,pants,138.85,83.31,40.0,premium,medium,True,55.54
+2025-12-09,AZ-3AV2LR,Modern Shorts,pants,100.47,100.47,0.0,premium,none,True,0.0
+2025-12-09,AZ-MW10M4,Relaxed Dress Pants,pants,131.19,118.07,10.0,premium,small,False,13.12
+2025-12-09,AZ-NLZJZN,Modern Jeans,pants,124.46,99.57,20.0,premium,small,True,24.89
+2025-12-09,AZ-CBPMFC,Ultra Shorts,pants,90.98,90.98,0.0,mid-range,none,True,0.0
+2025-12-09,AZ-WKGB79,Classic Wide Leg Pants,pants,115.73,92.58,20.0,premium,small,False,23.15
+2025-12-09,AZ-BZEIEA,Contour Joggers,pants,144.64,144.64,0.0,premium,none,True,0.0
+2025-12-09,AZ-WDU4HN,Refined Cargo Pants,pants,154.39,138.95,10.0,premium,small,True,15.44
+2025-12-09,AZ-ZUQNC8,Essential Leggings,pants,123.76,99.01,20.0,premium,small,False,24.75
+2025-12-09,AZ-E8GV8Q,Classic Leggings,pants,163.72,163.72,0.0,premium,none,True,0.0
+2025-12-09,AZ-8SV1D4,Modern Culottes,pants,133.46,133.46,0.0,premium,none,True,0.0
+2025-12-09,AZ-72RS88,Relaxed Dress Pants,pants,62.34,43.64,30.0,mid-range,medium,True,18.7
+2025-12-09,AZ-NVDXM6,Relaxed Cargo Pants,pants,79.07,79.07,0.0,mid-range,none,True,0.0
+2025-12-09,AZ-KFUER1,Modern Joggers,pants,140.9,126.81,10.0,premium,small,True,14.09
+2025-12-09,AZ-A3CB79,Effortless Dress Pants,pants,127.03,127.03,0.0,premium,none,True,0.0
+2025-12-09,AZ-PBT88K,Signature Wide Leg Pants,pants,123.49,74.09,40.0,premium,medium,True,49.4
+2025-12-09,AZ-E44XUS,Refined Culottes,pants,151.5,151.5,0.0,premium,none,True,0.0
+2025-12-09,AZ-IOGNEF,Essential Wide Leg Pants,pants,111.58,89.26,20.0,premium,small,True,22.32
+2025-12-09,AZ-202AM9,Modern Jeans,pants,74.45,67.01,10.0,mid-range,small,True,7.44
+2025-12-09,AZ-IL8LFA,Ultra Wide Leg Pants,pants,125.6,75.36,40.0,premium,medium,True,50.24
+2025-12-09,AZ-8WFEXR,Effortless Dress Pants,pants,94.27,65.99,30.0,mid-range,medium,True,28.28
+2025-12-09,AZ-GD95EM,Modern Wide Leg Pants,pants,167.09,150.38,10.0,premium,small,True,16.71
+2025-12-09,AZ-VH54KI,Super Wide Leg Pants,pants,147.23,147.23,0.0,premium,none,True,0.0
+2025-12-09,AZ-425SPA,Refined Jeans,pants,98.46,78.77,20.0,mid-range,small,True,19.69
+2025-12-09,AZ-PYJN1T,Signature Shorts,pants,126.37,126.37,0.0,premium,none,True,0.0
+2025-12-09,AZ-FE23LH,Refined Jeans,pants,145.82,131.24,10.0,premium,small,True,14.58
+2025-12-09,AZ-TJWUCW,Relaxed Dress Pants,pants,121.3,109.17,10.0,premium,small,True,12.13
+2025-12-09,AZ-71P5AB,Effortless Culottes,pants,177.0,177.0,0.0,premium,none,True,0.0
+2025-12-09,AZ-AE97L6,Ultra Joggers,pants,176.29,176.29,0.0,premium,none,True,0.0
+2025-12-09,AZ-7K0VIE,Essential Leggings,pants,100.85,80.68,20.0,premium,small,True,20.17
+2025-12-09,AZ-XPZODM,Refined Shorts,pants,173.05,155.75,10.0,premium,small,True,17.3
+2025-12-09,AZ-I1O3WX,Relaxed Cargo Pants,pants,131.46,78.88,40.0,premium,medium,True,52.58
+2025-12-09,AZ-KC5PQZ,Super Wide Leg Pants,pants,144.32,115.46,20.0,premium,small,True,28.86
+2025-12-09,AZ-P70LO8,Signature Joggers,pants,112.0,112.0,0.0,premium,none,True,0.0
+2025-12-09,AZ-E9MGTC,Modern Jeans,pants,87.3,87.3,0.0,mid-range,none,True,0.0
+2025-12-09,AZ-C7WODD,Effortless Hat,accessories,80.79,72.71,10.0,mid-range,small,False,8.08
+2025-12-09,AZ-WURW5A,Modern Hair Clip,accessories,98.22,68.75,30.0,mid-range,medium,False,29.47
+2025-12-09,AZ-E9LAO6,Essential Sunglasses,accessories,81.48,40.74,50.0,mid-range,large,True,40.74
+2025-12-09,AZ-EVJU4R,Signature Headband,accessories,86.22,60.35,30.0,mid-range,medium,True,25.87
+2025-12-09,AZ-FUCTDF,Effortless Hair Clip,accessories,29.42,29.42,0.0,budget,none,True,0.0
+2025-12-09,AZ-KCG3CJ,Essential Hair Clip,accessories,76.13,53.29,30.0,mid-range,medium,True,22.84
+2025-12-09,AZ-N86BXM,Essential Headband,accessories,79.32,71.39,10.0,mid-range,small,True,7.93
+2025-12-09,AZ-JIQY8B,Contour Headband,accessories,37.5,37.5,0.0,budget,none,True,0.0
+2025-12-09,AZ-W4H1OS,Modern Sunglasses,accessories,76.34,45.8,40.0,mid-range,medium,True,30.54
+2025-12-09,AZ-HFTOSS,Classic Jewelry Set,accessories,45.84,45.84,0.0,budget,none,True,0.0
+2025-12-09,AZ-B7HI61,Modern Hat,accessories,26.43,26.43,0.0,budget,none,False,0.0
+2025-12-09,AZ-FPSVS3,Relaxed Hat,accessories,45.48,36.38,20.0,budget,small,True,9.1
+2025-12-09,AZ-2F9BFY,Signature Bag,accessories,40.78,40.78,0.0,budget,none,True,0.0
+2025-12-09,AZ-BVWEH8,Refined Belt,accessories,51.22,51.22,0.0,mid-range,none,False,0.0
+2025-12-09,AZ-HU1Z3D,Refined Jewelry Set,accessories,45.53,45.53,0.0,budget,none,True,0.0
+2025-12-09,AZ-A81IVU,Refined Hat,accessories,80.93,80.93,0.0,mid-range,none,True,0.0
+2025-12-09,AZ-LZ5CBM,Essential Hair Clip,accessories,44.71,44.71,0.0,budget,none,True,0.0
+2025-12-09,AZ-A12L8Y,Contour Jewelry Set,accessories,41.81,29.27,30.0,budget,medium,True,12.54
+2025-12-09,AZ-6TW7MY,Refined Sunglasses,accessories,82.38,57.67,30.0,mid-range,medium,False,24.71
+2025-12-09,AZ-PI3PY8,Essential Hair Clip,accessories,60.78,54.7,10.0,mid-range,small,True,6.08
+2025-12-09,AZ-NASZMH,Super Jewelry Set,accessories,55.8,27.9,50.0,mid-range,large,False,27.9
+2025-12-09,AZ-1WGBGR,Signature Scarf,accessories,92.6,64.82,30.0,mid-range,medium,True,27.78
+2025-12-09,AZ-EDMYVK,Super Headband,accessories,70.53,42.32,40.0,mid-range,medium,False,28.21
+2025-12-09,AZ-JBYLSP,Classic Hair Clip,accessories,49.47,49.47,0.0,budget,none,True,0.0
+2025-12-09,AZ-CKWSHA,Effortless Sunglasses,accessories,92.5,92.5,0.0,mid-range,none,True,0.0
+2025-12-09,AZ-JA6L32,Refined Belt,accessories,55.4,38.78,30.0,mid-range,medium,True,16.62
+2025-12-09,AZ-TQRXOQ,Classic Hair Clip,accessories,56.52,56.52,0.0,mid-range,none,True,0.0
+2025-12-09,AZ-4FBQ56,Classic Belt,accessories,70.02,70.02,0.0,mid-range,none,True,0.0
+2025-12-09,AZ-FANQOE,Ultra Headband,accessories,35.19,35.19,0.0,budget,none,True,0.0
+2025-12-09,AZ-L3BSN8,Relaxed Hair Clip,accessories,82.33,57.63,30.0,mid-range,medium,True,24.7
+2025-12-09,AZ-TLHNOT,Essential Bag,accessories,41.04,24.62,40.0,budget,medium,True,16.42
+2025-12-09,AZ-ROMFTN,Contour Sunglasses,accessories,57.45,40.21,30.0,mid-range,medium,True,17.24
+2025-12-09,AZ-PH9VU8,Modern Belt,accessories,61.79,61.79,0.0,mid-range,none,True,0.0
+2025-12-09,AZ-S0DXGK,Refined Hair Clip,accessories,70.16,70.16,0.0,mid-range,none,True,0.0
+2025-12-09,AZ-JLA1RE,Ultra Bag,accessories,27.36,21.89,20.0,budget,small,False,5.47
+2025-12-09,AZ-N2KUSL,Effortless Scarf,accessories,73.8,66.42,10.0,mid-range,small,True,7.38
+2025-12-09,AZ-JZCOL0,Ultra Belt,accessories,77.21,69.49,10.0,mid-range,small,True,7.72
+2025-12-09,AZ-T90ND8,Effortless Jewelry Set,accessories,58.4,58.4,0.0,mid-range,none,True,0.0
+2025-12-09,AZ-PSZV9U,Super Belt,accessories,53.02,37.11,30.0,mid-range,medium,False,15.91
+2025-12-09,AZ-IO96GV,Contour Belt,accessories,57.34,57.34,0.0,mid-range,none,False,0.0
+2025-12-09,AZ-2YGPEE,Super Hair Clip,accessories,64.58,64.58,0.0,mid-range,none,True,0.0
+2025-12-09,AZ-QILOOS,Signature Headband,accessories,77.59,54.31,30.0,mid-range,medium,True,23.28
+2025-12-09,AZ-UBS5JY,Refined Hair Clip,accessories,65.32,65.32,0.0,mid-range,none,True,0.0
+2025-12-09,AZ-4V1J0I,Classic Jewelry Set,accessories,29.08,29.08,0.0,budget,none,True,0.0
+2025-12-09,AZ-KTSPA3,Super Hair Clip,accessories,98.24,98.24,0.0,mid-range,none,True,0.0
+2025-12-09,AZ-OTM4FQ,Ultra Bag,accessories,73.07,73.07,0.0,mid-range,none,True,0.0
+2025-12-09,AZ-XL8N6Y,Relaxed Bag,accessories,76.2,76.2,0.0,mid-range,none,False,0.0
+2025-12-09,AZ-AY7TAG,Effortless Jewelry Set,accessories,55.32,38.72,30.0,mid-range,medium,True,16.6
+2025-12-10,AZ-PH0QSF,Refined Bomber Jacket,outerwear,227.95,227.95,0.0,luxury,none,True,0.0
+2025-12-10,AZ-QQVC4C,Ultra Denim Jacket,outerwear,337.88,236.52,30.0,luxury,medium,True,101.36
+2025-12-10,AZ-5JBDFL,Signature Blazer,outerwear,416.3,333.04,20.0,luxury,small,True,83.26
+2025-12-10,AZ-4EC5H6,Relaxed Bomber Jacket,outerwear,203.09,203.09,0.0,luxury,none,True,0.0
+2025-12-10,AZ-32X3QD,Relaxed Trench Coat,outerwear,176.21,158.59,10.0,premium,small,True,17.62
+2025-12-10,AZ-RCQUUB,Ultra Blazer,outerwear,242.74,145.64,40.0,luxury,medium,True,97.1
+2025-12-10,AZ-UZSL4I,Ultra Denim Jacket,outerwear,358.06,286.45,20.0,luxury,small,True,71.61
+2025-12-10,AZ-K5P5KJ,Modern Leather Jacket,outerwear,298.55,149.28,50.0,luxury,large,True,149.27
+2025-12-10,AZ-OSVS0I,Relaxed Cardigan,outerwear,168.71,101.23,40.0,premium,medium,True,67.48
+2025-12-10,AZ-KE2DB0,Refined Denim Jacket,outerwear,154.59,123.67,20.0,premium,small,True,30.92
+2025-12-10,AZ-QJS2D9,Effortless Puffer Jacket,outerwear,411.04,411.04,0.0,luxury,none,True,0.0
+2025-12-10,AZ-QPV8MI,Ultra Bomber Jacket,outerwear,449.53,314.67,30.0,luxury,medium,True,134.86
+2025-12-10,AZ-UNFA66,Relaxed Leather Jacket,outerwear,352.68,352.68,0.0,luxury,none,True,0.0
+2025-12-10,AZ-RKF2R3,Refined Wool Coat,outerwear,243.15,170.2,30.0,luxury,medium,True,72.95
+2025-12-10,AZ-HGILUH,Refined Trench Coat,outerwear,426.55,341.24,20.0,luxury,small,True,85.31
+2025-12-10,AZ-1QA67Z,Classic Cardigan,outerwear,310.39,279.35,10.0,luxury,small,True,31.04
+2025-12-10,AZ-UG75PL,Modern Puffer Jacket,outerwear,286.85,286.85,0.0,luxury,none,True,0.0
+2025-12-10,AZ-AOAWMK,Ultra Trench Coat,outerwear,261.18,156.71,40.0,luxury,medium,True,104.47
+2025-12-10,AZ-Q0M66L,Modern Puffer Jacket,outerwear,208.59,208.59,0.0,luxury,none,True,0.0
+2025-12-10,AZ-T1I4IN,Signature Cardigan,outerwear,279.71,279.71,0.0,luxury,none,False,0.0
+2025-12-10,AZ-3GYNHZ,Effortless Bomber Jacket,outerwear,278.98,278.98,0.0,luxury,none,True,0.0
+2025-12-10,AZ-J8K1TN,Modern Bomber Jacket,outerwear,189.59,189.59,0.0,premium,none,True,0.0
+2025-12-10,AZ-YPLBF0,Signature Cardigan,outerwear,210.39,210.39,0.0,luxury,none,True,0.0
+2025-12-10,AZ-JCVEEH,Super Denim Jacket,outerwear,362.69,326.42,10.0,luxury,small,True,36.27
+2025-12-10,AZ-M0SRBB,Refined Leather Jacket,outerwear,333.7,233.59,30.0,luxury,medium,True,100.11
+2025-12-10,AZ-X56GSD,Effortless Blazer,outerwear,267.42,213.94,20.0,luxury,small,False,53.48
+2025-12-10,AZ-3CR0CI,Super Blazer,outerwear,323.41,323.41,0.0,luxury,none,True,0.0
+2025-12-10,AZ-GUK6PC,Relaxed Puffer Jacket,outerwear,384.01,307.21,20.0,luxury,small,True,76.8
+2025-12-10,AZ-H6GK94,Contour Leather Jacket,outerwear,170.1,153.09,10.0,premium,small,True,17.01
+2025-12-10,AZ-ZJF4H5,Essential Puffer Jacket,outerwear,342.55,239.78,30.0,luxury,medium,True,102.77
+2025-12-10,AZ-4KNE4W,Modern Blazer,outerwear,270.69,270.69,0.0,luxury,none,True,0.0
+2025-12-10,AZ-FDZBC2,Super Puffer Jacket,outerwear,237.24,237.24,0.0,luxury,none,True,0.0
+2025-12-10,AZ-DSHHZR,Classic Wool Coat,outerwear,274.08,274.08,0.0,luxury,none,True,0.0
+2025-12-10,AZ-5PJV8U,Effortless Denim Jacket,outerwear,419.39,419.39,0.0,luxury,none,True,0.0
+2025-12-10,AZ-G5H5VH,Super Blazer,outerwear,272.76,218.21,20.0,luxury,small,True,54.55
+2025-12-10,AZ-1A326N,Classic Blazer,outerwear,392.81,353.53,10.0,luxury,small,True,39.28
+2025-12-10,AZ-YYIVBV,Effortless Bomber Jacket,outerwear,210.01,168.01,20.0,luxury,small,True,42.0
+2025-12-10,AZ-18ERLF,Signature Midi Dress,dresses,170.6,170.6,0.0,premium,none,True,0.0
+2025-12-10,AZ-EYHLUU,Effortless Midi Dress,dresses,237.77,166.44,30.0,luxury,medium,True,71.33
+2025-12-10,AZ-D76V07,Super Bodycon Dress,dresses,187.81,187.81,0.0,premium,none,True,0.0
+2025-12-10,AZ-PMRD7R,Classic Bodycon Dress,dresses,191.1,191.1,0.0,premium,none,True,0.0
+2025-12-10,AZ-MPNAMZ,Ultra Maxi Dress,dresses,248.5,248.5,0.0,luxury,none,True,0.0
+2025-12-10,AZ-AJZ0ZO,Relaxed Shirt Dress,dresses,212.37,169.9,20.0,luxury,small,True,42.47
+2025-12-10,AZ-F986IF,Modern Midi Dress,dresses,244.8,244.8,0.0,luxury,none,True,0.0
+2025-12-10,AZ-SHM1VN,Effortless Slip Dress,dresses,188.03,188.03,0.0,premium,none,True,0.0
+2025-12-10,AZ-LYAMH8,Super Wrap Dress,dresses,165.41,148.87,10.0,premium,small,True,16.54
+2025-12-10,AZ-POAXHG,Modern Bodycon Dress,dresses,81.79,81.79,0.0,mid-range,none,True,0.0
+2025-12-10,AZ-7YEXY4,Super Sweater Dress,dresses,85.27,85.27,0.0,mid-range,none,True,0.0
+2025-12-10,AZ-LLCOZK,Classic Slip Dress,dresses,216.21,216.21,0.0,luxury,none,False,0.0
+2025-12-10,AZ-NB4G6M,Essential Mini Dress,dresses,206.95,206.95,0.0,luxury,none,True,0.0
+2025-12-10,AZ-Z33OUA,Signature Maxi Dress,dresses,230.52,230.52,0.0,luxury,none,True,0.0
+2025-12-10,AZ-H0LQ9Q,Super Maxi Dress,dresses,225.44,157.81,30.0,luxury,medium,True,67.63
+2025-12-10,AZ-7S6ZGN,Effortless Sweater Dress,dresses,226.85,204.16,10.0,luxury,small,True,22.69
+2025-12-10,AZ-D0C84T,Classic Sweater Dress,dresses,197.89,158.31,20.0,premium,small,True,39.58
+2025-12-10,AZ-LK9DVW,Classic Bodycon Dress,dresses,159.47,159.47,0.0,premium,none,True,0.0
+2025-12-10,AZ-RHMZPZ,Relaxed Wrap Dress,dresses,173.75,173.75,0.0,premium,none,True,0.0
+2025-12-10,AZ-WDD2YU,Ultra Mini Dress,dresses,131.05,131.05,0.0,premium,none,True,0.0
+2025-12-10,AZ-WAIU5G,Signature Midi Dress,dresses,198.46,198.46,0.0,premium,none,True,0.0
+2025-12-10,AZ-1467MT,Essential Sweater Dress,dresses,183.82,165.44,10.0,premium,small,True,18.38
+2025-12-10,AZ-1PZFRS,Signature Bodycon Dress,dresses,208.24,166.59,20.0,luxury,small,True,41.65
+2025-12-10,AZ-X4C5QA,Essential Wrap Dress,dresses,204.64,163.71,20.0,luxury,small,True,40.93
+2025-12-10,AZ-68SOH5,Relaxed Wrap Dress,dresses,182.86,182.86,0.0,premium,none,True,0.0
+2025-12-10,AZ-E8UEYA,Ultra Bodycon Dress,dresses,104.16,93.74,10.0,premium,small,True,10.42
+2025-12-10,AZ-N3121J,Relaxed Mini Dress,dresses,199.49,159.59,20.0,premium,small,True,39.9
+2025-12-10,AZ-B3E189,Signature Sweater Dress,dresses,112.35,78.64,30.0,premium,medium,True,33.71
+2025-12-10,AZ-48CWV6,Ultra Midi Dress,dresses,231.85,231.85,0.0,luxury,none,True,0.0
+2025-12-10,AZ-I0RAW6,Ultra Wrap Dress,dresses,221.91,155.34,30.0,luxury,medium,True,66.57
+2025-12-10,AZ-1W3ZPN,Modern Wrap Dress,dresses,238.34,238.34,0.0,luxury,none,True,0.0
+2025-12-10,AZ-SFDS4G,Classic Sweater Dress,dresses,159.68,159.68,0.0,premium,none,True,0.0
+2025-12-10,AZ-OO5U97,Signature Midi Dress,dresses,146.5,146.5,0.0,premium,none,True,0.0
+2025-12-10,AZ-M628SD,Effortless Shirt Dress,dresses,133.15,133.15,0.0,premium,none,True,0.0
+2025-12-10,AZ-NDMO21,Modern Shirt Dress,dresses,172.6,172.6,0.0,premium,none,True,0.0
+2025-12-10,AZ-1QD320,Signature Maxi Dress,dresses,241.71,193.37,20.0,luxury,small,True,48.34
+2025-12-10,AZ-5B6PRW,Essential Slip Dress,dresses,211.24,211.24,0.0,luxury,none,True,0.0
+2025-12-10,AZ-XLN1X8,Super Maxi Dress,dresses,197.39,157.91,20.0,premium,small,False,39.48
+2025-12-10,AZ-SNGSRF,Super Hoodie,tops,73.22,73.22,0.0,mid-range,none,True,0.0
+2025-12-10,AZ-OV99KM,Signature Turtleneck,tops,56.86,39.8,30.0,mid-range,medium,True,17.06
+2025-12-10,AZ-WEMHAV,Classic Blouse,tops,96.12,96.12,0.0,mid-range,none,True,0.0
+2025-12-10,AZ-WGNJNH,Ultra Henley Top,tops,58.83,41.18,30.0,mid-range,medium,True,17.65
+2025-12-10,AZ-4P7M5Q,Contour Cropped Tank,tops,54.64,54.64,0.0,mid-range,none,True,0.0
+2025-12-10,AZ-MSSHSZ,Essential Sweater,tops,58.9,58.9,0.0,mid-range,none,True,0.0
+2025-12-10,AZ-S3NW8R,Classic Henley Top,tops,74.29,59.43,20.0,mid-range,small,True,14.86
+2025-12-10,AZ-17MNEJ,Contour Oversized Tee,tops,80.56,80.56,0.0,mid-range,none,True,0.0
+2025-12-10,AZ-0MYVHK,Essential Blouse,tops,96.32,77.06,20.0,mid-range,small,False,19.26
+2025-12-10,AZ-C7JWOB,Relaxed Bodysuit,tops,68.56,68.56,0.0,mid-range,none,True,0.0
+2025-12-10,AZ-OQL21A,Super Henley Top,tops,45.19,45.19,0.0,budget,none,True,0.0
+2025-12-10,AZ-0TXYWL,Relaxed Sweater,tops,44.78,44.78,0.0,budget,none,True,0.0
+2025-12-10,AZ-DWZOUE,Essential Henley Top,tops,86.68,69.34,20.0,mid-range,small,True,17.34
+2025-12-10,AZ-XP9XDI,Relaxed Cropped Tank,tops,55.37,55.37,0.0,mid-range,none,False,0.0
+2025-12-10,AZ-75EQYO,Refined Henley Top,tops,87.43,87.43,0.0,mid-range,none,True,0.0
+2025-12-10,AZ-WGDPHC,Relaxed Bodysuit,tops,65.65,65.65,0.0,mid-range,none,True,0.0
+2025-12-10,AZ-YC6LEI,Relaxed Bodysuit,tops,81.98,73.78,10.0,mid-range,small,True,8.2
+2025-12-10,AZ-A1946R,Essential Henley Top,tops,97.04,97.04,0.0,mid-range,none,True,0.0
+2025-12-10,AZ-KC2U2R,Modern Turtleneck,tops,80.76,80.76,0.0,mid-range,none,False,0.0
+2025-12-10,AZ-AT3IC1,Super Blouse,tops,96.7,67.69,30.0,mid-range,medium,True,29.01
+2025-12-10,AZ-NHES7S,Relaxed Hoodie,tops,77.55,54.28,30.0,mid-range,medium,True,23.27
+2025-12-10,AZ-7QGPNC,Effortless Sweater,tops,105.83,74.08,30.0,premium,medium,True,31.75
+2025-12-10,AZ-GA8E9T,Signature Oversized Tee,tops,114.58,114.58,0.0,premium,none,True,0.0
+2025-12-10,AZ-9FA9F3,Modern Sweater,tops,63.67,63.67,0.0,mid-range,none,True,0.0
+2025-12-10,AZ-HYJ0TN,Contour Blouse,tops,68.65,68.65,0.0,mid-range,none,True,0.0
+2025-12-10,AZ-HGK4SA,Modern Blouse,tops,67.64,47.35,30.0,mid-range,medium,True,20.29
+2025-12-10,AZ-F98LT2,Refined Sweater,tops,113.36,79.35,30.0,premium,medium,True,34.01
+2025-12-10,AZ-1NDUUI,Super Hoodie,tops,118.59,118.59,0.0,premium,none,False,0.0
+2025-12-10,AZ-R5JD8H,Super Sweater,tops,40.82,40.82,0.0,budget,none,True,0.0
+2025-12-10,AZ-M9JLMA,Refined Turtleneck,tops,75.78,68.2,10.0,mid-range,small,True,7.58
+2025-12-10,AZ-78BVPP,Refined Hoodie,tops,98.56,49.28,50.0,mid-range,large,True,49.28
+2025-12-10,AZ-B7075J,Essential Cropped Tank,tops,81.35,65.08,20.0,mid-range,small,True,16.27
+2025-12-10,AZ-0ZRUBY,Contour Cropped Tank,tops,87.89,87.89,0.0,mid-range,none,True,0.0
+2025-12-10,AZ-Z0ASRZ,Super Culottes,pants,66.08,52.86,20.0,mid-range,small,True,13.22
+2025-12-10,AZ-5Y29E0,Modern Culottes,pants,173.31,173.31,0.0,premium,none,True,0.0
+2025-12-10,AZ-AJH0GY,Ultra Wide Leg Pants,pants,139.69,83.81,40.0,premium,medium,True,55.88
+2025-12-10,AZ-J5CY1G,Ultra Leggings,pants,139.73,139.73,0.0,premium,none,True,0.0
+2025-12-10,AZ-2RCA6W,Relaxed Dress Pants,pants,171.31,171.31,0.0,premium,none,True,0.0
+2025-12-10,AZ-T81FOS,Super Leggings,pants,106.34,106.34,0.0,premium,none,True,0.0
+2025-12-10,AZ-GOBGBX,Classic Leggings,pants,138.85,83.31,40.0,premium,medium,True,55.54
+2025-12-10,AZ-3AV2LR,Modern Shorts,pants,100.47,100.47,0.0,premium,none,True,0.0
+2025-12-10,AZ-MW10M4,Relaxed Dress Pants,pants,131.19,118.07,10.0,premium,small,False,13.12
+2025-12-10,AZ-NLZJZN,Modern Jeans,pants,124.46,99.57,20.0,premium,small,True,24.89
+2025-12-10,AZ-CBPMFC,Ultra Shorts,pants,90.98,90.98,0.0,mid-range,none,True,0.0
+2025-12-10,AZ-WKGB79,Classic Wide Leg Pants,pants,115.73,92.58,20.0,premium,small,False,23.15
+2025-12-10,AZ-BZEIEA,Contour Joggers,pants,144.64,144.64,0.0,premium,none,True,0.0
+2025-12-10,AZ-WDU4HN,Refined Cargo Pants,pants,154.39,138.95,10.0,premium,small,True,15.44
+2025-12-10,AZ-ZUQNC8,Essential Leggings,pants,123.76,99.01,20.0,premium,small,False,24.75
+2025-12-10,AZ-E8GV8Q,Classic Leggings,pants,163.72,163.72,0.0,premium,none,True,0.0
+2025-12-10,AZ-8SV1D4,Modern Culottes,pants,133.46,133.46,0.0,premium,none,True,0.0
+2025-12-10,AZ-72RS88,Relaxed Dress Pants,pants,62.34,43.64,30.0,mid-range,medium,True,18.7
+2025-12-10,AZ-NVDXM6,Relaxed Cargo Pants,pants,79.07,79.07,0.0,mid-range,none,True,0.0
+2025-12-10,AZ-KFUER1,Modern Joggers,pants,140.9,126.81,10.0,premium,small,True,14.09
+2025-12-10,AZ-A3CB79,Effortless Dress Pants,pants,127.03,127.03,0.0,premium,none,True,0.0
+2025-12-10,AZ-PBT88K,Signature Wide Leg Pants,pants,123.49,74.09,40.0,premium,medium,True,49.4
+2025-12-10,AZ-E44XUS,Refined Culottes,pants,151.5,151.5,0.0,premium,none,True,0.0
+2025-12-10,AZ-IOGNEF,Essential Wide Leg Pants,pants,111.58,89.26,20.0,premium,small,True,22.32
+2025-12-10,AZ-202AM9,Modern Jeans,pants,74.45,67.01,10.0,mid-range,small,True,7.44
+2025-12-10,AZ-IL8LFA,Ultra Wide Leg Pants,pants,125.6,75.36,40.0,premium,medium,True,50.24
+2025-12-10,AZ-8WFEXR,Effortless Dress Pants,pants,94.27,65.99,30.0,mid-range,medium,True,28.28
+2025-12-10,AZ-GD95EM,Modern Wide Leg Pants,pants,167.09,150.38,10.0,premium,small,True,16.71
+2025-12-10,AZ-VH54KI,Super Wide Leg Pants,pants,147.23,147.23,0.0,premium,none,True,0.0
+2025-12-10,AZ-425SPA,Refined Jeans,pants,98.46,78.77,20.0,mid-range,small,True,19.69
+2025-12-10,AZ-PYJN1T,Signature Shorts,pants,126.37,126.37,0.0,premium,none,True,0.0
+2025-12-10,AZ-FE23LH,Refined Jeans,pants,145.82,131.24,10.0,premium,small,True,14.58
+2025-12-10,AZ-TJWUCW,Relaxed Dress Pants,pants,121.3,109.17,10.0,premium,small,True,12.13
+2025-12-10,AZ-71P5AB,Effortless Culottes,pants,177.0,177.0,0.0,premium,none,True,0.0
+2025-12-10,AZ-AE97L6,Ultra Joggers,pants,176.29,176.29,0.0,premium,none,True,0.0
+2025-12-10,AZ-7K0VIE,Essential Leggings,pants,100.85,80.68,20.0,premium,small,True,20.17
+2025-12-10,AZ-XPZODM,Refined Shorts,pants,173.05,155.75,10.0,premium,small,True,17.3
+2025-12-10,AZ-I1O3WX,Relaxed Cargo Pants,pants,131.46,78.88,40.0,premium,medium,True,52.58
+2025-12-10,AZ-KC5PQZ,Super Wide Leg Pants,pants,144.32,115.46,20.0,premium,small,True,28.86
+2025-12-10,AZ-P70LO8,Signature Joggers,pants,112.0,112.0,0.0,premium,none,True,0.0
+2025-12-10,AZ-E9MGTC,Modern Jeans,pants,87.3,87.3,0.0,mid-range,none,True,0.0
+2025-12-10,AZ-C7WODD,Effortless Hat,accessories,80.79,72.71,10.0,mid-range,small,False,8.08
+2025-12-10,AZ-WURW5A,Modern Hair Clip,accessories,98.22,68.75,30.0,mid-range,medium,False,29.47
+2025-12-10,AZ-E9LAO6,Essential Sunglasses,accessories,81.48,40.74,50.0,mid-range,large,True,40.74
+2025-12-10,AZ-EVJU4R,Signature Headband,accessories,86.22,60.35,30.0,mid-range,medium,True,25.87
+2025-12-10,AZ-FUCTDF,Effortless Hair Clip,accessories,29.42,29.42,0.0,budget,none,True,0.0
+2025-12-10,AZ-KCG3CJ,Essential Hair Clip,accessories,76.13,53.29,30.0,mid-range,medium,True,22.84
+2025-12-10,AZ-N86BXM,Essential Headband,accessories,79.32,63.46,20.0,mid-range,small,True,15.86
+2025-12-10,AZ-JIQY8B,Contour Headband,accessories,37.5,37.5,0.0,budget,none,True,0.0
+2025-12-10,AZ-W4H1OS,Modern Sunglasses,accessories,76.34,45.8,40.0,mid-range,medium,True,30.54
+2025-12-10,AZ-HFTOSS,Classic Jewelry Set,accessories,45.84,45.84,0.0,budget,none,True,0.0
+2025-12-10,AZ-B7HI61,Modern Hat,accessories,26.43,26.43,0.0,budget,none,False,0.0
+2025-12-10,AZ-FPSVS3,Relaxed Hat,accessories,45.48,36.38,20.0,budget,small,True,9.1
+2025-12-10,AZ-2F9BFY,Signature Bag,accessories,40.78,40.78,0.0,budget,none,True,0.0
+2025-12-10,AZ-BVWEH8,Refined Belt,accessories,51.22,51.22,0.0,mid-range,none,False,0.0
+2025-12-10,AZ-HU1Z3D,Refined Jewelry Set,accessories,45.53,45.53,0.0,budget,none,True,0.0
+2025-12-10,AZ-A81IVU,Refined Hat,accessories,80.93,80.93,0.0,mid-range,none,True,0.0
+2025-12-10,AZ-LZ5CBM,Essential Hair Clip,accessories,44.71,44.71,0.0,budget,none,True,0.0
+2025-12-10,AZ-A12L8Y,Contour Jewelry Set,accessories,41.81,29.27,30.0,budget,medium,True,12.54
+2025-12-10,AZ-6TW7MY,Refined Sunglasses,accessories,82.38,57.67,30.0,mid-range,medium,False,24.71
+2025-12-10,AZ-PI3PY8,Essential Hair Clip,accessories,60.78,60.78,0.0,mid-range,none,True,0.0
+2025-12-10,AZ-NASZMH,Super Jewelry Set,accessories,55.8,27.9,50.0,mid-range,large,False,27.9
+2025-12-10,AZ-1WGBGR,Signature Scarf,accessories,92.6,55.56,40.0,mid-range,medium,True,37.04
+2025-12-10,AZ-EDMYVK,Super Headband,accessories,70.53,42.32,40.0,mid-range,medium,False,28.21
+2025-12-10,AZ-JBYLSP,Classic Hair Clip,accessories,49.47,49.47,0.0,budget,none,True,0.0
+2025-12-10,AZ-CKWSHA,Effortless Sunglasses,accessories,92.5,92.5,0.0,mid-range,none,True,0.0
+2025-12-10,AZ-JA6L32,Refined Belt,accessories,55.4,38.78,30.0,mid-range,medium,True,16.62
+2025-12-10,AZ-TQRXOQ,Classic Hair Clip,accessories,56.52,56.52,0.0,mid-range,none,True,0.0
+2025-12-10,AZ-4FBQ56,Classic Belt,accessories,70.02,56.02,20.0,mid-range,small,True,14.0
+2025-12-10,AZ-FANQOE,Ultra Headband,accessories,35.19,35.19,0.0,budget,none,True,0.0
+2025-12-10,AZ-L3BSN8,Relaxed Hair Clip,accessories,82.33,57.63,30.0,mid-range,medium,True,24.7
+2025-12-10,AZ-TLHNOT,Essential Bag,accessories,41.04,24.62,40.0,budget,medium,True,16.42
+2025-12-10,AZ-ROMFTN,Contour Sunglasses,accessories,57.45,40.21,30.0,mid-range,medium,True,17.24
+2025-12-10,AZ-PH9VU8,Modern Belt,accessories,61.79,43.25,30.0,mid-range,medium,True,18.54
+2025-12-10,AZ-S0DXGK,Refined Hair Clip,accessories,70.16,70.16,0.0,mid-range,none,True,0.0
+2025-12-10,AZ-JLA1RE,Ultra Bag,accessories,27.36,21.89,20.0,budget,small,False,5.47
+2025-12-10,AZ-N2KUSL,Effortless Scarf,accessories,73.8,66.42,10.0,mid-range,small,True,7.38
+2025-12-10,AZ-JZCOL0,Ultra Belt,accessories,77.21,69.49,10.0,mid-range,small,True,7.72
+2025-12-10,AZ-T90ND8,Effortless Jewelry Set,accessories,58.4,58.4,0.0,mid-range,none,True,0.0
+2025-12-10,AZ-PSZV9U,Super Belt,accessories,53.02,37.11,30.0,mid-range,medium,False,15.91
+2025-12-10,AZ-IO96GV,Contour Belt,accessories,57.34,57.34,0.0,mid-range,none,False,0.0
+2025-12-10,AZ-2YGPEE,Super Hair Clip,accessories,64.58,64.58,0.0,mid-range,none,True,0.0
+2025-12-10,AZ-QILOOS,Signature Headband,accessories,77.59,54.31,30.0,mid-range,medium,True,23.28
+2025-12-10,AZ-UBS5JY,Refined Hair Clip,accessories,65.32,65.32,0.0,mid-range,none,True,0.0
+2025-12-10,AZ-4V1J0I,Classic Jewelry Set,accessories,29.08,29.08,0.0,budget,none,True,0.0
+2025-12-10,AZ-KTSPA3,Super Hair Clip,accessories,98.24,98.24,0.0,mid-range,none,True,0.0
+2025-12-10,AZ-OTM4FQ,Ultra Bag,accessories,73.07,73.07,0.0,mid-range,none,True,0.0
+2025-12-10,AZ-XL8N6Y,Relaxed Bag,accessories,76.2,68.58,10.0,mid-range,small,False,7.62
+2025-12-10,AZ-AY7TAG,Effortless Jewelry Set,accessories,55.32,38.72,30.0,mid-range,medium,True,16.6
